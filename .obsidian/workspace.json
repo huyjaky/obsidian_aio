@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Syntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +175,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca38ef81c70ecede",
+  "active": "a754a20cb6664c31",
   "lastOpenFiles": [
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
