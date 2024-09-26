@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d7e1aee1aa808e",
+        "id": "d90137adf5d067cf",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6e90b3186980e7",
+            "id": "8f27ef56e0335137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
             }
           }
         ]
@@ -147,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6e90b3186980e7",
+  "active": "8f27ef56e0335137",
   "lastOpenFiles": [
     "Papers/Deep labller dts.pdf",
     "BaoCao.md",
