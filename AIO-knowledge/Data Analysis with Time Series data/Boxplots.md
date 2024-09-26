@@ -6,7 +6,7 @@ Biểu đồ boxplot, còn gọi là **box-and-whisker plot**, là một cách c
 ## Các thành phần của Boxplot
 
 1. **Box**: Hộp (box) đại diện cho **interquartile range** (IQR), là khoảng cách giữa **first quartile** (Q1, phân vị thứ 25) và **third quartile** (Q3, phân vị thứ 75). Nó bao gồm 50% dữ liệu nằm giữa.
-
+![[Pasted image 20240926121734.png]]
    
    - **Q1 (First Quartile)**: 25% các giá trị dữ liệu nằm dưới giá trị này.
    - **Median**: Đường bên trong hộp biểu diễn giá trị trung vị (phân vị thứ 50). Một nửa số dữ liệu nằm dưới giá trị này.
