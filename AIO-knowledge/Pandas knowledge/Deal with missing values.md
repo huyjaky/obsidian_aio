@@ -5,3 +5,5 @@
 data.drop(’Metascore’, axis=1).head()
 ```
 
+
+Đối với xóa hàng, ta dùng:
