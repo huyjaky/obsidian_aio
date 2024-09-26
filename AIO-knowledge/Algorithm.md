@@ -1,2 +1,4 @@
+#Codes #Knowledge 
 List Algorithm:
-1. 
+1. [[KNN]]
+2. [[K-Means]]
