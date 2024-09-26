@@ -4,4 +4,8 @@ Video must watch:
 Knowledge usually use:
 1. [[Data Selection – Based on Conditional filtering]]
 2. [[Groupby Operations]]
-3. sort
+3. [[Sorting]]
+4. [[Deal with missing values]]
+5. [[Data Selection – Based on Conditional filtering]]
+6. apply syntax 
+7. 

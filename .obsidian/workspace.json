@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "f0d7085da1ca98be",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3ee0b61d152d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfa9bd77575fd46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bea552249ddf4359",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5c7658e3bd5584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66069a5e230b662",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a754a20cb6664c31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca38ef81c70ecede",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.50043487548828
+  },
+  "right": {
+    "id": "00811096a64b6a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a5ed2136ce68a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98901b5dd150aa9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a695a0f736fcf512",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f771fffb0a38f76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a23d946f402c4126",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fd31be920c216e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f3cbedfe0a1cb84",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35d00b54cf47f355",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "ebfa9bd77575fd46",
+  "lastOpenFiles": [
+    "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
+    "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+    "AIO-knowledge/Pandas knowledge",
+    "Attachments",
+    "Pasted image 20240926112024.png",
+    "Pasted image 20240926112106.png",
+    "AIO-knowledge",
+    "AIO-homework",
+    "Untitled.canvas",
+    "2024-09-26.md",
+    "Welcome.md",
+    "Papers/Deep labller dts.pdf",
+    "BaoCao.md",
+    "TrienKHai.canvas"
+  ]
+}
