@@ -4,3 +4,4 @@ truy cập website trong ngày, tổng doanh thu trong tháng... Dữ liệu tim
 khoảng cách không đều, ví dụ như số lượng cuộc gọi khẩn cấp trong ngày hoặc nhật ký hệ thống.
 
 ![[Pasted image 20240926114955.png]]
+

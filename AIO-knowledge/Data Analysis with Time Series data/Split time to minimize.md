@@ -1,5 +1,5 @@
 ![[Pasted image 20240926120331.png]]
-split date to year, month, weekday name column
+<font color="#f79646">split date to year, month, weekday name column</font>
 
 ```Python
 import pandas as pd

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
               }
             }
           }
@@ -189,9 +189,9 @@
   },
   "active": "4c37dc60a9739a2c",
   "lastOpenFiles": [
+    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "Attachments/Pasted image 20240926120331.png",
     "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "AIO-knowledge/Data Analysis with Time Series data",
     "Readme.md",
     "AIO-knowledge/Pandas.md",
