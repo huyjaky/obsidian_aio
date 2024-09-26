@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md"
               }
             }
           }
@@ -176,9 +176,10 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "Attachments/Pasted image 20240926120331.png",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Data Analysis with Time Series data",
     "Readme.md",
     "AIO-knowledge/Pandas.md",
