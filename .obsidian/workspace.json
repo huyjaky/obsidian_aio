@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "AIO-knowledge/Pandas.md"
               }
             }
           }
@@ -189,12 +189,12 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Numpy.md",
     "Attachments/Pasted image 20240926170242.png",
     "AIO-knowledge/Numpy knowledge",
     "AIO-knowledge/Untitled.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm.md",
     "Attachments/Codes/k-means.py",
     "Attachments/Codes",
