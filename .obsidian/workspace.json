@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20240926164105.png",
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20240926164105.png",
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20240926164105.png"
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           }
@@ -185,10 +184,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b164d2f8c9e39517",
+  "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "Attachments/Pasted image 20240926164105.png",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data.md",
