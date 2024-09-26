@@ -3,3 +3,4 @@ Một số dữ liệu time series được phân bố theo tần suất nhất 
 truy cập website trong ngày, tổng doanh thu trong tháng... Dữ liệu time series cũng có thể phân bố với
 khoảng cách không đều, ví dụ như số lượng cuộc gọi khẩn cấp trong ngày hoặc nhật ký hệ thống.
 
+![[Pasted image 20240926114955.png]]
