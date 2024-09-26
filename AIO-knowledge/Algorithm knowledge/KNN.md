@@ -10,3 +10,7 @@ Một số độ đo thường được sử dụng trong KNN như:
 4. Minkowski
 
 Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ liệu khác được lưu trữ trong mô hình huấn luyện. Từ đó xếp hạng và tìm ra **K** điểm dữ liệu huấn luyện có kết quả gần với dữ liệu dự đoán nhất. Cuối cùng dựa vào phương pháp biểu quyết của các dữ liệu hàng xóm trong tập huấn luyện để đưa ra kết quả dự đoán.
+
+![[Pasted image 20240926164105.png]]
+
+Knn classifier != knn regression because its 
