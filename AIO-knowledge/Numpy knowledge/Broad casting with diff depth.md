@@ -11,4 +11,5 @@ print(distances.shape)
 
 ![[Pasted image 20240926170242.png]]
 
-its broadcasting 1 line from 32,4 -> 32,1,4 by data[:,np.newaxis,;]
+its broadcasting 1 line from 32,4 -> 32,1,4 by data[:,np.newaxis,:] np.newaxis used for add one dimension on matrix its make matrix like this
+[]
