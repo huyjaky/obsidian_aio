@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b164d2f8c9e39517",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20240926164105.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
+                "file": "Attachments/Pasted image 20240926164105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
+                "file": "Attachments/Pasted image 20240926164105.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md"
+                "file": "Attachments/Pasted image 20240926164105.png"
               }
             }
           }
@@ -174,11 +185,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "b164d2f8c9e39517",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm.md",
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
