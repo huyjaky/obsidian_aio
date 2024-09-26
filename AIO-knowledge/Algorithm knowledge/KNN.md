@@ -13,4 +13,4 @@ Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ 
 
 ![[Pasted image 20240926164105.png]]
 
-Knn classifier != knn regression because its 
+Knn classifier != knn regression because knn regression is used for predicting the new value. opposite, knn classifier i
