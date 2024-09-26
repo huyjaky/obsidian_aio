@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50043487548828
+    "width": 252.00260543823242
   },
   "right": {
     "id": "00811096a64b6a17",
@@ -186,16 +186,16 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
+    "Readme.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/k-means.py",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
-    "Readme.md",
     "2024-09-26.md",
     "Untitled.canvas",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
