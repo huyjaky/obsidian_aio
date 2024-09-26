@@ -11,12 +11,8 @@
             "id": "eb6dcc93d2364658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +158,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb6dcc93d2364658",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
+    "Untitled",
     "Welcome.md",
     "Papers/Deep labller dts.pdf",
     "BaoCao.md",
