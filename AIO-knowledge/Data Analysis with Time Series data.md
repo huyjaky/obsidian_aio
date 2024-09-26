@@ -6,5 +6,7 @@ khoảng cách không đều, ví dụ như số lượng cuộc gọi khẩn c�
 ![[Pasted image 20240926114955.png]]
 
 ## Knowledge must know:
-[[Split time to minimize]]
-[[Boxplots]]
+1. [[Split time to minimize]]
+2. [[Boxplots]]
+3. [[Resampling]]
+
