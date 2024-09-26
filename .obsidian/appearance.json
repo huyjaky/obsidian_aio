@@ -1,4 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#fcfcfc"
+  "accentColor": "#fcfcfc",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "VictorMono Nerd Font Mono"
 }
