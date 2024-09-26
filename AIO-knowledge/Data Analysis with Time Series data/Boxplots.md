@@ -1,11 +1,12 @@
 # Cách đọc biểu đồ Boxplot
 
 Biểu đồ boxplot, còn gọi là **box-and-whisker plot**, là một cách chuẩn hóa để hiển thị phân phối của dữ liệu dựa trên năm thống kê tóm tắt chính: giá trị nhỏ nhất (minimum), **first quartile** (Q1), **median**, **third quartile** (Q3), và giá trị lớn nhất (maximum). Nó giúp nhận diện các outlier và hiểu được độ phân tán và độ lệch của tập dữ liệu.
-
+![[Pasted image 20240926120930.png]]
 
 ## Các thành phần của Boxplot
 
 1. **Box**: Hộp (box) đại diện cho **interquartile range** (IQR), là khoảng cách giữa **first quartile** (Q1, phân vị thứ 25) và **third quartile** (Q3, phân vị thứ 75). Nó bao gồm 50% dữ liệu nằm giữa.
+
    
    - **Q1 (First Quartile)**: 25% các giá trị dữ liệu nằm dưới giá trị này.
    - **Median**: Đường bên trong hộp biểu diễn giá trị trung vị (phân vị thứ 50). Một nửa số dữ liệu nằm dưới giá trị này.
