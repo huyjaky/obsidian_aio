@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Pandas knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Pandas knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Pandas knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Pandas knowledge/Untitled.md"
+                "file": "AIO-knowledge/Pandas knowledge/Deal with missing values.md"
               }
             }
           }
@@ -176,8 +176,9 @@
   },
   "active": "de63f075ceff6ec7",
   "lastOpenFiles": [
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Pandas knowledge/Untitled.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
     "AIO-knowledge/Pandas knowledge",
