@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/KNN.md"
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           }
@@ -186,8 +186,9 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
+    "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data.md",
