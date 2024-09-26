@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d90137adf5d067cf",
+        "id": "47c34124cd619d65",
         "type": "tabs",
         "children": [
           {
-            "id": "8f27ef56e0335137",
+            "id": "eb6dcc93d2364658",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
-                "staged": true
+                "staged": false
               }
             }
           }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.50043487548828
   },
   "right": {
     "id": "00811096a64b6a17",
@@ -106,6 +106,14 @@
             }
           },
           {
+            "id": "3f771fffb0a38f76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "a23d946f402c4126",
             "type": "leaf",
             "state": {
@@ -125,19 +133,19 @@
             }
           },
           {
-            "id": "3f771fffb0a38f76",
+            "id": "5fd31be920c216e5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "git-history-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f27ef56e0335137",
+  "active": "3f771fffb0a38f76",
   "lastOpenFiles": [
+    "Welcome.md",
     "Papers/Deep labller dts.pdf",
     "BaoCao.md",
     "TrienKHai.canvas"
