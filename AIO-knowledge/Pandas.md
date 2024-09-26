@@ -4,3 +4,4 @@ Video must watch:
 Knowledge usually use:
 1. [[Data Selection – Based on Conditional filtering]]
 2. [[Groupby Operations]]
+3. sort
