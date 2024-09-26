@@ -7,3 +7,4 @@ khoảng cách không đều, ví dụ như số lượng cuộc gọi khẩn c�
 
 ## Knowledge must know:
 [[Split time to minimize]]
+[[Boxplots]]
