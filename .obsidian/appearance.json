@@ -5,5 +5,6 @@
   "textFontFamily": "VictorMono Nerd Font",
   "baseFontSize": 20,
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "VictorMono Nerd Font Mono"
+  "monospaceFontFamily": "VictorMono Nerd Font Mono",
+  "nativeMenus": false
 }
