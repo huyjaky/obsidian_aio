@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Syntax",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Pandas.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,10 +174,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a754a20cb6664c31",
+  "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
