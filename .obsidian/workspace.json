@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Untitled.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Untitled.md"
+                "file": "AIO-knowledge/Pandas.md"
               }
             }
           }
@@ -174,10 +175,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "ca38ef81c70ecede",
   "lastOpenFiles": [
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
