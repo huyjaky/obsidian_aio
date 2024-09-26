@@ -27,3 +27,30 @@ Quy trình cơ bản của K-Means bao gồm các bước sau:
 4. **Lặp lại**: Lặp lại quá trình gán nhãn và cập nhật tâm cụm cho đến khi các tâm cụm không còn thay đổi đáng kể hoặc đạt đến số lần lặp tối đa.
 
 Thuật toán K-Means có độ phức tạp thời gian là \(O(n \times k \times t \times m)\), trong đó t là số lần lặp và m là số chiều của dữ liệu. K-Means thường được sử dụng vì tính đơn giản và hiệu quả cao trong việc phân cụm dữ liệu lớn, mặc dù nó có thể không tìm được nghiệm tối ưu toàn cục (global optimization) do phụ thuộc vào việc khởi tạo các tâm cụm ban đầu.
+
+```Python
+import numpy as np
+
+X = np.array([1.4, 1, 1.5, 3.1, 3.8, 4.1]).reshape(-1, 1)  # init data
+
+# 1. random init centroid 
+k = 2
+C = X[:k].reshape(1, -1)
+
+while True:
+    # 2. find distance from C and X
+    DISTANCE = np.abs(X - C)
+    # 3. find index belong to k clasifier
+    INDEX = np.argmin(DISTANCE, axis=1)  # -> [1,0,1,0,0 ...]
+    # 4. find new C with mean C old
+    C_NEW = np.array(
+        [X[INDEX == i].mean() for i in np.unique(INDEX)]
+    )  # -> get unique object in INDEX arr
+        
+    # dont need give iter number beacause centroid dont change anymore
+    if np.all(C_NEW == C):
+        break
+    C = C_NEW
+
+print(C)
+```
