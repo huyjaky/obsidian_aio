@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md"
+                "file": "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
