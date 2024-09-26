@@ -10,17 +10,17 @@ Quy trình cơ bản của K-Means bao gồm các bước sau:
 
 2. **Gán nhãn**: Với mỗi điểm dữ liệu, tính khoảng cách từ điểm đó tới mỗi tâm cụm và gán nó vào cụm có tâm gần nhất. Khoảng cách thường được đo bằng khoảng cách Euclid, được tính như sau:
 
-   \[
-   d(x_i, c_j) = \sqrt{\sum_{l=1}^{m} (x_{il} - c_{jl})^2}
-   \]
+   $$ 
+   d(x_i, c_j) = \sqrt{\sum_{l=1}^{m} (x_{il} - c_{jl})^2} 
+   $$
 
    trong đó, \(x_i\) là điểm dữ liệu, \(c_j\) là tâm cụm, và \(m\) là số chiều của dữ liệu.
 
 3. **Cập nhật tâm cụm**: Sau khi đã gán nhãn cho tất cả các điểm, cập nhật lại vị trí của các tâm cụm bằng cách tính trung bình các điểm dữ liệu trong mỗi cụm:
 
-   \[
+   $$
    c_j = \frac{1}{|C_j|} \sum_{x_i \in C_j} x_i
-   \]
+   $$
 
    trong đó, \(C_j\) là tập hợp các điểm dữ liệu thuộc cụm \(j\).
 
