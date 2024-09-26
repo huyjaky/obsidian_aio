@@ -11,12 +11,8 @@
             "id": "ebfa9bd77575fd46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,13 +168,13 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "Attachments/Pasted image 20240926121901.png",
     "Attachments/Pasted image 20240926121827.png",
     "Attachments/Pasted image 20240926121734.png",
     "Attachments/Pasted image 20240926120930.png",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "Attachments/Pasted image 20240926120331.png",
     "AIO-knowledge/Data Analysis with Time Series data",
