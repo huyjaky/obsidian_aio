@@ -11,7 +11,7 @@
             "id": "de63f075ceff6ec7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -158,8 +158,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de63f075ceff6ec7",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
+    "2024-09-26.md",
     "Untitled",
     "Welcome.md",
     "Papers/Deep labller dts.pdf",
