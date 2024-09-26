@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "accentColor": "#fcfcfc",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "",
   "textFontFamily": "VictorMono Nerd Font",
   "baseFontSize": 20,
   "baseFontSizeAction": true,

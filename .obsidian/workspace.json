@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +165,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de63f075ceff6ec7",
+  "active": "7f3cbedfe0a1cb84",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2024-09-26.md",
