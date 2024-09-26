@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md"
+                "file": "AIO-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           }
@@ -174,12 +174,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
-    "AIO-knowledge/Untitled",
+    "AIO-knowledge/Algorithm.md",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
+    "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "Readme.md",
     "2024-09-26.md",
