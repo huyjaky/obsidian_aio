@@ -128,25 +128,23 @@
             }
           },
           {
-            "id": "280ff3ee27f3d7d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
-            }
-          },
-          {
             "id": "5fd31be920c216e5",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "7f3cbedfe0a1cb84",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
