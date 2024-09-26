@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c37dc60a9739a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO-knowledge/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
+                "file": "AIO-knowledge/Pandas.md"
               }
             }
           }
@@ -174,10 +187,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "4c37dc60a9739a2c",
   "lastOpenFiles": [
-    "AIO-knowledge/Pandas.md",
+    "Readme.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
+    "Untitled",
+    "AIO-knowledge/Pandas.md",
     "Attachments/Pasted image 20240926114955.png",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
