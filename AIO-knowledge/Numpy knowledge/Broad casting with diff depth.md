@@ -8,3 +8,7 @@ print(centroids.shape)
 distances = np.sqrt((data[:, np.newaxis, :] - centroids) ** 2)
 print(distances.shape)
 ```
+
+![[Pasted image 20240926170242.png]]
+
+its broadcasting 1 line from 32,4 -> 32,1,4 by data[:,np.newaxis,;]
