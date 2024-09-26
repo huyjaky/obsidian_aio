@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Resampling.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   },
   "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
+    "Readme.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "2024-09-26.md",
     "Untitled.canvas",
@@ -190,7 +191,6 @@
     "Attachments/Pasted image 20240926120930.png",
     "Attachments/Pasted image 20240926120331.png",
     "AIO-knowledge/Data Analysis with Time Series data",
-    "Readme.md",
     "Untitled",
     "Attachments/Pasted image 20240926114955.png",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
