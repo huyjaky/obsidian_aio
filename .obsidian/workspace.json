@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b164d2f8c9e39517",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20240926164105.png"
-              }
-            }
           }
         ]
       }
@@ -184,8 +174,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
+    "Attachments/Codes/k-means.py",
+    "Attachments/Codes",
     "Readme.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/k-means.py",
