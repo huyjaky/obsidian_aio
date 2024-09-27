@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -217,6 +217,8 @@
   },
   "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/clip.pdf",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "terminology/terminology.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Git/Git.md",
@@ -230,13 +232,11 @@
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Attachments/Pasted image 20240927200220.png",
     "Attachments/Pasted image 20240927195607.png",
     "terminology",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Attachments/Pasted Image 20240927194659_729.png",
-    "Summarize Papers/Clip/clip.pdf",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
@@ -262,7 +262,6 @@
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Untitled.canvas",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
