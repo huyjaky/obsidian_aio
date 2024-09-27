@@ -11,5 +11,6 @@ vậy ta có thể hiểu là một nhà sáng tạo nào đó đã tự hỏi l
 
 ta có thể thấy là khi sử dụng ==CLIP== thì lượng <span style="background:#affad1">aurgmentaion</span> càng lớn thì độ chính xác của [[Zero-shot classifier accuracy]] càng cao
 
-pipline of CLIP
+<span style="background:#b1ffff">pipline of CLIP</span>
 ![[Pasted image 20240927204526.png]]
+
