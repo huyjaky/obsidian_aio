@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md"
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           }
@@ -189,9 +189,9 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
-    "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
