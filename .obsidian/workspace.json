@@ -23,16 +23,6 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
-              }
-            }
-          },
-          {
-            "id": "3af60b3009e94322",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md"
@@ -40,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3af60b3009e94322",
+  "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
     "Summarize Papers/Clip/clip.pdf",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
