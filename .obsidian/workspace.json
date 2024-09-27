@@ -6,6 +6,7 @@
       {
         "id": "0d3ee0b61d152d6e",
         "type": "tabs",
+        "dimension": 57.919254658385086,
         "children": [
           {
             "id": "ebfa9bd77575fd46",
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +39,7 @@
       {
         "id": "09461877d7b69b22",
         "type": "tabs",
+        "dimension": 42.08074534161491,
         "children": [
           {
             "id": "842235c082eef223",
@@ -45,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md"
+                "file": "AIO-knowledge/Pandas.md"
               }
             }
           }
@@ -230,9 +232,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "842235c082eef223",
+  "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Algorithm.md",
+    "AIO-knowledge/Pandas.md",
     "Readme.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Git/Papers/giri2021.pdf",
@@ -277,12 +282,9 @@
     "PDF/Papers/TeamVault/DanhGiaPaper.md",
     "PDF/Papers/TeamVault/BaoCao.md",
     "PDF/Papers/TeamVault/().md",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
-    "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Untitled.md",
-    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "2024-09-26.md",
     "Untitled.canvas",
