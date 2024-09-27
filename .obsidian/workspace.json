@@ -16,8 +16,19 @@
                 "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "d09688257e9bec7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md"
               }
             }
           }
@@ -173,8 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "d09688257e9bec7d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded",
@@ -188,7 +203,6 @@
     "Attachments/Excalidrawlib/forms.excalidrawlib",
     "Attachments/Excalidrawlib/Unconfirmed 430008.crdownload",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
-    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
     "Readme.md",
@@ -217,14 +231,11 @@
     "PDF/Papers/Images/test.png",
     "PDF/Papers/Images/Screenshot 2024-09-02 205647.png",
     "PDF/Papers/Images/Pasted image 20240902220150.png",
-    "PDF/Papers/Images/Pasted image 20240902213427.png",
-    "PDF/Papers/Images/Pasted image 20240902212024.png",
     "PDF/Papers/Phuc/maybe meme.md",
     "PDF/Papers/Phuc/CUE-net.md",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
     "PDF/Papers/Han/Han.md",
     "PDF/Papers/PhuongAnTrienKhai.canvas",
-    "PDF/Papers/().md",
     "PDF/Papers/TeamVault/TrienKHai.canvas",
     "PDF/Papers/TeamVault/PhuongAnTrienKhai.canvas",
     "PDF/Papers/TeamVault/Phuc/CUE-Net canvas.canvas",
