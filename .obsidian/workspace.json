@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot classifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "terminology/Zero-shot classifier.md"
               }
             }
           }
@@ -212,8 +212,8 @@
   },
   "active": "6ee81a8fba1e0a58",
   "lastOpenFiles": [
-    "terminology/Zero-shot.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "terminology/Zero-shot classifier.md",
     "terminology",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Attachments/Pasted Image 20240927194659_729.png",
