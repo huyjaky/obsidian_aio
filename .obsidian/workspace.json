@@ -23,9 +23,11 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/Papers/clip.pdf"
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/Papers/clip.pdf",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/Papers/clip.pdf",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/Papers/clip.pdf"
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           }
@@ -188,8 +190,8 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "PDF/Papers/clip.pdf",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "PDF/Papers",
     "PDF",
     "Readme.md",
