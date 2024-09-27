@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ee81a8fba1e0a58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md"
               }
             }
           }
@@ -198,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05ebb1cda44c7d4d",
+  "active": "6ee81a8fba1e0a58",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/clip.pdf",
     "Readme.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
@@ -243,7 +254,6 @@
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
-    "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "Attachments/Pasted image 20240927083013.png",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",

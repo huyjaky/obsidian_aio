@@ -5,3 +5,4 @@
 
 vậy ta có thể hiểu là một nhà sáng tạo nào đó đã tự hỏi là làm sao để có thể làm ngược lại từ model ==DALL-E== thì ta có một mô hình mới là ==CLIP==:
 
+đầu tiên ta cùng xem qua biểu đồ này
