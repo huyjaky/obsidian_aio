@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -187,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Git/Papers/giri2021.pdf",
     "Git/Papers/clip.pdf",
     "Git/Papers/MobileNetV4.pdf",
@@ -199,7 +200,6 @@
     "Git",
     "PDF/Papers/Papers/giri2021.pdf",
     "PDF/Papers/Papers/clip.pdf",
-    "PDF/Papers/Papers/MobileNetV4.pdf",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
@@ -232,7 +232,6 @@
     "PDF/Papers/TeamVault/DanhGiaPaper.md",
     "PDF/Papers/TeamVault/BaoCao.md",
     "PDF/Papers/TeamVault/().md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Readme.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Numpy.md",
