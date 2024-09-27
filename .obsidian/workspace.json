@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
+                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md"
               }
             }
           }
@@ -188,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Math",
     "AIO-knowledge/Numpy.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
@@ -216,7 +216,6 @@
     "Git/Papers",
     "Git",
     "PDF/Papers/Papers/giri2021.pdf",
-    "PDF/Papers/Papers/clip.pdf",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
