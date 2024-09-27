@@ -15,3 +15,5 @@ ta có thể thấy là khi sử dụng ==CLIP== thì lượng <span style="back
 ![[Pasted image 20240927204526.png]]
 
 ![[Drawing 2024-09-27 21.11.02.excalidraw|800]]
+
+vậy lợi ích ở đây là gì?
