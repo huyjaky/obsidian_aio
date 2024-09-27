@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e4395e5747a1ab2",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
