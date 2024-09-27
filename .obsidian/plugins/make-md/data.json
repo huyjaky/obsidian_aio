@@ -30,7 +30,7 @@
   "syncFormulaToFrontmatter": false,
   "spacesPerformance": false,
   "currentWaypoint": 0,
-  "enableFolderNote": false,
+  "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,

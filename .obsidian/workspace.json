@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Numpy.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "bd90da46820cd3d9",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Pandas.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
@@ -192,7 +194,6 @@
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "terminology/terminology.md",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/AIO-knowledge.md",
     "AIO-homework/AIO-homework.md"
   ]
