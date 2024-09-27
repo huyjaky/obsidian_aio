@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
               }
             }
           }
@@ -188,10 +188,10 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Readme.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
