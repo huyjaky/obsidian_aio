@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
               }
             }
           }
@@ -186,6 +186,10 @@
   },
   "active": "d09688257e9bec7d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
@@ -198,10 +202,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded",
@@ -232,7 +232,6 @@
     "Attachments/Pasted image 20240927083013.png",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
-    "PDF/Papers/Huy/Images/Pasted image 20240815220120.png",
     "PDF/Papers/Huy/Untitled.canvas",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
     "PDF/Papers/PhuongAnTrienKhai.canvas",
