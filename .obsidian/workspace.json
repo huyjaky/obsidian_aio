@@ -35,9 +35,11 @@
             "id": "83c73bba7bf73310",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md"
+                "file": "terminology/Zero-shot classifier accuracy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -128,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.00260543823242,
-    "collapsed": true
+    "width": 252.00260543823242
   },
   "right": {
     "id": "00811096a64b6a17",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md"
+                "file": "terminology/Zero-shot classifier accuracy.md"
               }
             }
           }
@@ -237,8 +238,8 @@
   },
   "active": "83c73bba7bf73310",
   "lastOpenFiles": [
-    "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
+    "terminology/Zero-shot classifier accuracy.md",
     "Attachments/Pasted image 20240927200220.png",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
