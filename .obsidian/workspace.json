@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           }
@@ -182,21 +182,23 @@
   },
   "active": "a1768b96983de6a6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
+    "Excalidraw/Fonts/DFVNBoris/OpenType-PS/DFVN Boris.otf",
+    "Excalidraw/Fonts/DFVNBoris/OpenSource License.rtfd/TXT.rtf",
+    "Excalidraw/Fonts/DFVNBoris/OpenType-PS",
+    "Excalidraw/Fonts/DFVNBoris/OpenSource License.rtfd",
+    "Excalidraw/Fonts/DFVNBoris/Dafontvn.com.url",
+    "Excalidraw/Fonts/DFVNBoris",
+    "Excalidraw/Fonts/DFVNBoris.zip",
+    "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.ttf",
     "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.otf",
     "Excalidraw/Fonts/DFVNRawrote",
-    "Excalidraw/Fonts/DFVNRawrote.zip",
-    "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LƯU Ý.URL",
     "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/FS DrusticDialy-Script.ttf",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/FS DrusticDialy-Script.otf",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/FS DrusticDialy-CondensedItalic.ttf",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/FS DrusticDialy-CondensedItalic.otf",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/FS DrusticDialy-Condensed.ttf",
     "Excalidraw/Fonts/JetBrainsMono/README.md",
     "Excalidraw/Fonts/ComicShannsMono/README.md",
     "Excalidraw/Fonts/ComicShannsMono/LICENSE.md",
@@ -214,8 +216,6 @@
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/AIO-knowledge.md",
     "AIO-knowledge/Algorithm.md",
-    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Readme.md",
     "Attachments/Pasted Image 20240927211903_697.png"
