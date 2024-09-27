@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           },
@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1768b96983de6a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
               }
             }
           }
@@ -170,13 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac07ac2f0a7ee6a1",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "terminology/Zero-shot classifier accuracy.md",
+    "Excalidraw/Fonts",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
     "Summarize Papers/Clip/clip.pdf",
+    "terminology/Zero-shot classifier accuracy.md",
+    "Excalidraw/CLIP pipeline.excalidraw.md",
     "Math/Softmax.md",
-    "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
@@ -200,7 +212,6 @@
     "Git/Git.md",
     "Summarize Papers/Clip/Untitled.md",
     "Attachments/Pasted Image 20240927211903_697.png",
-    "Excalidraw/Drawing 2024-09-27 21.11.25.excalidraw.md",
-    "terminology/terminology.md"
+    "Excalidraw/Drawing 2024-09-27 21.11.25.excalidraw.md"
   ]
 }
