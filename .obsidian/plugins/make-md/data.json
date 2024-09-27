@@ -49,9 +49,8 @@
     "//Summarize Papers/Summarize Papers/Clip",
     "//paper",
     "//terminology",
-    "//AIO-homework",
     "//Summarize Papers",
-    "//Excalidraw"
+    "//AIO-homework"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
