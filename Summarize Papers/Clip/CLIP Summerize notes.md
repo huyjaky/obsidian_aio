@@ -14,5 +14,4 @@ ta có thể thấy là khi sử dụng ==CLIP== thì lượng <span style="back
 <span style="background:#b1ffff">pipline of CLIP</span>
 ![[Pasted image 20240927204526.png]]
 
-
-
+![[Drawing 2024-09-27 21.11.02.excalidraw|800]]
