@@ -1,6 +1,5 @@
 ---
-tag: " "
-tags: ""
+tags: paper
 ---
 đầu tiên là ta phải hiểu CLIP nó bắt nguồn từ ý tưởng nào:
 ==nó bắt nguồn từ ý tưởng về sự ngược lại của model DALL-E== và dùng nó để phân loại label cho các bức ảnh
