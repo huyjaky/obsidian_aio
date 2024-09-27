@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Numpy.md"
+                "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
           }
@@ -186,15 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip",
     "Summarize Papers",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Math",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
