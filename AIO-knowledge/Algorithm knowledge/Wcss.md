@@ -1,24 +1,19 @@
 #Algorithm #Math #Loss
 
-# WCSS in K-Means
+**WCSS** (Within-Cluster Sum of Squares) là một khái niệm trong học máy, cụ thể là trong phương pháp phân cụm (clustering) như **K-Means**. WCSS đo lường độ chênh lệch giữa các điểm dữ liệu trong cùng một cụm và tâm của cụm đó.
 
-**WCSS (Within-Cluster Sum of Squares)** in the **K-Means** algorithm is a metric used to evaluate the compactness of data points within a cluster relative to the cluster centroid. It represents the total squared distance between each data point in a cluster and the centroid of that cluster.
+Nói cách khác, WCSS tính tổng bình phương khoảng cách từ mỗi điểm dữ liệu trong một cụm đến trung tâm cụm. Mục tiêu của K-Means là giảm thiểu WCSS, nghĩa là các điểm dữ liệu trong một cụm sẽ càng gần nhau càng tốt.
 
-Specifically, WCSS is calculated by summing the squared Euclidean distances between each data point and the centroid of the cluster it belongs to. The goal of the K-Means algorithm is to minimize WCSS, meaning that it tries to make data points in each cluster as close to their respective centroid as possible, thereby making the clusters more "compact."
-
-The formula for WCSS for a cluster is as follows:
+Công thức tổng quát của WCSS:
 
 $$
-WCSS = \sum_{x \in C} (x - \mu)^2
+WCSS = \sum_{i=1}^{k} \sum_{x \in C_i} (x - \mu_i)^2
 $$
 
-Where:
-- \( x \) is a data point in cluster \( C \),
-- \( \mu \) is the centroid (mean of the points in the cluster),
-- \( (x - \mu)^2 \) is the squared distance between \( x \) and \( \mu \).
+Trong đó:
+- \(k\) là số lượng cụm.
+- \(C_i\) là cụm thứ \(i\).
+- \(x\) là một điểm dữ liệu trong cụm \(C_i\).
+- \(\mu_i\) là tâm cụm của \(C_i\).
 
-## Meaning of WCSS:
-- The smaller the WCSS, the closer the data points in the cluster are to each other, indicating a "tighter" cluster.
-- In the K-Means algorithm, the **Elbow Method** is often used to choose the optimal number of clusters (k) based on the WCSS plot. As the number of clusters increases, WCSS decreases, but beyond a certain point, the decrease in WCSS becomes less significant. This point is called the "elbow" and is considered the optimal number of clusters.
-
-Hope this helps you better understand WCSS in K-Means!
+Trong thực tế, WCSS thường được sử dụng trong phương pháp **Elbow Method** để xác định số lượng cụm phù hợp cho một bộ dữ liệu khi sử dụng K-Means.
