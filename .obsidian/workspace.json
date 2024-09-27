@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md"
               }
             }
           }
@@ -183,18 +183,26 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
+    "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
+    "AIO-knowledge/Algorithm knowledge/Untitled.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Numpy.md",
-    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Readme.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
     "Attachments/Pasted image 20240927083013.png",
     "Git/Papers/giri2021.pdf",
@@ -235,12 +243,6 @@
     "PDF/Papers/TeamVault/Huy/Untitled.md",
     "PDF/Papers/TeamVault/Huy/Untitled.canvas",
     "PDF/Papers/TeamVault/Han/Han.md",
-    "PDF/Papers/TeamVault/DanhGiaPaper.md",
-    "PDF/Papers/TeamVault/BaoCao.md",
-    "PDF/Papers/TeamVault/().md",
-    "AIO-knowledge/Untitled.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
-    "2024-09-26.md",
     "Untitled.canvas",
     "TrienKHai.canvas"
   ]

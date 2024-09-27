@@ -55,3 +55,4 @@ while True:
 print(C)
 ```
 
+Loss func: 
