@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "4e4395e5747a1ab2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "975a0cc53fa2bd97",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md"
               }
             }
           }
@@ -222,13 +232,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05ebb1cda44c7d4d",
+  "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Attachments/Pasted image 20240927200220.png",
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Attachments/Pasted image 20240927195607.png",
     "terminology",
@@ -269,7 +280,6 @@
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Untitled.canvas",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
