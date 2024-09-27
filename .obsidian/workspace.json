@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "83c73bba7bf73310",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "05ebb1cda44c7d4d",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md"
+                "file": "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md"
               }
             }
           }
@@ -224,12 +234,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "975a0cc53fa2bd97",
+  "active": "83c73bba7bf73310",
   "lastOpenFiles": [
+    "terminology/Zero-shot classifier accuracy.md",
+    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Attachments/Pasted image 20240927200220.png",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Attachments/Pasted image 20240927195607.png",
     "terminology",
@@ -252,7 +263,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
