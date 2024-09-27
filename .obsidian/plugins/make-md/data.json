@@ -47,7 +47,8 @@
     "/",
     "//Git/Git/Papers",
     "//Summarize Papers",
-    "//Summarize Papers/Summarize Papers/Clip"
+    "//Summarize Papers/Summarize Papers/Clip",
+    "//paper"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
