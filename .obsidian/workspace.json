@@ -11,26 +11,13 @@
             "id": "ebfa9bd77575fd46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5102e96a3e0c9352",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +173,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "ebfa9bd77575fd46",
   "lastOpenFiles": [
+    "Attachments/Excalidrawlib/system-design.excalidrawlib",
+    "Attachments/Excalidrawlib/Unconfirmed 229250.crdownload",
+    "AIO-knowledge/Algorithm knowledge/Wcss.md",
+    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Attachments/Excalidrawlib/software-architecture.excalidrawlib",
     "Attachments/Excalidrawlib/Unconfirmed 40850.crdownload",
     "Attachments/Excalidrawlib",
-    "AIO-knowledge/Algorithm knowledge/Wcss.md",
-    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
@@ -215,8 +204,6 @@
     "AIO-knowledge/Pandas.md",
     "Attachments/Pasted image 20240927083013.png",
     "Git/Papers/giri2021.pdf",
-    "Git/Papers/clip.pdf",
-    "Git/Papers/MobileNetV4.pdf",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
