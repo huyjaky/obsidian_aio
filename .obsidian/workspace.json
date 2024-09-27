@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a565099e81161e2",
+            "id": "bd90da46820cd3d9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md"
+                "file": "AIO-knowledge/Math/Softmax.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
+                "file": "AIO-knowledge/Math/Softmax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
+                "file": "AIO-knowledge/Math/Softmax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md"
+                "file": "AIO-knowledge/Math/Softmax.md"
               }
             }
           }
@@ -158,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a565099e81161e2",
+  "active": "bd90da46820cd3d9",
   "lastOpenFiles": [
+    "AIO-knowledge/Math/Softmax.md",
+    "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
-    "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Attachments/Pasted Image 20240927211903_697.png",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
