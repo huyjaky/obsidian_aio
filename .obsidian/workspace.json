@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -215,19 +215,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f61edae89af3267e",
+  "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
+    "AIO-knowledge/AIO-knowledge.md",
+    "AIO-homework/AIO-homework.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Algorithm.md",
+    "terminology/Zero-shot classifier accuracy.md",
+    "AIO-knowledge/Numpy.md",
     "terminology/terminology.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
-    "AIO-knowledge/AIO-knowledge.md",
-    "AIO-homework/AIO-homework.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "Summarize Papers/Clip/pipline of CLIP.md",
     "Attachments/Pasted image 20240927204526.png",
-    "AIO-knowledge/Algorithm.md",
     "paper/paper.md",
     "paper",
     "Git/Git.md",
@@ -255,7 +257,6 @@
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Attachments/Excalidrawlib/decision-flow-control.excalidrawlib",

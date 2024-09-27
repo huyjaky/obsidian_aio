@@ -48,7 +48,9 @@
     "//Git/Git/Papers",
     "//Summarize Papers/Summarize Papers/Clip",
     "//paper",
-    "//terminology"
+    "//terminology",
+    "//AIO-homework",
+    "//Summarize Papers"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
