@@ -46,11 +46,9 @@
   "expandedSpaces": [
     "/",
     "//Git/Git/Papers",
-    "//Summarize Papers",
     "//Summarize Papers/Summarize Papers/Clip",
     "//paper",
-    "//terminology",
-    "//AIO-knowledge"
+    "//terminology"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
