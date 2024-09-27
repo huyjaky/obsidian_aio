@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGithub",
+      "LiPaintBucket",
       "LiArchiveRestore",
       "🎁"
     ],
@@ -29,5 +31,7 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Excalidraw": "LiPaintBucket",
+  "Git": "LiGithub"
 }
