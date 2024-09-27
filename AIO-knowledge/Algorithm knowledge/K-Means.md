@@ -26,6 +26,8 @@ Quy trình cơ bản của K-Means bao gồm các bước sau:
    trong đó, \(C_j\) là tập hợp các điểm dữ liệu thuộc cụm \(j\).
 
 4. **Lặp lại**: Lặp lại quá trình gán nhãn và cập nhật tâm cụm cho đến khi các tâm cụm không còn thay đổi đáng kể hoặc đạt đến số lần lặp tối đa.
+   
+5. **Loss funciont: [[]]
 
 Thuật toán K-Means có độ phức tạp thời gian là \(O(n \times k \times t \times m)\), trong đó t là số lần lặp và m là số chiều của dữ liệu. K-Means thường được sử dụng vì tính đơn giản và hiệu quả cao trong việc phân cụm dữ liệu lớn, mặc dù nó có thể không tìm được nghiệm tối ưu toàn cục (global optimization) do phụ thuộc vào việc khởi tạo các tâm cụm ban đầu.
 
@@ -56,4 +58,3 @@ while True:
 print(C)
 ```
 
-Loss func: 
