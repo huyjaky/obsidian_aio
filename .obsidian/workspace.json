@@ -35,7 +35,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Git"
+                "path": "Attachments"
               }
             }
           },
@@ -215,6 +215,10 @@
   },
   "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
+    "AIO-homework/AIO-homework.md",
+    "AIO-knowledge/AIO-knowledge.md",
+    "terminology/terminology.md",
+    "Git/Git.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Readme.md",
     "Tags",
@@ -257,9 +261,6 @@
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Algorithm.md",
-    "AIO-knowledge/Pandas knowledge/Sorting.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Untitled.canvas",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
