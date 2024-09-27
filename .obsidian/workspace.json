@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,15 +78,14 @@
             }
           },
           {
-            "id": "ff2eee8b320a3dda",
+            "id": "a43f8a2ab187f095",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Pandas.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -173,12 +172,12 @@
   },
   "active": "bd90da46820cd3d9",
   "lastOpenFiles": [
+    "AIO-knowledge/Pandas.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Algorithm.md",
     "Readme.md",
     "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
