@@ -23,11 +23,9 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
-                "mode": "source",
-                "source": false
+                "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md"
+                "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
           }
@@ -190,13 +188,15 @@
   },
   "active": "f66069a5e230b662",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/Wcss.md",
+    "Summarize Papers/Clip/clip.pdf",
+    "Summarize Papers/Clip",
     "Summarize Papers",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Math",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
-    "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
@@ -214,9 +214,6 @@
     "Git/Papers/MobileNetV3.pdf",
     "Git/Papers/ISM.pdf",
     "Git/Papers/BLIP-2.pdf",
-    "Git/Papers",
-    "Git",
-    "PDF/Papers/Papers/giri2021.pdf",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
