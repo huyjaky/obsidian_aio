@@ -23,9 +23,11 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "Readme.md"
               }
             }
           }
@@ -188,9 +190,9 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
-    "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip",
     "Summarize Papers",
     "AIO-knowledge/Data Analysis with Time Series data.md",
