@@ -3,5 +3,5 @@
 
 ![[Drawing 2024-09-27 19.35.54.excalidraw|800]]
 
-vậy ta có thể hiểu là một nhà sáng tạo nào đó đã tự hỏi là làm sao để có thể làm ngược lại từ model DALL-E
+vậy ta có thể hiểu là một nhà sáng tạo nào đó đã tự hỏi là làm sao để có thể làm ngược lại từ model ==DALL-E== thì ta có một mô hình mới là ==CLIP==:
 
