@@ -23,11 +23,9 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Summarize Papers/Clip/clip.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
           }
@@ -190,6 +188,7 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "Readme.md",
     "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
@@ -208,7 +207,6 @@
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Pandas.md",
-    "Readme.md",
     "Attachments/Pasted image 20240927083013.png",
     "Git/Papers/giri2021.pdf",
     "Git/Papers/clip.pdf",
