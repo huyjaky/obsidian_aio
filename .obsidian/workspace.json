@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -234,12 +234,15 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+    "Attachments/Pasted image 20240927083013.png",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "Readme.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Git/Papers/giri2021.pdf",
     "Git/Papers/clip.pdf",
     "Git/Papers/MobileNetV4.pdf",
@@ -264,7 +267,6 @@
     "PDF/Papers/Images/Pasted image 20240902220150.png",
     "PDF/Papers/Images/Pasted image 20240902213427.png",
     "PDF/Papers/Images/Pasted image 20240902212024.png",
-    "PDF/Papers/Images/Pasted image 20240902084316.png",
     "PDF/Papers/Phuc/maybe meme.md",
     "PDF/Papers/Phuc/CUE-net.md",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
@@ -282,8 +284,6 @@
     "PDF/Papers/TeamVault/DanhGiaPaper.md",
     "PDF/Papers/TeamVault/BaoCao.md",
     "PDF/Papers/TeamVault/().md",
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
-    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "2024-09-26.md",
