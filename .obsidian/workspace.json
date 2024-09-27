@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminology/Zero-shot classifier.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terminology/Zero-shot classifier.md"
+                "file": "terminology/Zero-shot classifier accuracy.md"
               }
             }
           }
@@ -215,7 +215,7 @@
     "Attachments/Pasted image 20240927195607.png",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "terminology/Zero-shot classifier.md",
+    "terminology/Zero-shot classifier accuracy.md",
     "terminology",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Attachments/Pasted Image 20240927194659_729.png",
