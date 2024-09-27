@@ -46,7 +46,8 @@
   "expandedSpaces": [
     "/",
     "//Git/Git/Papers",
-    "//terminology"
+    "//terminology",
+    "//Git"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
