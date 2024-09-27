@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +172,9 @@
   },
   "active": "ac07ac2f0a7ee6a1",
   "lastOpenFiles": [
-    "Summarize Papers/Clip/clip.pdf",
+    "terminology/Zero-shot classifier accuracy.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Summarize Papers/Clip/clip.pdf",
     "Math/Softmax.md",
     "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
@@ -194,11 +195,10 @@
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Readme.md",
-    "Git/Papers/clip.pdf",
-    "Git/Papers/ISM.pdf",
+    "TeamVaultRepo/Papers/clip.pdf",
+    "TeamVaultRepo/Papers/ISM.pdf",
     "Git/Git.md",
     "Summarize Papers/Clip/Untitled.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "Attachments/Pasted Image 20240927211903_697.png",
     "Excalidraw/Drawing 2024-09-27 21.11.25.excalidraw.md",
     "terminology/terminology.md"
