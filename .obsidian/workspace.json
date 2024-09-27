@@ -45,14 +45,12 @@
             "id": "975a0cc53fa2bd97",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
+                "file": "terminology/Zero-shot classifier accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md"
+                "file": "terminology/Zero-shot classifier accuracy.md"
               }
             }
           }
@@ -208,16 +206,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "975a0cc53fa2bd97",
+  "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "terminology/Zero-shot classifier accuracy.md",
-    "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Attachments/Pasted image 20240927200220.png",
     "Attachments/Pasted image 20240927195607.png",
     "terminology",
