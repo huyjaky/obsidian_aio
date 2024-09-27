@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -189,11 +189,13 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240927070712.png",
     "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
-    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Attachments/Pasted image 20240926170242.png",
     "AIO-knowledge/Numpy knowledge",
     "AIO-knowledge/Untitled.md",
@@ -202,7 +204,6 @@
     "Attachments/Codes",
     "Readme.md",
     "Attachments/k-means.py",
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm knowledge",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
