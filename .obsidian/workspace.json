@@ -6,7 +6,6 @@
       {
         "id": "0d3ee0b61d152d6e",
         "type": "tabs",
-        "dimension": 57.919254658385086,
         "children": [
           {
             "id": "ebfa9bd77575fd46",
@@ -26,58 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b24ded52a33e5786"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "09461877d7b69b22",
-        "type": "tabs",
-        "dimension": 42.08074534161491,
-        "children": [
-          {
-            "id": "842235c082eef223",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Readme.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "b24ded52a33e5786"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
               }
             }
           }
@@ -216,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,15 +188,15 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
-    "AIO-knowledge/Algorithm knowledge/K-Means.md",
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "Readme.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
+    "AIO-knowledge/Algorithm.md",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Attachments/Pasted image 20240927083013.png",
-    "AIO-knowledge/Algorithm.md",
-    "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Numpy.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "Git/Papers/giri2021.pdf",
     "Git/Papers/clip.pdf",
     "Git/Papers/MobileNetV4.pdf",
