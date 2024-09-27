@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "7a2be9843906611a",
+            "id": "24b7e6ad7e4bfc4e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -214,17 +214,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f66069a5e230b662",
+  "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
-    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "Summarize Papers/Clip/clip.pdf",
+    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "terminology/Zero-shot classifier accuracy.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
     "Summarize Papers/Clip/pipline of CLIP.md",
     "Attachments/Pasted image 20240927204526.png",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/AIO-knowledge.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "terminology/terminology.md",
-    "Summarize Papers/Clip/clip.pdf",
     "paper/paper.md",
     "paper",
     "Git/Git.md",
@@ -236,7 +237,6 @@
     "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Attachments/Pasted image 20240927200220.png",
     "Attachments/Pasted image 20240927195607.png",
     "terminology",
@@ -255,7 +255,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Attachments/Excalidrawlib/decision-flow-control.excalidrawlib",
