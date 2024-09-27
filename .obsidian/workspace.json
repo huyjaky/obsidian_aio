@@ -28,9 +28,19 @@
                 "file": "Summarize Papers/Clip/clip.pdf"
               }
             }
+          },
+          {
+            "id": "3af60b3009e94322",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.00260543823242
+    "width": 252.00260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "00811096a64b6a17",
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md"
               }
             }
           }
@@ -186,10 +197,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eafc94b7ceaf26a",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
-    "Readme.md",
     "Summarize Papers/Clip/clip.pdf",
+    "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
+    "Excalidraw",
+    "Readme.md",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "Summarize Papers/Clip",
@@ -213,7 +226,6 @@
     "Git/Papers/MobileNetV4.pdf",
     "Git/Papers/MobileNetV3.pdf",
     "Git/Papers/ISM.pdf",
-    "Git/Papers/BLIP-2.pdf",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
     "PDF/Papers/Huy/Images/Pasted image 20240815220311.png",
@@ -239,7 +251,6 @@
     "PDF/Papers/TeamVault/Phuc/maybe meme.md",
     "PDF/Papers/TeamVault/Phuc/CUE-net.md",
     "PDF/Papers/TeamVault/Phuc/CUE-Net canvas.canvas",
-    "PDF/Papers/TeamVault/Huy/Untitled.md",
     "PDF/Papers/TeamVault/Huy/Untitled.canvas",
     "Untitled.canvas",
     "TrienKHai.canvas"
