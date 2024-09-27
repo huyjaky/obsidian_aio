@@ -1,4 +1,4 @@
-#Code #Knowledge 
+#Codes #Knowledge 
 
 Time series data là một dạng dữ liệu với giá trị được đo lường tại những điểm khác nhau theo thời gian.
 Một số dữ liệu time series được phân bố theo tần suất nhất định, ví dụ như thời tiết trong 1 giờ, lượng

@@ -11,22 +11,8 @@
             "id": "bd90da46820cd3d9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c53acec73cd8c929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO-knowledge/Numpy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -41,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Codes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AIO-knowledge/Numpy.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,16 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53acec73cd8c929",
+  "active": "bd90da46820cd3d9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/AIO-knowledge.md",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/AIO-knowledge.md",
     "AIO-knowledge/Algorithm.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "AIO-knowledge/Math/Softmax.md",
-    "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "Summarize Papers/Clip/clip.pdf",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
