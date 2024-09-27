@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "AIO-knowledge/Numpy.md"
               }
             }
           }
@@ -183,18 +183,20 @@
   },
   "active": "c53acec73cd8c929",
   "lastOpenFiles": [
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/AIO-knowledge.md",
+    "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Algorithm.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "AIO-knowledge/Math/Softmax.md",
     "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
-    "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "AIO-knowledge/Algorithm.md",
     "Readme.md",
     "Git/Papers/clip.pdf",
     "Git/Papers/ISM.pdf",
@@ -204,7 +206,6 @@
     "Attachments/Pasted Image 20240927211903_697.png",
     "Excalidraw/Drawing 2024-09-27 21.11.25.excalidraw.md",
     "terminology/terminology.md",
-    "AIO-knowledge/AIO-knowledge.md",
     "AIO-homework/AIO-homework.md"
   ]
 }
