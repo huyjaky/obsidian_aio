@@ -11,11 +11,26 @@
             "id": "ebfa9bd77575fd46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AIO-knowledge/Algorithm knowledge/Wcss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5102e96a3e0c9352",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md"
+              }
             }
           }
         ],
@@ -167,14 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebfa9bd77575fd46",
+  "active": "5102e96a3e0c9352",
   "lastOpenFiles": [
+    "AIO-knowledge/Algorithm knowledge/Wcss.md",
+    "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
+    "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
-    "Summarize Papers/Clip/clip.pdf",
     "Excalidraw",
     "Readme.md",
-    "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "Summarize Papers/Clip",
     "Summarize Papers",
     "AIO-knowledge/Data Analysis with Time Series data.md",
