@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+                "file": "AIO-knowledge/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md"
+                "file": "AIO-knowledge/Numpy.md"
               }
             }
           }
@@ -188,13 +188,13 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "Readme.md",
     "AIO-knowledge/Pandas.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
-    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "Attachments/Pasted image 20240927083013.png",
     "AIO-knowledge/Numpy.md",
     "Git/Papers/giri2021.pdf",
