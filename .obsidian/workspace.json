@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "14b0e168c841608a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Git/Papers"
+              }
+            }
+          },
+          {
             "id": "975a0cc53fa2bd97",
             "type": "leaf",
             "state": {
@@ -50,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,8 +105,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7a2be9843906611a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -116,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,15 +221,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e4395e5747a1ab2",
+  "active": "14b0e168c841608a",
   "lastOpenFiles": [
+    "Tags",
+    "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 16.51.00.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 17.14.16.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Attachments/Pasted image 20240927200220.png",
     "Attachments/Pasted image 20240927195607.png",
@@ -253,7 +269,6 @@
     "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
-    "AIO-knowledge/Algorithm knowledge/KNN.md",
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/Huy/Untitled.canvas",
     "PDF/Papers/Phuc/CUE-Net canvas.canvas",
