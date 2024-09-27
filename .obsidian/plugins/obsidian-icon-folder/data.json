@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiArchiveRestore",
+      "🎁"
+    ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
     "extraMargin": {
@@ -26,5 +29,7 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Summarize Papers/Clip/clip.pdf": "🎁",
+  "AIO-knowledge": "LiArchiveRestore"
 }
