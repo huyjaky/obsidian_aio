@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO-knowledge/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "AIO-knowledge/Pandas.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   },
   "active": "bd90da46820cd3d9",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Untitled.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Pandas.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "AIO-knowledge/Algorithm.md",
     "Readme.md",
-    "Summarize Papers/Clip/clip.pdf",
     "Excalidraw/Drawing 2024-09-27 21.11.02.excalidraw.md",
     "Git/Papers/clip.pdf",
     "Git/Papers/ISM.pdf",
