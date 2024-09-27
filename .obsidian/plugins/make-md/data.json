@@ -50,7 +50,8 @@
     "//paper",
     "//terminology",
     "//AIO-homework",
-    "//Summarize Papers"
+    "//Summarize Papers",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
