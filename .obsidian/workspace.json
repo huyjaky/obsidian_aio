@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "terminology/Zero-shot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "terminology/Zero-shot.md"
               }
             }
           }
@@ -212,9 +212,11 @@
   },
   "active": "6ee81a8fba1e0a58",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "terminology/Zero-shot.md",
+    "terminology",
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Attachments/Pasted Image 20240927194659_729.png",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Summarize Papers/Clip/clip.pdf",
     "Readme.md",
@@ -244,7 +246,6 @@
     "Attachments/Excalidrawlib/Unconfirmed 40199.crdownload",
     "Attachments/Excalidrawlib/data-viz.excalidrawlib",
     "Attachments/Excalidrawlib/Unconfirmed 957570.crdownload",
-    "Attachments/Excalidrawlib/forms.excalidrawlib",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",
