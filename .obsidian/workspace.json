@@ -23,8 +23,12 @@
             "id": "3eafc94b7ceaf26a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
+              }
             }
           }
         ],
@@ -183,20 +190,20 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Algorithm.md",
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
     "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
     "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
     "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
-    "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Numpy.md",
     "Readme.md",
     "Attachments/Pasted image 20240927083013.png",
     "Git/Papers/giri2021.pdf",
