@@ -1,4 +1,5 @@
 # 1. K-Nearest Neighbors
+#Algorithm #Math
 
 K-Nearest Neighbors (KNN) là một trong những thuật toán học máy có giám sát cơ bản. KNN còn được gọi là Lazy Learning, Memory-Based Learning,... Với bước huấn luyện mô hình, chỉ đơn giản là lưu trữ lại giá trị của dữ liệu huấn luyện, vì vậy KNN là phương pháp học máy không tham số (Non-Parametric). Ở bước dự đoánđ, mô hình sẽ sử dụng cácng xóộ o khoản cách để tìm các hà cgận.m lân đ
 

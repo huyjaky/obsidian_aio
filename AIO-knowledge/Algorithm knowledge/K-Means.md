@@ -1,4 +1,5 @@
 # 2. K-Mean
+#Algorithm #Math 
 
 ## 2.1 Lý thuyết
 
