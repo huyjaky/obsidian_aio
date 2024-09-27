@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "AIO-knowledge/Data Analysis with Time Series data.md"
               }
             }
           }
@@ -189,6 +189,7 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "Readme.md",
     "AIO-knowledge/Algorithm knowledge/K-Means.md",
     "Git/Papers/giri2021.pdf",
     "Git/Papers/clip.pdf",
@@ -232,7 +233,6 @@
     "PDF/Papers/TeamVault/DanhGiaPaper.md",
     "PDF/Papers/TeamVault/BaoCao.md",
     "PDF/Papers/TeamVault/().md",
-    "Readme.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Algorithm knowledge/KNN.md",
