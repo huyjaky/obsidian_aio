@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.00260543823242,
-    "collapsed": true
+    "width": 252.00260543823242
   },
   "right": {
     "id": "00811096a64b6a17",
@@ -188,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3eafc94b7ceaf26a",
+  "active": "f66069a5e230b662",
   "lastOpenFiles": [
     "PDF/Papers/TrienKHai.canvas",
     "PDF/Papers/BaoCao.md",
