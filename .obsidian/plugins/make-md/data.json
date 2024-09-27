@@ -49,11 +49,10 @@
     "//Summarize Papers/Summarize Papers/Clip",
     "//paper",
     "//terminology",
-    "//Summarize Papers",
     "//AIO-homework",
-    "//AIO-knowledge",
     "//AIO-knowledge/AIO-knowledge/Math",
-    "//AIO-knowledge/AIO-knowledge/Numpy knowledge"
+    "//AIO-knowledge/AIO-knowledge/Numpy knowledge",
+    "//Summarize Papers"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
