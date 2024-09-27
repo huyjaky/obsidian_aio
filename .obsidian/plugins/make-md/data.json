@@ -51,9 +51,7 @@
     "//terminology",
     "//AIO-homework",
     "//AIO-knowledge/AIO-knowledge/Numpy knowledge",
-    "//Summarize Papers",
-    "//AIO-knowledge",
-    "//AIO-knowledge/AIO-knowledge/Math"
+    "//Summarize Papers"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
