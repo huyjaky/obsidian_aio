@@ -33,21 +33,9 @@
             "id": "4e4395e5747a1ab2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14b0e168c841608a",
-            "type": "leaf",
-            "state": {
               "type": "mk-space",
               "state": {
-                "path": "Git/Papers"
+                "path": "Tags"
               }
             }
           },
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14b0e168c841608a",
+  "active": "4e4395e5747a1ab2",
   "lastOpenFiles": [
-    "Tags",
     "terminology/Zero-shot classifier accuracy.md",
+    "Readme.md",
+    "Tags",
     "Excalidraw/Drawing 2024-09-27 20.23.57.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
     "Excalidraw/Drawing 2024-09-27 20.24.38.excalidraw.md",
@@ -238,7 +227,6 @@
     "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
     "Attachments/Pasted Image 20240927194659_729.png",
     "Summarize Papers/Clip/clip.pdf",
-    "Readme.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
@@ -261,7 +249,6 @@
     "Attachments/Excalidrawlib/awesome-icons.excalidrawlib",
     "Attachments/Excalidrawlib/Unconfirmed 40199.crdownload",
     "Attachments/Excalidrawlib/data-viz.excalidrawlib",
-    "Attachments/Excalidrawlib/Unconfirmed 957570.crdownload",
     "AIO-knowledge/Algorithm knowledge/Wcss.md",
     "AIO-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-09-27 12.18.08.excalidraw.md",

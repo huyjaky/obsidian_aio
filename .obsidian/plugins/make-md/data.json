@@ -45,9 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Git",
     "//Git/Git/Papers",
-    "//Summarize Papers"
+    "//terminology"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
