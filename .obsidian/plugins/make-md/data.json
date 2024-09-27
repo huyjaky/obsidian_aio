@@ -31,7 +31,7 @@
   "spacesPerformance": false,
   "currentWaypoint": 0,
   "enableFolderNote": false,
-  "folderIndentationLines": false,
+  "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
