@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terminology/Zero-shot classifier accuracy.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "f54d38945565090a",
   "lastOpenFiles": [
-    "terminology/terminology.md",
     "terminology/Zero-shot classifier accuracy.md",
+    "terminology/terminology.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "AIO-knowledge/Pandas.md",
