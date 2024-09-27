@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "AIO-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           }
@@ -189,6 +189,7 @@
   },
   "active": "3eafc94b7ceaf26a",
   "lastOpenFiles": [
+    "Readme.md",
     "Attachments/Pasted image 20240927070712.png",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Numpy.md",
@@ -202,7 +203,6 @@
     "AIO-knowledge/Algorithm.md",
     "Attachments/Codes/k-means.py",
     "Attachments/Codes",
-    "Readme.md",
     "Attachments/k-means.py",
     "Attachments/Pasted image 20240926164105.png",
     "AIO-knowledge/Algorithm knowledge",
@@ -226,7 +226,6 @@
     "AIO-knowledge/Pandas knowledge",
     "Attachments",
     "Pasted image 20240926112024.png",
-    "Pasted image 20240926112106.png",
     "AIO-knowledge",
     "Welcome.md",
     "BaoCao.md",
