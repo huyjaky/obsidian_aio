@@ -22,3 +22,4 @@ Tránh việc gộp một đống label lại vào một chỗ
 	VD: ở đây ta đánh label cho một con chó -> nó sẽ bị mất nhiều label như chó già, chó trẻ, chó khỏe, chó đẹp, ...
 <span style="background:#affad1">-> để tránh điều đó thì ta thử từng text đi kèm với bức ảnh để tránh việc đó xảy ra</span>
 
+<span style="background:#affad1">Không cần </span><span style="background:#affad1">pre-training phức tạp</span> vì ở đây khi ta cào dữ liệu về thì bắc buộc nó phải đi kèm với tên của bức ảnh đó rồi
