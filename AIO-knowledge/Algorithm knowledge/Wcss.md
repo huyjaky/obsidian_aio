@@ -8,9 +8,9 @@ Specifically, WCSS is calculated by summing the squared Euclidean distances betw
 
 The formula for WCSS for a cluster is as follows:
 
-\[
+$$
 WCSS = \sum_{x \in C} (x - \mu)^2
-\]
+$$
 
 Where:
 - \( x \) is a data point in cluster \( C \),
