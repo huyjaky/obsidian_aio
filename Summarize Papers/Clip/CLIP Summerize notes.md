@@ -16,7 +16,7 @@ ta có thể thấy là khi sử dụng ==CLIP== thì lượng <span style="back
 
 ![[Pasted image 20240927204526.png]]
 
-## vậy lợi ích ở đây là gì?
+## Vậy lợi ích ở đây là gì?
 
 Tránh việc gộp một đống label lại vào một chỗ
 	VD: ở đây ta đánh label cho một con chó -> nó sẽ bị mất nhiều label như chó già, chó trẻ, chó khỏe, chó đẹp, ...

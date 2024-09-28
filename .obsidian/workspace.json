@@ -28,19 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5626cf6c095c618b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -181,11 +171,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5626cf6c095c618b",
+  "active": "ac07ac2f0a7ee6a1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-28 08.06.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
+    "TeamVaultRepo/Papers/clip.pdf",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "TeamVaultRepo/Papers/giri2021.pdf",
+    "Readme.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Numpy.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/AIO-knowledge.md",
+    "AIO-knowledge/Algorithm.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "AIO-homework/AIO-homework.md",
+    "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Zero-shot.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 08.06.32.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -194,7 +198,6 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
     "Excalidraw/CLIP ideas.excalidraw.md",
@@ -202,17 +205,6 @@
     "Notion/Huy/Rules.md",
     "Notion/Huy/Task board.md",
     "Notion/Huy/Meeting.md",
-    "Notion/Huy/Huy.md",
-    "Notion/Huy/Docs.md",
-    "Notion/Huy/Sprints/Tháng 10.md",
-    "Notion/Huy/Sprints/New sprint.md",
-    "Notion/Huy/Sprints/Tháng 9.md",
-    "Notion/Huy/Sub-task/Đọc tham khảo Roberta, PhoBert.md",
-    "Notion/Huy/Sub-task/Tham khảo Mobinet.md",
-    "Notion/Huy/Sub-task/Chạy thử XML-Roberta.md",
-    "Notion/Huy/Sub-task/Model phân tích chữ.md",
-    "Notion/Huy/Sub-task/Bug.md",
-    "Notion/Huy/Sub-task/Đọc hiểu XML-Roberta.md",
     "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/1000000110.jpg",
     "Notion/Huy/Sub-task",
@@ -222,8 +214,6 @@
     "Notion/Huy/Sprints",
     "Notion/Huy/Tasks",
     "Notion/Huy/Jobs",
-    "Notion/Huy",
-    "Notion",
     "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
     "Attachments/Pasted Image 20240927211903_697.png"
   ]
