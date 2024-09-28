@@ -37,8 +37,8 @@
   },
   "Excalidraw": "LiPaintBucket",
   "TeamVaultRepo": "LiGithub",
-  "AIO-knowledge": "LiAlbum",
   "Attachments": "LiAccessibility",
   "AIO notebook": "LiAlbum",
-  "AIO-homework": "LiAlbum"
+  "AIO-homework": "LiAlbum",
+  "base-knowledge": "LiAlbum"
 }
