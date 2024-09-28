@@ -8,7 +8,7 @@ khoảng cách không đều, ví dụ như số lượng cuộc gọi khẩn c�
 ![[Pasted image 20240926114955.png]]
 
 ## Knowledge must know:
-1. [[Split time to minimize]]
+1. [[Split DATE type values on dataset]]
 2. [[Boxplots]]
 3. [[Resampling]]
 

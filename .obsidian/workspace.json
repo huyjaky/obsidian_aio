@@ -17,17 +17,30 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "204eefef7a8a4ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO-knowledge/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
             },
-            "group": "6a0fa22636c608da"
+            "group": "accebd1f9dc9f181"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "145fe7f02dcd412f",
+        "id": "307fbed562e8588d",
         "type": "tabs",
         "children": [
           {
-            "id": "601e7a27d30f836e",
+            "id": "37e57c90006cc396",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -55,12 +68,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.401982878952453,
                   "close": false
                 }
               }
             },
-            "group": "6a0fa22636c608da"
+            "group": "accebd1f9dc9f181"
           }
         ]
       }
@@ -203,20 +216,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1d8fde94b1eb0751",
+  "active": "204eefef7a8a4ba5",
   "lastOpenFiles": [
-    "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Data Analysis with Time Series data.md",
+    "AIO-knowledge/Pandas knowledge/Split Date values on dataset.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
+    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
+    "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
     "AIO-knowledge/Numpy.md",
     "AIO notebook/Advanced Data Visualization/Init.md",
     "AIO notebook/Advanced Data Visualization",
     "Untitled",
     "AIO notebook/Untitled.md",
     "AIO notebook",
-    "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Algorithm.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
@@ -230,8 +248,6 @@
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "TeamVaultRepo/Papers/giri2021.pdf",
     "Readme.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "AIO-knowledge/AIO-knowledge.md",
     "AIO-homework/AIO-homework.md",
     "terminology/Zero-shot classifier accuracy.md",
@@ -239,11 +255,8 @@
     "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
     "Excalidraw/Drawing 2024-09-28 08.06.32.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
-    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Notion/Huy/Sub-task",
