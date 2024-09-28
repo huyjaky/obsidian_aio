@@ -1,5 +1,7 @@
 # Cách đọc biểu đồ Boxplot
-#Graph
+
+#Graph #data #pandas 
+
 Biểu đồ boxplot, còn gọi là **box-and-whisker plot**, là một cách chuẩn hóa để hiển thị phân phối của dữ liệu dựa trên năm thống kê tóm tắt chính: giá trị nhỏ nhất (minimum), **first quartile** (Q1), **median**, **third quartile** (Q3), và giá trị lớn nhất (maximum). Nó giúp nhận diện các outlier và hiểu được độ phân tán và độ lệch của tập dữ liệu.
 ![[Pasted image 20240926120930.png]]
 

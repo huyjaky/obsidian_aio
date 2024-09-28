@@ -11,69 +11,11 @@
             "id": "1d8fde94b1eb0751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "204eefef7a8a4ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIO-knowledge/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "accebd1f9dc9f181"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "307fbed562e8588d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37e57c90006cc396",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "AIO-knowledge/Pandas.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.401982878952453,
-                  "close": false
-                }
-              }
-            },
-            "group": "accebd1f9dc9f181"
           }
         ]
       }
@@ -104,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#Graph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO-knowledge/Pandas.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO-knowledge/Pandas.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           }
@@ -216,27 +158,31 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "204eefef7a8a4ba5",
+  "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
-    "AIO-knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
-    "AIO-knowledge/Pandas.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Pandas knowledge/Split Date values on dataset.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
+    "AIO-knowledge/Algorithm.md",
     "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
+    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
+    "AIO-knowledge/Algorithm knowledge/Wcss.md",
+    "AIO-knowledge/Algorithm knowledge/KNN.md",
+    "AIO-knowledge/Algorithm knowledge/K-Means.md",
+    "split date.md",
+    "AIO-knowledge/Pandas knowledge/Split Date values on dataset.md",
     "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "AIO-knowledge/Pandas knowledge/Sorting.md",
     "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
     "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
-    "AIO-knowledge/Numpy.md",
     "AIO notebook/Advanced Data Visualization/Init.md",
     "AIO notebook/Advanced Data Visualization",
     "Untitled",
     "AIO notebook/Untitled.md",
     "AIO notebook",
-    "AIO-knowledge/Algorithm.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "Attachments/1000000110.jpg",
     "2024-09-28.md",
@@ -250,10 +196,6 @@
     "Readme.md",
     "AIO-knowledge/AIO-knowledge.md",
     "AIO-homework/AIO-homework.md",
-    "terminology/Zero-shot classifier accuracy.md",
-    "Excalidraw/Zero-shot.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-28 08.06.32.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",

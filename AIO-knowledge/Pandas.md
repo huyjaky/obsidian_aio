@@ -10,4 +10,4 @@ Knowledge usually use:
 4. [[Deal with missing values]]
 5. [[Data Selection – Based on Conditional filtering]]
 6. apply syntax 
-7. 
+7. [[Split DATE type values on dataset]]
