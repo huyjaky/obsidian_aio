@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md"
               }
             }
           },
@@ -140,6 +140,10 @@
   "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
     "base-knowledge/Thư viện vẽ đồ thị.md",
+    "base-knowledge/Pandas.md",
+    "base-knowledge/Numpy.md",
+    "base-knowledge/Algorithm.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
@@ -147,9 +151,6 @@
     "Attachments/Ink/Writing",
     "Attachments/Ink",
     "Dataviewjs.md",
-    "base-knowledge/Algorithm.md",
-    "base-knowledge/Numpy.md",
-    "base-knowledge/Pandas.md",
     "Attachments/Pasted image 20240928114540.png",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
@@ -171,7 +172,6 @@
     "Readme.md",
     "AIO notebook/Advanced Data Visualization/Code/uber-raw-data-sep14.csv",
     "AIO notebook/Advanced Data Visualization/Code/Data_Visualization.ipynb",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "split date.md",
