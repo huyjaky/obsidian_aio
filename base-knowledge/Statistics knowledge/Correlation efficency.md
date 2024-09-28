@@ -1,7 +1,7 @@
 
 #statistics #correlation #analysis 
 
-**Correlation efficiency** đo lường mức độ liên hệ giữa hai biến. Mối quan hệ này có thể được xác định bằng hệ số tương quan Pearson.
+**Correlation efficiency** đo lường mức độ liên hệ giữa hai biến hay 2 vector. Mối quan hệ này có thể được xác định bằng hệ số tương quan Pearson.
 
 # Công thức hệ số tương quan Pearson
 
@@ -74,5 +74,10 @@ $$
 - $\sum y$: tổng các giá trị của biến thứ hai,
 - $\sum x^2$: tổng bình phương các giá trị của biến thứ nhất,
 - $\sum y^2$: tổng bình phương các giá trị của biến thứ hai.
+
+Giá trị $\rho_{X,Y}$ chạy trong khoảng $[-1,1]$ với cá khoảng 
+$\rho_{X,Y} = -1$: không giống hoàn toàn
+$-0.5< \rho_{X,Y} < 0$: gần như không giống
+$0< \rho_{X,Y} < 0.5$: gần giống
 
 
