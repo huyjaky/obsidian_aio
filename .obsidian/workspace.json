@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+                "file": "Math/Softmax.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
+                "file": "Math/Softmax.md"
               }
             }
           },
@@ -139,15 +139,21 @@
   },
   "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
+    "Excalidraw/CLIP pipeline.excalidraw.md",
+    "Excalidraw/CLIP compatitive.excalidraw.md",
+    "base-knowledge/Thư viện vẽ đồ thị.md",
+    "base-knowledge/Numpy.md",
+    "base-knowledge/Algorithm.md",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "base-knowledge/Pandas.md",
+    "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
+    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
+    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
-    "base-knowledge/Algorithm.md",
-    "base-knowledge/Thư viện vẽ đồ thị.md",
-    "base-knowledge/Pandas.md",
-    "base-knowledge/Numpy.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
@@ -155,7 +161,6 @@
     "Dataviewjs.md",
     "Attachments/Pasted image 20240928114540.png",
     "Attachments/Pasted image 20240928114040.png",
-    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "Attachments/Pasted image 20240928113738.png",
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
@@ -163,8 +168,6 @@
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "base-knowledge/Advance knowledge",
     "base-knowledge/Matplotlib knowledge",
     "AIO notebook/Data Analysis with Time Series data",
@@ -172,8 +175,6 @@
     "Readme.md",
     "AIO notebook/Advanced Data Visualization/Code/uber-raw-data-sep14.csv",
     "AIO notebook/Advanced Data Visualization/Code/Data_Visualization.ipynb",
-    "Excalidraw/CLIP pipeline.excalidraw.md",
-    "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "split date.md",
     "AIO-knowledge/Pandas knowledge/Split Date values on dataset.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
