@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥢",
+      "🩹",
+      "🏠",
       "📔",
       "📚",
       "🔼",
       "LiAlbum",
-      "LiAccessibility",
-      "🤔",
-      "LiGithub",
-      "LiPaintBucket"
+      "LiAccessibility"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -38,9 +38,9 @@
   },
   "Excalidraw": "LiPaintBucket",
   "TeamVaultRepo": "LiGithub",
-  "Attachments": "LiAccessibility",
-  "AIO notebook": "📚",
-  "AIO-homework": "LiAlbum",
-  "base-knowledge": "📔",
+  "Attachments": "🥢",
+  "AIO notebook": "📔",
+  "AIO-homework": "🏠",
+  "base-knowledge": "📚",
   "base-knowledge/Advance knowledge": "🔼"
 }
