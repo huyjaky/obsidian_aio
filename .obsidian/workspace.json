@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+                "file": "base-knowledge/Matplotlib.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,35 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a86757f79a1a17e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a06e4110193eba3e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "1f091db8cd6c0c4e",
             "type": "leaf",
             "state": {
@@ -134,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
+                "file": "base-knowledge/Matplotlib.md"
               }
             }
           },
@@ -146,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,12 +140,13 @@
   },
   "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240928112451.png",
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
+    "base-knowledge/Matplotlib.md",
+    "Attachments/Pasted image 20240928112739.png",
+    "Attachments/Pasted image 20240928112451.png",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Numpy.md",
-    "base-knowledge/Matplotlib.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
@@ -213,7 +184,6 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
-    "Attachments/Pasted Image 20240927211903_697.png"
+    "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png"
   ]
 }
