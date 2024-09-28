@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Correlation Chart.md",
+                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Correlation Chart.md"
+                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md"
               }
             }
           },
@@ -138,24 +138,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
-    "base-knowledge/Statistics knowledge/Correlation efficency.md",
-    "base-knowledge/Graph knowledge/Correlation Chart.md",
-    "Attachments/Pasted image 20240928203218.png",
+    "base-knowledge/Pandas knowledge/Deal with missing values.md",
+    "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "terminology/Zero-shot classifier accuracy.md",
+    "base-knowledge/Graph knowledge/Correlation Chart.md",
+    "base-knowledge/Statistics knowledge/Correlation efficency.md",
+    "Attachments/Pasted image 20240928203218.png",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/Zero-shot.excalidraw.md",
     "base-knowledge/Statistics knowledge",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "Math/Softmax.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/Pasted image 20240928190846.png",
     "2024-09-28.md",
-    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Test.md",
     "Summarize Papers/Clip/clip.pdf",
@@ -165,7 +167,6 @@
     "base-knowledge/Numpy.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Pandas.md",
-    "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
