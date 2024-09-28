@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "file": "base-knowledge/Graph knowledge/Correlation Chart.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md"
+                "file": "base-knowledge/Graph knowledge/Correlation Chart.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "file": "base-knowledge/Graph knowledge/Correlation Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "file": "base-knowledge/Graph knowledge/Correlation Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,14 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240928203218.png",
+    "base-knowledge/Graph knowledge/Boxplots.md",
+    "base-knowledge/Graph knowledge/Correlation Chart.md",
+    "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/Zero-shot.excalidraw.md",
-    "base-knowledge/Statistics knowledge/Correlation efficency.md",
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "base-knowledge/Statistics knowledge",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "Math/Softmax.md",
@@ -207,11 +209,9 @@
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
     "Attachments/Pasted image 20240928112451.png",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Advance knowledge",
-    "base-knowledge/Matplotlib knowledge",
+    "base-knowledge/Graph knowledge",
     "AIO notebook/Data Analysis with Time Series data",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Attachments/1000000110.jpg",
     "Attachments/Pasted image 20240928082219.png",
     "Attachments/Pasted Image 20240928082200_036.png"
