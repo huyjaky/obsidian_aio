@@ -58,8 +58,15 @@ Dưới đây là một ví dụ đơn giản về cách diễn giải **boxplot
 - **Whiskers**: **Whiskers** giúp nhận diện khoảng dữ liệu trừ các outlier.
 - **Outliers**: Các điểm nằm ngoài **whiskers**, có thể chỉ ra các giá trị bất thường.
 
+## Cách để giảm outliners và tăng độ chính xác
+
 ![[Pasted image 20240928190846.png]]
-Ở đây ta có thể thấy rằng là nếu như lấy $\mu$ ([trung bình](https://vi.wikipedia.org/wiki/Ph%C3%A2n_ph%E1%BB%91i_chu%E1%BA%A9n)) thì độ chính xác chỉ có 68.27% và còn tồn tại quá nhiều outliners ở ngoài thì ta có $\sigma$ ([Độ lệch chuẩn](https://vi.wikipedia.org/wiki/Ph%C3%A2n_ph%E1%BB%91i_chu%E1%BA%A9n)) để có thể kéo dài $$
+Ở đây ta có thể thấy rằng là nếu như lấy $\mu$ ([trung bình](https://vi.wikipedia.org/wiki/Ph%C3%A2n_ph%E1%BB%91i_chu%E1%BA%A9n)) thì độ chính xác chỉ có 68.27% và còn tồn tại quá nhiều outliners ở ngoài thì ta có $\sigma$ ([Độ lệch chuẩn](https://vi.wikipedia.org/wiki/Ph%C3%A2n_ph%E1%BB%91i_chu%E1%BA%A9n)) để có thể kéo dài $Q_1$ và $Q_3$ để có thể giảm outliners đi với công thức 
+$$
+Lower Bound = Q_1 - 1*IQR $
+Upper Bound = Q_3 + 1*IQR
+$$
+
 
 ```Python
 # Creating Box Plots for Distribution Analysis of each variable
