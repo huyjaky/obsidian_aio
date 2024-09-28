@@ -11,9 +11,11 @@
             "id": "a65fb143cf9f6103",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
+                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
+                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md"
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
+                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
+                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +170,9 @@
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/Zero-shot.excalidraw.md",
     "terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
+    "Excalidraw/Zero-shot.excalidraw.md",
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "base-knowledge/Statistics knowledge",
