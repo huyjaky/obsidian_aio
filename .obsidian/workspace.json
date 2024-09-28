@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ddd78caaf3a172e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,19 +156,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3682e8750c641906",
+  "active": "5ddd78caaf3a172e",
   "lastOpenFiles": [
-    "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "base-knowledge/Thư viện vẽ đồ thị.md",
+    "base-knowledge/Algorithm.md",
+    "base-knowledge/Numpy.md",
+    "base-knowledge/Pandas.md",
     "Attachments/Pasted image 20240928114540.png",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
     "Attachments/Pasted image 20240928114040.png",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "Attachments/Pasted image 20240928113738.png",
-    "base-knowledge/Pandas.md",
-    "base-knowledge/Numpy.md",
-    "base-knowledge/Algorithm.md",
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
     "Attachments/Pasted image 20240928112451.png",
