@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
+                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "5ddd78caaf3a172e",
   "lastOpenFiles": [
+    "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
@@ -171,7 +172,6 @@
     "Dataviewjs.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
-    "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Pandas.md",
     "Attachments/Pasted image 20240928114540.png",
@@ -196,7 +196,6 @@
     "Readme.md",
     "AIO notebook/Advanced Data Visualization/Code/uber-raw-data-sep14.csv",
     "AIO notebook/Advanced Data Visualization/Code/Data_Visualization.ipynb",
-    "AIO notebook/Advanced Data Visualization/Code/five_star_reviews.csv",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
