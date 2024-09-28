@@ -11,11 +11,9 @@
             "id": "a65fb143cf9f6103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           },
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Statistics knowledge/Correlation efficency.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,23 +167,24 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Excalidraw/Zero-shot.excalidraw.md",
+    "terminology/Zero-shot classifier accuracy.md",
+    "Excalidraw/CLIP pipeline.excalidraw.md",
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "base-knowledge/Statistics knowledge",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "Math/Softmax.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/Pasted image 20240928190846.png",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "2024-09-28.md",
-    "terminology/Zero-shot classifier accuracy.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Test.md",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/Test note clip.md",
-    "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Numpy.md",
@@ -211,7 +210,6 @@
     "base-knowledge/Matplotlib knowledge",
     "AIO notebook/Data Analysis with Time Series data",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Readme.md",
     "Attachments/1000000110.jpg",
     "Attachments/Pasted image 20240928082219.png",
     "Attachments/Pasted Image 20240928082200_036.png"
