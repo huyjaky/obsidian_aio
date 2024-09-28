@@ -23,3 +23,7 @@ Tránh việc gộp một đống label lại vào một chỗ
 <span style="background:#affad1">-> để tránh điều đó thì ta thử từng text đi kèm với bức ảnh để tránh việc đó xảy ra</span>
 
 <span style="background:#affad1">Không cần </span><span style="background:#affad1">pre-training phức tạp</span> vì ở đây khi ta cào dữ liệu về thì bắc buộc nó phải đi kèm với tên của bức ảnh đó rồi
+
+## Khả năng mở rộng của CLIP với những mô hình ResNet
+![[Pasted image 20240928082219.png]]
+
