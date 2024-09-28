@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a65fb143cf9f6103",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
