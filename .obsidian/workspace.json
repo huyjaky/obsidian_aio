@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "terminology/Zero-shot classifier accuracy.md"
               }
             }
           },
@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +160,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a65fb143cf9f6103",
+  "active": "775e85f444e4e71c",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "2024-09-28.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Test.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/Test note clip.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
