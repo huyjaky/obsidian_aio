@@ -1,5 +1,8 @@
 {
   "pinned": [
-    "ink:create-handwritten-section"
+    "ink:create-handwritten-section",
+    "obsidian-linter:lint-file",
+    "obsidian-excalidraw-plugin:excalidraw-insert-last-active-transclusion",
+    "obsidian-link-embed:embed-link"
   ]
 }
