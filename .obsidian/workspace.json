@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "42d752f111fa4f09",
-        "type": "tabs",
+        "id": "1913a0b069b92831",
+        "type": "split",
         "children": [
           {
-            "id": "a65fb143cf9f6103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md",
-                "mode": "source",
-                "source": false
+            "id": "42d752f111fa4f09",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a65fb143cf9f6103",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "base-knowledge/Matplotlib knowledge/Boxplots.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "83f730343636eeda",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6eec06a9b572ffa3",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
