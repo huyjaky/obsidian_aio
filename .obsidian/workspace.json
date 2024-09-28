@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "845113b387efef47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+                "file": "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+                "file": "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
+                "file": "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf"
               }
             }
           }
@@ -160,10 +173,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1d8fde94b1eb0751",
+  "active": "845113b387efef47",
   "lastOpenFiles": [
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/uber-raw-data-sep14.csv",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/Data_Visualization.ipynb",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/five_star_reviews.csv",
