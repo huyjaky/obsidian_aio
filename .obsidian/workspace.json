@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5626cf6c095c618b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md"
               }
             }
           }
@@ -171,11 +181,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ac07ac2f0a7ee6a1",
+  "active": "5626cf6c095c618b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-28 08.06.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-28 08.10.14.excalidraw.md",
+    "Excalidraw/Zero-shot.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
-    "Excalidraw/Zero-shot.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
     "Excalidraw/CLIP ideas.excalidraw.md",
     "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
@@ -193,12 +213,6 @@
     "Notion/Huy/Sub-task/Model phân tích chữ.md",
     "Notion/Huy/Sub-task/Bug.md",
     "Notion/Huy/Sub-task/Đọc hiểu XML-Roberta.md",
-    "Notion/Huy/Sub-task/Feature Request.md",
-    "Notion/Huy/Sub-task/Task.md",
-    "Notion/Huy/Sub-task/Watching desc vid about CLIP.md",
-    "Notion/Huy/Sub-task/Read and summarize Paper CLIP.md",
-    "Notion/Huy/Tasks/Feature Request.md",
-    "Notion/Huy/Tasks/Untitled.md",
     "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/1000000110.jpg",
     "Notion/Huy/Sub-task",
