@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md"
+                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md"
               }
             }
           },
@@ -141,8 +141,9 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Math/Softmax.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "Attachments/Pasted image 20240928190846.png",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
@@ -175,7 +176,6 @@
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
     "Attachments/Pasted image 20240928112451.png",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Advance knowledge",
     "base-knowledge/Matplotlib knowledge",
