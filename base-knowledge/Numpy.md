@@ -1,4 +1,4 @@
 #Codes #Syntax #Knowledge 
 
 Some trick for numpy:
-[[Broadcasting with diff depth]]
+1. [[Broadcasting with diff depth]]

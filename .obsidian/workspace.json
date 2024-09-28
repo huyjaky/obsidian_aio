@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "31cc6baeae6b5216"
-          },
-          {
-            "id": "845113b387efef47",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf"
               }
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "11d905adbad53d1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b0caf29109270e7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "base-knowledge/Algorithm.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "31cc6baeae6b5216"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm.md"
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
               }
             }
           },
@@ -223,6 +170,13 @@
   },
   "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240928112451.png",
+    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
+    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+    "base-knowledge/Numpy.md",
+    "base-knowledge/Matplotlib.md",
+    "base-knowledge/Algorithm.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
@@ -230,15 +184,9 @@
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "base-knowledge/Advance knowledge",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
-    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Matplotlib knowledge",
     "AIO notebook/Data Analysis with Time Series data",
-    "base-knowledge/Matplotlib.md",
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
     "base-knowledge/Pandas.md",
-    "base-knowledge/Numpy.md",
-    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
-    "base-knowledge/Algorithm.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Readme.md",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/uber-raw-data-sep14.csv",
