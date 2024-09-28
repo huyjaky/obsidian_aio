@@ -17,7 +17,50 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "6a0fa22636c608da"
+          }
+        ]
+      },
+      {
+        "id": "145fe7f02dcd412f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601e7a27d30f836e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AIO-knowledge/Pandas.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "6a0fa22636c608da"
           }
         ]
       }
@@ -160,16 +203,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
+    "AIO-knowledge/Pandas knowledge/Groupby Operations.md",
+    "AIO-knowledge/Pandas.md",
+    "AIO-knowledge/Pandas knowledge/Sorting.md",
+    "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+    "AIO-knowledge/Numpy.md",
+    "AIO notebook/Advanced Data Visualization/Init.md",
     "AIO notebook/Advanced Data Visualization",
     "Untitled",
     "AIO notebook/Untitled.md",
-    "AIO-knowledge/Pandas.md",
     "AIO notebook",
     "AIO-knowledge/Pandas knowledge/Deal with missing values.md",
-    "AIO-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
-    "AIO-knowledge/Numpy.md",
     "AIO-knowledge/Data Analysis with Time Series data.md",
     "AIO-knowledge/Algorithm.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
@@ -199,12 +245,9 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
     "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Notion/Huy/Sub-task",
     "Notion/Huy/Docs/link-to/đề tài NCKH SV",
-    "Notion/Huy/Docs/link-to",
     "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
     "Attachments/Pasted Image 20240927211903_697.png"
   ]
