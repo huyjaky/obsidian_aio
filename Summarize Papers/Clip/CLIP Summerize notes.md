@@ -9,7 +9,7 @@ vậy ta có thể hiểu là một nhà sáng tạo nào đó đã tự hỏi l
 đầu tiên ta cùng xem qua biểu đồ này:
 ![[CLIP compatitive.excalidraw|800]]
 
-ta có thể thấy là khi sử dụng ==CLIP== thì lượng <span style="background:#affad1">aurgmentaion</span> càng lớn thì độ chính xác của [[Zero-shot classifier accuracy]] càng cao
+ta có thể thấy là khi sử dụng ==CLIP== thì lượng ==Aurgmentation== càng lớn thì độ chính xác của [[Zero-shot classifier accuracy]] càng cao
 
 <span style="background:#b1ffff">pipline of CLIP</span>
 ![[CLIP pipeline.excalidraw|800]]
