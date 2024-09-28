@@ -21,8 +21,12 @@
             "id": "ac07ac2f0a7ee6a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+              }
             }
           }
         ],
@@ -165,11 +173,11 @@
   },
   "active": "ac07ac2f0a7ee6a1",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
     "Excalidraw/Zero-shot.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
     "Excalidraw/CLIP ideas.excalidraw.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
     "Notion/Huy/Rules.md",
     "Notion/Huy/Task board.md",
