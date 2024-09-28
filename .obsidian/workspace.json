@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Matplotlib.md",
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Matplotlib.md"
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
               }
             }
           },
@@ -142,7 +142,8 @@
   "lastOpenFiles": [
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
-    "base-knowledge/Matplotlib.md",
+    "base-knowledge/Thư viện vẽ đồ thị.md",
+    "Attachments/Pasted image 20240928113738.png",
     "base-knowledge/Pandas.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Algorithm.md",
@@ -183,7 +184,6 @@
     "Attachments/Pasted Image 20240928082200_036.png",
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg"
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg"
   ]
 }
