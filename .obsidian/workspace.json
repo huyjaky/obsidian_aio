@@ -38,9 +38,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5fe96ab66f0138f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataviewjs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dataviewjs.md"
+              }
             }
           },
           {
@@ -156,11 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ddd78caaf3a172e",
+  "active": "5fe96ab66f0138f0",
   "lastOpenFiles": [
+    "Dataviewjs.md",
+    "base-knowledge/Algorithm.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
-    "base-knowledge/Algorithm.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Pandas.md",
     "Attachments/Pasted image 20240928114540.png",
