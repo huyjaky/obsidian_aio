@@ -31,14 +31,28 @@
             "id": "a65fb143cf9f6103",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf2e81f4c57d66ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md"
               }
             }
           },
@@ -165,11 +179,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a65fb143cf9f6103",
+  "active": "358de8c16cb9baf7",
   "lastOpenFiles": [
-    "Summarize Papers/Clip/Test note clip.md",
-    "Summarize Papers/Clip/clip.pdf",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+    "Test.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Summarize Papers/Clip/clip.pdf",
+    "Summarize Papers/Clip/Test note clip.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "2024-09-28.md",
     "Math/Softmax.md",
@@ -185,7 +201,6 @@
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
-    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
