@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md",
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md"
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md"
               }
             }
           },
@@ -141,17 +141,19 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "Math/Softmax.md",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "Attachments/Pasted image 20240928190846.png",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "2024-09-28.md",
     "terminology/Zero-shot classifier accuracy.md",
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Test.md",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/Test note clip.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
-    "Math/Softmax.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
@@ -175,17 +177,14 @@
     "Attachments/Pasted image 20240928112451.png",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Advance knowledge",
     "base-knowledge/Matplotlib knowledge",
     "AIO notebook/Data Analysis with Time Series data",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Readme.md",
     "AIO notebook/Advanced Data Visualization/Code/uber-raw-data-sep14.csv",
-    "split date.md",
     "Attachments/1000000110.jpg",
     "Attachments/Pasted image 20240928082219.png",
-    "Attachments/Pasted Image 20240928082200_036.png",
-    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg"
+    "Attachments/Pasted Image 20240928082200_036.png"
   ]
 }

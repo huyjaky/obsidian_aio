@@ -58,7 +58,8 @@ Dưới đây là một ví dụ đơn giản về cách diễn giải **boxplot
 - **Whiskers**: **Whiskers** giúp nhận diện khoảng dữ liệu trừ các outlier.
 - **Outliers**: Các điểm nằm ngoài **whiskers**, có thể chỉ ra các giá trị bất thường.
 
-**Boxplot** là một cách tuyệt vời để hình dung và so sánh các phân phối dữ liệu nhanh chóng, đặc biệt là khi xử lý tập dữ liệu lớn.
+![[Pasted image 20240928190846.png]]
+Ở đây ta có thể thấy rằng là nếu như lấy 
 
 ```Python
 # Creating Box Plots for Distribution Analysis of each variable
