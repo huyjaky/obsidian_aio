@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Data Analysis with Time Series data.md",
+                "file": "base-knowledge/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "base-knowledge/Data Analysis with Time Series data.md",
+                "file": "base-knowledge/Algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Data Analysis with Time Series data.md",
+                "file": "base-knowledge/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Data Analysis with Time Series data.md",
+                "file": "base-knowledge/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Data Analysis with Time Series data.md"
+                "file": "base-knowledge/Algorithm.md"
               }
             }
           },
@@ -218,16 +218,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "1d8fde94b1eb0751",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
+    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
+    "base-knowledge/Advance knowledge",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+    "base-knowledge/Matplotlib knowledge",
     "AIO notebook/Data Analysis with Time Series data",
     "base-knowledge/Matplotlib.md",
-    "base-knowledge/Data Analysis with Time Series data.md",
-    "base-knowledge/Data Analysis with Time Series data/Boxplots.md",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Data-Visualization_v2.pdf",
     "base-knowledge/Pandas.md",
     "base-knowledge/Numpy.md",
@@ -241,17 +247,9 @@
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/one_star_reviews.csv",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/StudentsPerformance.csv",
     "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/Iris.csv",
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code/Datavisualization_casestudy_AIO2024.ipynb",
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday/Code",
-    "AIO notebook/Advanced Data Visualization/Saturday-20240928T015717Z-001/Saturday",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
-    "base-knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "base-knowledge/Data Analysis with Time Series data/Resampling.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "split date.md",
     "AIO-knowledge/Pandas knowledge/Split Date values on dataset.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
