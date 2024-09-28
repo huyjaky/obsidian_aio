@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md"
+                "file": "base-knowledge/Matplotlib knowledge/Boxplots.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "5ddd78caaf3a172e",
   "lastOpenFiles": [
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
@@ -183,7 +184,6 @@
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
     "Attachments/Pasted image 20240928112451.png",
-    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
