@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md"
               }
             }
           }
@@ -179,47 +179,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "a1768b96983de6a6",
   "lastOpenFiles": [
-    "Excalidraw/CLIP pipeline.excalidraw.md",
+    "Notion/Huy/Rules.md",
+    "Notion/Huy/Task board.md",
+    "Notion/Huy/Meeting.md",
+    "Notion/Huy/Huy.md",
+    "Notion/Huy/Docs.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
-    "Excalidraw/Fonts/DFVNBoris/OpenType-PS/DFVN Boris.otf",
-    "Excalidraw/Fonts/DFVNBoris/OpenSource License.rtfd/TXT.rtf",
-    "Excalidraw/Fonts/DFVNBoris/OpenType-PS",
-    "Excalidraw/Fonts/DFVNBoris/OpenSource License.rtfd",
-    "Excalidraw/Fonts/DFVNBoris/Dafontvn.com.url",
-    "Excalidraw/Fonts/DFVNBoris",
-    "Excalidraw/Fonts/DFVNBoris.zip",
-    "Excalidraw/Drawing 2024-09-27 19.45.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 20.03.33.excalidraw.md",
-    "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.ttf",
-    "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.otf",
-    "Excalidraw/Fonts/DFVNRawrote",
+    "Notion/Huy/Sprints/Tháng 10.md",
+    "Notion/Huy/Sprints/New sprint.md",
+    "Notion/Huy/Sprints/Tháng 9.md",
+    "Notion/Huy/Sub-task/Chạy thử Mobinet phiên bản phù hợp.md",
+    "Notion/Huy/Sub-task/Đọc tham khảo Roberta, PhoBert.md",
+    "Notion/Huy/Sub-task/Tham khảo Mobinet.md",
+    "Notion/Huy/Sub-task/Chạy thử XML-Roberta.md",
+    "Notion/Huy/Sub-task/Model phân tích chữ.md",
+    "Notion/Huy/Sub-task/Bug.md",
+    "Notion/Huy/Sub-task/Đọc hiểu XML-Roberta.md",
+    "Notion/Huy/Sub-task/Feature Request.md",
+    "Notion/Huy/Sub-task/Task.md",
+    "Notion/Huy/Sub-task/Watching desc vid about CLIP.md",
+    "Notion/Huy/Sub-task/Read and summarize Paper CLIP.md",
+    "Notion/Huy/Tasks/Feature Request.md",
+    "Notion/Huy/Tasks/Untitled.md",
+    "Notion/Huy/Tasks/Bug.md",
+    "Notion/Huy/Tasks/Xem vid Advance Data visualization.md",
+    "Notion/Huy/Tasks/K-Means.md",
+    "Notion/Huy/Tasks/Đọc paper CLIP.md",
+    "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
+    "Attachments/1000000110.jpg",
+    "Notion/Huy/Sub-task",
+    "Notion/Huy/Docs/link-to/đề tài NCKH SV",
+    "Notion/Huy/Docs/link-to",
+    "Notion/Huy/Docs",
+    "Notion/Huy/Sprints",
+    "Notion/Huy/Tasks",
+    "Notion/Huy/Jobs",
+    "Notion/Huy",
+    "Notion",
     "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
-    "Excalidraw/Fonts/JetBrainsMono/README.md",
-    "Excalidraw/Fonts/ComicShannsMono/README.md",
-    "Excalidraw/Fonts/ComicShannsMono/LICENSE.md",
-    "terminology/Zero-shot classifier accuracy.md",
-    "Math/Softmax.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Split time to minimize.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Resampling.md",
-    "AIO-knowledge/Data Analysis with Time Series data/Boxplots.md",
-    "AIO-knowledge/Untitled.md",
-    "Untitled.md",
-    "AIO-knowledge/Math/Untitled.md",
-    "AIO-knowledge/Math/Softmax.md",
-    "AIO-knowledge/Pandas.md",
-    "AIO-knowledge/Data Analysis with Time Series data.md",
-    "AIO-knowledge/Numpy.md",
-    "AIO-knowledge/AIO-knowledge.md",
-    "AIO-knowledge/Algorithm.md",
-    "AIO-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "Readme.md",
     "Attachments/Pasted Image 20240927211903_697.png"
   ]
 }

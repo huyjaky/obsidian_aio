@@ -1,0 +1,5 @@
+|Task ID|Task name|Status|Assignee|Due|Priority|![](https://www.notion.so/icons/run_gray.svg)Sprint|![](https://www.notion.so/icons/branch-merge_gray.svg)GitHub Pull Requests|Sub-task|
+|---|---|---|---|---|---|---|---|---|
+|12|[[Huy/Tasks/K-Means\|K-Means]]|Done|Huy Phan|September 26, 2024 12:00 AM|Medium|[[Tháng 9]]|||
+|13|[[Đọc paper CLIP]]|In progress|Huy Phan|September 29, 2024|High|[[Tháng 9]]||[[Watching desc vid about CLIP]], [[Read and summarize Paper CLIP]]|
+|15|[[Xem vid Advance Data visualization]]|In progress|Huy Phan|September 28, 2024|Medium|[[Tháng 9]]|||
