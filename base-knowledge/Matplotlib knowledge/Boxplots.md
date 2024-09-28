@@ -7,6 +7,8 @@ Biểu đồ boxplot, còn gọi là **box-and-whisker plot**, là một cách c
 
 ## Các thành phần của Boxplot
 
+![[Pasted image 20240928114540.png]]
+
 1. **Box**: Hộp (box) đại diện cho **interquartile range** (IQR), là khoảng cách giữa **first quartile** (Q1, phân vị thứ 25) và **third quartile** (Q3, phân vị thứ 75). Nó bao gồm 50% dữ liệu nằm giữa.
 ![[Pasted image 20240926121734.png]]
    ![[Pasted image 20240926121827.png]]
@@ -53,4 +55,15 @@ Dưới đây là một ví dụ đơn giản về cách diễn giải **boxplot
 - **Outliers**: Các điểm nằm ngoài **whiskers**, có thể chỉ ra các giá trị bất thường.
 
 **Boxplot** là một cách tuyệt vời để hình dung và so sánh các phân phối dữ liệu nhanh chóng, đặc biệt là khi xử lý tập dữ liệu lớn.
+
+```Python
+# Creating Box Plots for Distribution Analysis of each variable
+plt.figure(figsize=(12, 6))
+df.boxplot(column=['HUFL', 'HULL', 'MUFL', 'MULL', 'LUFL', 'LULL', 'OT'])
+plt.xlabel('Variables')
+plt.ylabel('Values')
+plt.title('Box Plot for Distribution Analysis of Each Variable')
+plt.xticks(rotation=45)
+plt.show()
+```
 

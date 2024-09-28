@@ -32,8 +32,7 @@
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,9 +153,10 @@
   "active": "3682e8750c641906",
   "lastOpenFiles": [
     "base-knowledge/Thư viện vẽ đồ thị.md",
+    "base-knowledge/Matplotlib knowledge/Boxplots.md",
+    "Attachments/Pasted image 20240928114540.png",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Drawing 2024-09-28 11.42.58.excalidraw.md",
-    "base-knowledge/Matplotlib knowledge/Boxplots.md",
     "Attachments/Pasted image 20240928114040.png",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "Attachments/Pasted image 20240928113738.png",
@@ -196,7 +196,6 @@
     "Attachments/1000000110.jpg",
     "Attachments/Pasted image 20240928082219.png",
     "Attachments/Pasted Image 20240928082200_036.png",
-    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg"
   ]
 }
