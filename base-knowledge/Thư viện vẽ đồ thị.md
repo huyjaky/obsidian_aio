@@ -18,3 +18,11 @@ Có thể dùng <span style="background:#b1ffff">seaborn</span> để câu lện
 ## Một số graph thường dùng:
 1. [[Boxplots]]
 
+```handwritten-ink
+{
+	"versionAtEmbed": "0.2.6",
+	"filepath": "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing"
+}
+```
+
+

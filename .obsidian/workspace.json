@@ -35,8 +35,12 @@
             "id": "5ddd78caaf3a172e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -124,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
+              }
             }
           },
           {
@@ -158,6 +164,10 @@
   },
   "active": "5ddd78caaf3a172e",
   "lastOpenFiles": [
+    "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
+    "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
+    "Attachments/Ink/Writing",
+    "Attachments/Ink",
     "Dataviewjs.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Matplotlib knowledge/Boxplots.md",
@@ -187,9 +197,6 @@
     "AIO notebook/Advanced Data Visualization/Code/uber-raw-data-sep14.csv",
     "AIO notebook/Advanced Data Visualization/Code/Data_Visualization.ipynb",
     "AIO notebook/Advanced Data Visualization/Code/five_star_reviews.csv",
-    "AIO notebook/Advanced Data Visualization/Code/one_star_reviews.csv",
-    "AIO notebook/Advanced Data Visualization/Code/StudentsPerformance.csv",
-    "AIO notebook/Advanced Data Visualization/Code/Iris.csv",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
@@ -199,7 +206,6 @@
     "base-knowledge/Pandas knowledge/Sorting.md",
     "base-knowledge/Pandas knowledge/Groupby Operations.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
-    "AIO notebook/Untitled.md",
     "Attachments/1000000110.jpg",
     "Attachments/Pasted image 20240928082219.png",
     "Attachments/Pasted Image 20240928082200_036.png",
