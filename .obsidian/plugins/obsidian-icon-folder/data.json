@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiAccessibility",
       "🤔",
       "LiGithub",
       "LiPaintBucket",
@@ -35,5 +37,7 @@
   },
   "Excalidraw": "LiPaintBucket",
   "TeamVaultRepo": "LiGithub",
-  "AIO-knowledge": "🤔"
+  "AIO-knowledge": "LiAlbum",
+  "Attachments": "LiAccessibility",
+  "AIO notebook": "LiAlbum"
 }
