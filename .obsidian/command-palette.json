@@ -4,6 +4,7 @@
     "obsidian-linter:lint-file",
     "obsidian-excalidraw-plugin:excalidraw-insert-last-active-transclusion",
     "obsidian-link-embed:embed-link",
-    "obsidian-mind-map:app:markmap-preview"
+    "obsidian-mind-map:app:markmap-preview",
+    "obsidian-annotator:toggle-annotation-mode"
   ]
 }
