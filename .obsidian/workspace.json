@@ -33,9 +33,11 @@
             "id": "a1768b96983de6a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           }
@@ -183,8 +185,9 @@
   "active": "a1768b96983de6a6",
   "lastOpenFiles": [
     "Excalidraw/CLIP pipeline.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Drawing 2024-09-27 22.43.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-27 19.35.54.excalidraw.md",
     "Excalidraw/Fonts/DFVNBoris/OpenType-PS/DFVN Boris.otf",
     "Excalidraw/Fonts/DFVNBoris/OpenSource License.rtfd/TXT.rtf",
     "Excalidraw/Fonts/DFVNBoris/OpenType-PS",
@@ -197,7 +200,6 @@
     "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.ttf",
     "Excalidraw/Fonts/DFVNRawrote/DFVN Rawrote.otf",
     "Excalidraw/Fonts/DFVNRawrote",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/Fonts/phongchuviet.com-FS-Drustic-Dialy-FREE-DOWNLOAD/[phongchuviet.com] FS Drustic Dialy (FREE DOWNLOAD)/LIENHE-2.png",
     "Excalidraw/Fonts/JetBrainsMono/README.md",
     "Excalidraw/Fonts/ComicShannsMono/README.md",
