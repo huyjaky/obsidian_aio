@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "😼",
+      "⚓",
       "🧻",
       "🏋️‍♀️",
       "♿",
       "LiPaintbrush",
       "🥢",
-      "🩹",
-      "🏠",
-      "📔"
+      "🩹"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -37,12 +37,13 @@
     "debugMode": false
   },
   "Excalidraw": "♿",
-  "TeamVaultRepo": "LiGithub",
+  "TeamVaultRepo": "😼",
   "Attachments": "🥢",
   "AIO notebook": "📔",
   "base-knowledge": "📚",
   "base-knowledge/Advance knowledge": "🔼",
   "Math": "🏋️‍♀️",
   "Summarize Papers": "🧻",
-  "AIO homework": "🏠"
+  "AIO homework": "🏠",
+  "Terminology": "⚓"
 }
