@@ -5,3 +5,5 @@ Ta có lấy các hàng trong bảng dữ liệu dựa trên một số điều 
 data[((data['Year'] >= 2010) & (data['Year'] <= 2015))
       & (data['Rating'] < 6.0)
       & (data['Revenue (Millions)'] > data['Revenue (Millions)'].quantile(0.95))]
+```
+

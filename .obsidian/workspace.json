@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#correlation",
+                "query": "tag:#outliers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md"
+                "file": "base-knowledge/Graph knowledge/Boxplots.md"
               }
             }
           },
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,19 +140,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a65fb143cf9f6103",
+  "active": "dedee0f84526a454",
   "lastOpenFiles": [
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
+    "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
@@ -203,7 +203,6 @@
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
     "Attachments/Ink",
-    "Dataviewjs.md",
     "Attachments/Pasted image 20240928114540.png",
     "Attachments/Pasted image 20240928114040.png",
     "Attachments/Pasted image 20240928113738.png",
