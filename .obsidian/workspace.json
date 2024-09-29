@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP compatitive.excalidraw.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP compatitive.excalidraw.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484f3d472e6de821",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
+    "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
+    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
@@ -198,8 +200,7 @@
     "Terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "Attachments/Pasted image 20240928203218.png",
-    "Excalidraw/CLIP pipeline.excalidraw.md",
-    "Excalidraw/Zero-shot.excalidraw.md",
+    "Summarize Papers/Clip/Zero-shot.excalidraw.md",
     "base-knowledge/Statistics knowledge",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "Math/Softmax.md",
@@ -208,9 +209,8 @@
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Test.md",
     "Summarize Papers/Clip/Test note clip.md",
-    "Excalidraw/CLIP compatitive.excalidraw.md",
+    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "base-knowledge/Numpy.md",
-    "base-knowledge/Algorithm.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
