@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "484f3d472e6de821",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md"
+                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md"
               }
             }
           },
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
+                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
+                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a65fb143cf9f6103",
+  "active": "484f3d472e6de821",
   "lastOpenFiles": [
+    "base-knowledge/Graph knowledge/Boxplots.md",
+    "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Pasted image 20240929132349.png",
@@ -175,7 +188,6 @@
     "Summarize Papers/Clip/clip.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
-    "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
@@ -199,7 +211,6 @@
     "base-knowledge/Numpy.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Pandas.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "Attachments/Ink/Writing/2024.9.28 - 12.34pm.writing",
     "Attachments/Ink/Writing/2024.9.28 - 12.32pm.writing",
     "Attachments/Ink/Writing",
