@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +168,8 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
-    "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
+    "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
