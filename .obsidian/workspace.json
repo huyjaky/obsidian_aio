@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +168,13 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
