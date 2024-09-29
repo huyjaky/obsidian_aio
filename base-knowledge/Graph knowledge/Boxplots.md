@@ -1,6 +1,6 @@
 ## Cách đọc biểu đồ Boxplot
 
-#Graph #data #pandas #outliners 
+#Graph #data #pandas #outliners #seaborn 
 
 **Đọc thêm:\
 - [[Data-Visualization_v2.pdf]] slide 31->40
