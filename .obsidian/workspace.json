@@ -115,6 +115,35 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0d5d6cc1a384d9a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6950c6081ac90305",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
