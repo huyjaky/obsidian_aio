@@ -11,12 +11,8 @@
             "id": "a65fb143cf9f6103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +160,7 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
+    "base-knowledge/Graph knowledge/Boxplots.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
@@ -189,7 +182,6 @@
     "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
-    "base-knowledge/Graph knowledge/Boxplots.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Pasted image 20240929132349.png",
