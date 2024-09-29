@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Summarize Papers/Clip/clip.pdf",
-                "page": 3,
+                "page": 1,
                 "left": -10,
-                "top": 617,
+                "top": 717,
                 "zoom": 1.4558823529411764
               }
             }
@@ -165,6 +165,10 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Summarize Papers/Clip/clip.pdf",
+    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
+    "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
@@ -172,7 +176,6 @@
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Terminology/Zero-shot.excalidraw.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
@@ -183,12 +186,9 @@
     "AIO homework/Week 3/Description/ex1w03/opsd_germany_daily.csv",
     "AIO homework/Week 3/Description/ex1w03/ex2.py",
     "AIO homework/Week 3/Description/ex1w03/ex1.py",
-    "AIO homework/Week 3/Description/ex1w03/IMDB-Movie-Data.csv",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "Test Plugin Note.md",
-    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
