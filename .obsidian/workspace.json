@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484f3d472e6de821",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Excalidraw/Drawing 2024-09-29 13.44.05.excalidraw.md",
+    "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Pasted image 20240929132349.png",
