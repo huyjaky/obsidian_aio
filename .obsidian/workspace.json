@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f81e8b8300b3dc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Terminology/Zero-shot.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
