@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md"
+                "file": "Terminology/Zero-shot.excalidraw.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md"
+                "file": "Terminology/Zero-shot.excalidraw.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
+                "file": "Terminology/Zero-shot.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
+                "file": "Terminology/Zero-shot.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,13 @@
   },
   "active": "6f81e8b8300b3dc7",
   "lastOpenFiles": [
-    "Test Plugin Note.md",
-    "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
-    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Terminology/Zero-shot classifier accuracy.md",
+    "Terminology/Zero-shot.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
+    "Test Plugin Note.md",
+    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
@@ -202,7 +205,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Pasted image 20240929132349.png",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
@@ -212,10 +214,8 @@
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
-    "Terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "Attachments/Pasted image 20240928203218.png",
-    "Summarize Papers/Clip/Zero-shot.excalidraw.md",
     "base-knowledge/Statistics knowledge",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "Math/Softmax.md",
