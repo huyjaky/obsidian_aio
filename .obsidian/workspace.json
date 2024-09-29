@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
+                "file": "base-knowledge/Graph knowledge/Boxplots.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "base-knowledge/Graph knowledge/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +168,8 @@
   },
   "active": "a65fb143cf9f6103",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Pasted image 20240929132349.png",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
@@ -194,7 +196,6 @@
     "Test.md",
     "Summarize Papers/Clip/Test note clip.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
-    "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Algorithm.md",
     "base-knowledge/Pandas.md",
@@ -212,7 +213,6 @@
     "base-knowledge/Advance knowledge",
     "base-knowledge/Graph knowledge",
     "AIO notebook/Data Analysis with Time Series data",
-    "Attachments/1000000110.jpg",
-    "Attachments/Pasted image 20240928082219.png"
+    "Attachments/1000000110.jpg"
   ]
 }
