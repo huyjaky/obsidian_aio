@@ -14,4 +14,6 @@ Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ 
 
 ![[Pasted image 20240926164105.png]]
 
-<font color="#f79646">Knn classifier != knn regression because knn regression is used for predicting the new value. opposite, knn classifier is used for classification</font>
+Knn classifier != knn regression
+1. classifier: để phân loại
+2. regression: dùng để dự đoán với công thức $Y_{\text{pred}} = \frac{1}{k} \sum_{x \in NB} y_x$
