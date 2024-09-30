@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
-                "page": 2,
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
+                "page": 1,
                 "left": -10,
-                "top": 670,
+                "top": 796,
                 "zoom": 1.4558823529411764
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,27 +165,28 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Rubric.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Slide",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Description/Rubric.pdf",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
-    "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "Math/Softmax.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "Terminology/Zero-shot.excalidraw.md",
-    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
-    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf.crdownload",
-    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
-    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf.crdownload",
-    "AIO homework/Week 3/ex3w03",
-    "AIO homework/Week 3/Description/ex1w03/opsd_germany_daily.csv",
-    "AIO homework/Week 3/Description/ex1w03/ex2.py",
-    "AIO homework/Week 3/Description/ex1w03/ex1.py",
     "Terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "Test Plugin Note.md",
