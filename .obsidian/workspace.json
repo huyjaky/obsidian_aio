@@ -13,17 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fec86024ed989fc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           },
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +162,7 @@
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
     "Terminology/Zero-shot.excalidraw.md",
+    "Terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
@@ -179,7 +170,6 @@
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 07.11.01.excalidraw.md",
-    "Terminology/Zero-shot classifier accuracy.md",
     "Readme.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "Summarize Papers/Clip/clip.pdf",
