@@ -25,9 +25,9 @@
               "state": {
                 "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
                 "page": 24,
-                "left": -31,
-                "top": 180,
-                "zoom": 0.5062500000000001
+                "left": -29,
+                "top": 185,
+                "zoom": 0.5359375000000001
               }
             }
           }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -177,7 +178,9 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
+    "Test Plugin Note.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "Readme.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
@@ -199,7 +202,6 @@
     "Attachments/image.png",
     "Attachments/Tree Data Structure_v4.pdf",
     "Terminology/Zero-shot.excalidraw.md",
-    "Readme.md",
     "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
@@ -213,7 +215,6 @@
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
-    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Attachments/Pasted image 20240929132349.png",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
