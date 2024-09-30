@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md"
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +165,9 @@
   },
   "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
-    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+    "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Terminology/Cross-entropy.md",
     "Excalidraw/Testplugin.excalidraw.md",
@@ -193,7 +195,6 @@
     "Excalidraw/Drawing 2024-09-30 20.11.29.excalidraw.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
     "Excalidraw/Drawing 2024-09-30 19.42.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 19.42.36.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
