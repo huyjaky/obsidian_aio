@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d96c203acc617f06",
+        "id": "b4b68038ce8d9348",
         "type": "tabs",
         "children": [
           {
-            "id": "74e919d4cf706618",
+            "id": "ec57994ef9acc1e8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Brute-force.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Brute-force.excalidraw.md"
+                "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Brute-force.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Brute-force.excalidraw.md",
+                "file": "Excalidraw/Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +160,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "74e919d4cf706618",
+  "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
+    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "Terminology/Brute Force.md",
     "Excalidraw/Brute-force.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
     "Readme.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Advance knowledge/Search Algorithm",
@@ -187,7 +188,6 @@
     "Terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-30 20.11.29.excalidraw.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "Excalidraw/Drawing 2024-09-30 19.42.49.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 19.42.36.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
