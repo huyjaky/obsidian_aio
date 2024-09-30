@@ -1,4 +1,4 @@
-#pandas #Graph #matplotlib
+#pandas #Graph #matplotlib #notebook #Knowledge 
 
 
 ### Quy trình tìm ra đồ thị cần để hiển thị những thứ mình cần
