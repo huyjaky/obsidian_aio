@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Summarize Papers/Clip/clip.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -10,
-                "top": 721,
+                "top": 670,
                 "zoom": 1.4558823529411764
               }
             }
@@ -167,8 +167,9 @@
   "lastOpenFiles": [
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/clip.pdf",
-    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
+    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
+    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
@@ -176,7 +177,6 @@
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
     "Terminology/Zero-shot.excalidraw.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf.crdownload",
