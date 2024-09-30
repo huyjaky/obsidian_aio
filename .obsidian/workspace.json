@@ -11,17 +11,26 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 650,
-                "zoom": 1.3051470588235294
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec86024ed989fc7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf"
+                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
               }
             }
           },
@@ -116,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
+                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
+                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,19 +172,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "74e919d4cf706618",
+  "active": "fec86024ed989fc7",
   "lastOpenFiles": [
+    "Readme.md",
+    "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "Summarize Papers/Clip/clip.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Rubric.pdf",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Slide",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides-20240930T051347Z-001/Descrition + Slides/Description/Rubric.pdf",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
@@ -201,7 +211,6 @@
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Statistics knowledge/Correlation efficency.md",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
     "Attachments/Pasted image 20240928114540.png",
