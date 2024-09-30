@@ -11,12 +11,8 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -29,8 +25,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,40 +134,42 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fec86024ed989fc7",
+  "active": "c1001dea380aa5e1",
   "lastOpenFiles": [
-    "Readme.md",
+    "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 07.11.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
+    "Terminology/Zero-shot classifier accuracy.md",
+    "Readme.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "Summarize Papers/Clip/clip.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
@@ -197,8 +191,6 @@
     "base-knowledge/Pandas.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "Terminology/Zero-shot.excalidraw.md",
-    "Terminology/Zero-shot classifier accuracy.md",
-    "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "Test Plugin Note.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 14.38.28.excalidraw.md",
@@ -210,7 +202,6 @@
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
     "base-knowledge/Numpy knowledge/Broadcasting with diff depth.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
     "Attachments/Pasted image 20240928114540.png",
