@@ -16,20 +16,6 @@
                 "file": "Excalidraw/Testplugin.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "e0ed10a6c98995a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-                "page": 24,
-                "left": -29,
-                "top": 185,
-                "zoom": 0.5359375000000001
-              }
-            }
           }
         ],
         "stacked": true
@@ -178,10 +164,10 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
-    "Test Plugin Note.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-    "Readme.md",
     "Excalidraw/Testplugin.excalidraw.md",
+    "Test Plugin Note.md",
+    "Readme.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Terminology/Brute Force.md",
