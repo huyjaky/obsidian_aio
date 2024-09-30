@@ -11,9 +11,11 @@
             "id": "ec57994ef9acc1e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md"
               }
             }
           },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +164,8 @@
   },
   "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
+    "Terminology/Cross-entropy.md",
+    "Excalidraw/Testplugin.excalidraw.md",
     "base-knowledge/Advance knowledge/Search Algorithm/Searching in KNN.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "Terminology/Brute Force.md",
@@ -184,7 +188,6 @@
     "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Summarize Papers/Clip/CLIP compatitive.excalidraw.md",
-    "Excalidraw/Testplugin.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Excalidraw/Drawing 2024-09-30 20.11.29.excalidraw.md",
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
@@ -193,7 +196,6 @@
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "Summarize Papers/Clip/clip.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
