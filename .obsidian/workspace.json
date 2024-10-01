@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "f1ce960d2e13814e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "76a886a8a84ba087",
             "type": "leaf",
             "state": {
@@ -43,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           },
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +176,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f1ce960d2e13814e",
+  "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Attachments/image_2.png",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/Họp",
