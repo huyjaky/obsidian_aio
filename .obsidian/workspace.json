@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +187,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f1ce960d2e13814e",
+  "active": "76a886a8a84ba087",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Attachments/image_2.png",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/Họp",
