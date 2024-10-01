@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76a886a8a84ba087",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           },
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +162,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "76a886a8a84ba087",
+  "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
+    "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "Attachments/image_2.png",
     "TeamVaultRepo/Họp",
     "TeamVaultRepo/TrienKHai.canvas",
