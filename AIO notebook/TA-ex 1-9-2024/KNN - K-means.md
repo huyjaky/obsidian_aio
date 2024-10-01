@@ -1,13 +1,9 @@
 
-```handwritten-ink
-{
-	"versionAtEmbed": "0.2.6",
-	"filepath": "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing"
-}
-```
 #notebook #Knowledge 
 
 ## Làm thế nào để chọn K cho hợp lý trong KNN - Kmeans
 -> Tăng Acc đến đỉnh, giảm Err thấp nhất, và F-score hợp lý
 
-
+## Pipeline xử lý và đánh dấu label đặc trưng cho đoạn văn
+![[[Slide]-KNN-KMean_v2.pdf#page=29&rect=11,20,942,464&color=red|[Slide]-KNN-KMean_v2, p.29]]
+![[[Slide]-KNN-KMean_v2.pdf#page=30&rect=11,8,954,532|[Slide]-KNN-KMean_v2, p.30]]

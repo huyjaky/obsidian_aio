@@ -11,25 +11,9 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17ddb55893b01c65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-                "page": 29,
-                "left": -31,
-                "top": 458,
-                "zoom": 0.50625
+                "file": "Testplugin.excalidraw.md"
               }
             }
           }
@@ -111,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md"
+                "file": "Testplugin.excalidraw.md"
               }
             }
           },
@@ -129,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,14 +163,14 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Cross-entropy.md",
     "Terminology/Brute Force.md",
-    "Excalidraw/Testplugin.excalidraw.md",
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "Testplugin.excalidraw.md",
     "Test Plugin Note.md",
     "Readme.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
@@ -214,7 +198,6 @@
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Attachments/Pasted image 20240929132349.png",
