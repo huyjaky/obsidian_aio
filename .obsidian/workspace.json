@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 20.09.30.excalidraw.md"
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 20.09.30.excalidraw.md"
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 20.09.30.excalidraw.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 20.09.30.excalidraw.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +173,39 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f1ce960d2e13814e",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
+    "TeamVaultRepo/Họp",
+    "TeamVaultRepo/TrienKHai.canvas",
+    "TeamVaultRepo/PhuongAnTrienKhai.canvas",
+    "TeamVaultRepo/Phuc/maybe meme.md",
+    "TeamVaultRepo/Phuc/Images/UniFormerV2.png",
+    "TeamVaultRepo/Phuc/Images/On the RWF-2000 dataset.png",
+    "TeamVaultRepo/Phuc/Images/On the RLVS dataset.png",
+    "TeamVaultRepo/Phuc/Images/CUE-Net.png",
+    "TeamVaultRepo/Phuc/Images",
+    "TeamVaultRepo/Phuc/CUE-net.md",
+    "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
+    "TeamVaultRepo/Phuc/2404.18952v1.pdf",
+    "TeamVaultRepo/Phuc",
+    "TeamVaultRepo/Images/test.png",
+    "TeamVaultRepo/Images/Screenshot 2024-09-02 205647.png",
+    "TeamVaultRepo/Images/Pasted image 20240902220150.png",
+    "TeamVaultRepo/Images/Pasted image 20240902213427.png",
+    "TeamVaultRepo/Images/Pasted image 20240902212024.png",
+    "TeamVaultRepo/Images/Pasted image 20240902084316.png",
+    "TeamVaultRepo/Images",
+    "TeamVaultRepo/Huy/Untitled.md",
+    "TeamVaultRepo/Huy/Untitled.canvas",
+    "TeamVaultRepo/Huy/Images",
+    "TeamVaultRepo/Huy",
+    "TeamVaultRepo/Han/Han.md",
+    "TeamVaultRepo/Han",
+    "TeamVaultRepo/DanhGiaPaper.md",
+    "TeamVaultRepo/BaoCao.md",
+    "TeamVaultRepo/().md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "Excalidraw/Drawing 2024-10-01 20.09.30.excalidraw.md",
+    "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Terminology/Norm.md",
@@ -192,34 +221,9 @@
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Attachments/image_1.png",
-    "Attachments/Pasted image 20241001082750.png",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
-    "AIO notebook/TA-ex 1-9-2024/Code/[Solution]_KNN.ipynb",
-    "AIO notebook/TA-ex 1-9-2024/Code/[Solution]_K-mean.ipynb",
-    "AIO notebook/TA-ex 1-9-2024/Code/Description_K_mean.ipynb",
-    "AIO notebook/TA-ex 1-9-2024/Code",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
-    "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
-    "Terminology/Cross-entropy.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
-    "Excalidraw/Brute-force.excalidraw.md",
-    "Readme.md",
-    "base-knowledge/Advance knowledge/KNN - K-means",
-    "Excalidraw/Zero-shot.excalidraw.md",
-    "Excalidraw/CLIP pipeline.excalidraw.md",
-    "Excalidraw/CLIP ideas.excalidraw.md",
-    "Excalidraw/CLIP compatitive.excalidraw.md",
-    "Attachments/image_0.png",
-    "Attachments/image.png",
-    "Attachments/Tree Data Structure_v4.pdf",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Attachments/Pasted image 20240929132349.png",
-    "Attachments/Pasted image 20240928203218.png",
-    "Attachments/Pasted image 20240928190846.png",
-    "Attachments/Pasted image 20240928114540.png"
+    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
   ]
 }
