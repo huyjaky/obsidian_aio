@@ -27,53 +27,10 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "5702542aabdaf795"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a25884af13f7a578",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd3fe353fe1ecac9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.3613103748023405,
-                  "close": false
-                }
-              }
-            },
-            "group": "5702542aabdaf795"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +173,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cd3fe353fe1ecac9",
+  "active": "1c81eeeb5a4a4727",
   "lastOpenFiles": [
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
-    "Terminology/Brute Force.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "Excalidraw/KD-tree.excalidraw.md",
+    "Terminology/Brute Force.md",
     "Terminology/BoW (Bag of word).md",
     "Excalidraw/KNN.excalidraw.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
@@ -244,10 +204,8 @@
     "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
     "Excalidraw/Brute-force.excalidraw.md",
     "Readme.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Advance knowledge/KNN - K-means",
     "Excalidraw/Zero-shot.excalidraw.md",
-    "Excalidraw/KD-tree.excalidraw.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/CLIP ideas.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",
