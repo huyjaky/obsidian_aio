@@ -4,44 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b68038ce8d9348",
-        "type": "tabs",
+        "id": "6f4b246d81bb0504",
+        "type": "split",
         "children": [
           {
-            "id": "ec57994ef9acc1e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/KNN-norm.excalidraw.md"
+            "id": "b4b68038ce8d9348",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ec57994ef9acc1e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c81eeeb5a4a4727",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Terminology/Norm.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "798563b80dea05e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "1c81eeeb5a4a4727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminology/Norm.md",
-                "mode": "source",
-                "source": false
+            "id": "7d8600aebcc59b1b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8599f296c8566f1",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "798563b80dea05e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -118,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/KNN-norm.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           },
@@ -136,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/KNN-norm.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/KNN-norm.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,13 +209,13 @@
   },
   "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
-    "Excalidraw/KNN.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
-    "Excalidraw/KNN-norm.excalidraw.md",
-    "Terminology/Norm.md",
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "Terminology/Norm.md",
+    "Excalidraw/KNN-norm.excalidraw.md",
+    "Excalidraw/KNN.excalidraw.md",
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "Excalidraw/KD-tree.excalidraw.md",
     "Terminology/Brute Force.md",
     "Terminology/BoW (Bag of word).md",
