@@ -18,6 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17ddb55893b01c65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+                "page": 29,
+                "left": -31,
+                "top": 458,
+                "zoom": 0.50625
+              }
+            }
           }
         ],
         "stacked": true
@@ -165,18 +179,19 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
-    "Excalidraw/Testplugin.excalidraw.md",
+    "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "Terminology/Cross-entropy.md",
+    "Terminology/Brute Force.md",
+    "Excalidraw/Testplugin.excalidraw.md",
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "Test Plugin Note.md",
     "Readme.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
-    "Terminology/Brute Force.md",
-    "Terminology/Cross-entropy.md",
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "base-knowledge/Advance knowledge/KNN - K-means",
     "Excalidraw/Zero-shot.excalidraw.md",
