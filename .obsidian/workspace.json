@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Testplugin.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "99b62bc4590bb341",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md"
+                "file": "Excalidraw/KNN.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md"
+                "file": "Excalidraw/KNN.excalidraw.md"
               }
             }
           },
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
+                "file": "Excalidraw/KNN.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
+                "file": "Excalidraw/KNN.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +160,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "99b62bc4590bb341",
+  "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
-    "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
+    "Excalidraw/Testplugin.excalidraw.md",
+    "Excalidraw/KNN.excalidraw.md",
     "Testplugin.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Terminology/BoW (Bag of word).md",
