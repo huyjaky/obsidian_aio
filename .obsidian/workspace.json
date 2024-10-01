@@ -23,14 +23,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "Terminology/Norm.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "798563b80dea05e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-01 19.47.42.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md"
+                "file": "Excalidraw/Drawing 2024-10-01 19.47.42.excalidraw.md"
               }
             }
           },
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "Excalidraw/Drawing 2024-10-01 19.47.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "Excalidraw/Drawing 2024-10-01 19.47.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +183,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1c81eeeb5a4a4727",
+  "active": "798563b80dea05e1",
   "lastOpenFiles": [
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "Terminology/Norm.md",
+    "Excalidraw/Drawing 2024-10-01 19.47.42.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Excalidraw/KD-tree.excalidraw.md",
@@ -213,8 +225,6 @@
     "Attachments/image.png",
     "Attachments/Tree Data Structure_v4.pdf",
     "Terminology/Zero-shot.excalidraw.md",
-    "Summarize Papers/Clip/CLIP pipeline.excalidraw.md",
-    "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Attachments/Pasted image 20240929132349.png",
