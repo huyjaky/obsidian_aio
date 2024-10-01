@@ -23,17 +23,14 @@
             "id": "76a886a8a84ba087",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
-                "page": 3,
-                "left": -11,
-                "top": 24,
-                "zoom": 1.3455882352941178
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md"
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
               }
             }
           },
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,15 +173,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec57994ef9acc1e8",
+  "active": "76a886a8a84ba087",
   "lastOpenFiles": [
-    "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
-    "Attachments/image_2.png",
     "base-knowledge/Algorithm knowledge/KNN.md",
+    "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "Attachments/image_2.png",
     "TeamVaultRepo/Họp",
     "TeamVaultRepo/TrienKHai.canvas",
-    "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/Phuc/maybe meme.md",
     "TeamVaultRepo/Phuc/Images/UniFormerV2.png",
     "TeamVaultRepo/Phuc/Images/On the RWF-2000 dataset.png",
