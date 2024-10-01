@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b68038ce8d9348",
+        "id": "3918d716401b1b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec57994ef9acc1e8",
+            "id": "75f81b3a5bedb0da",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -160,10 +160,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec57994ef9acc1e8",
+  "active": "75f81b3a5bedb0da",
   "lastOpenFiles": [
-    "Terminology/Zero-shot classifier accuracy.md",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "Terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
