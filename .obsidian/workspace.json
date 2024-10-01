@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
