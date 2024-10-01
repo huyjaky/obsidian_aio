@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/KNN.excalidraw.md"
+                "file": "Testplugin.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/KNN.excalidraw.md"
+                "file": "Testplugin.excalidraw.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/KNN.excalidraw.md",
+                "file": "Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/KNN.excalidraw.md",
+                "file": "Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +162,9 @@
   },
   "active": "ec57994ef9acc1e8",
   "lastOpenFiles": [
+    "Excalidraw/KNN.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
-    "Excalidraw/KNN.excalidraw.md",
     "Testplugin.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Terminology/BoW (Bag of word).md",
