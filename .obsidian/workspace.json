@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +165,11 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Terminology/BoW (Bag of word).md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
     "Attachments/image_1.png",
     "Attachments/Pasted image 20241001082750.png",
@@ -204,7 +204,6 @@
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Rubric.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
     "Attachments/Pasted image 20240929132349.png",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
