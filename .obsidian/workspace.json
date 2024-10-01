@@ -4,6 +4,37 @@
     "type": "split",
     "children": [
       {
+        "id": "c0be96b932699c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ad78dd83606daa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+                "page": 28,
+                "left": -35,
+                "top": 5,
+                "zoom": 0.45
+              }
+            }
+          },
+          {
+            "id": "f7a911c5be9f5b8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "d96c203acc617f06",
         "type": "tabs",
         "children": [
@@ -11,9 +42,11 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Testplugin.excalidraw.md"
+                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testplugin.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md"
               }
             }
           },
@@ -113,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testplugin.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testplugin.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +194,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "74e919d4cf706618",
+  "active": "f7a911c5be9f5b8f",
   "lastOpenFiles": [
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "Terminology/BoW (Bag of word).md",
+    "Attachments/Pasted image 20241001082750.png",
+    "Testplugin.excalidraw.md",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Cross-entropy.md",
     "Terminology/Brute Force.md",
-    "Testplugin.excalidraw.md",
     "Test Plugin Note.md",
     "Readme.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
@@ -198,15 +234,12 @@
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Summarize Papers/Clip/CLIP ideas.excalidraw.md",
     "Attachments/Pasted image 20240929132349.png",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
     "Attachments/Pasted image 20240928114540.png",
     "Attachments/Pasted image 20240928114040.png",
     "Attachments/Pasted image 20240928113738.png",
-    "Attachments/Pasted image 20240928113019.png",
-    "Attachments/Pasted image 20240928112739.png"
+    "Attachments/Pasted image 20240928113019.png"
   ]
 }
