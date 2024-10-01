@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
-                "page": 2,
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
+                "page": 4,
                 "left": -11,
-                "top": 674,
+                "top": 742,
                 "zoom": 1.3455882352941178
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf"
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/clip.pdf",
+                "file": "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +167,12 @@
   "active": "75f81b3a5bedb0da",
   "lastOpenFiles": [
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
+    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
+    "Summarize Papers/Clip/clip.pdf",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
-    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Attachments/image_2.png",
     "TeamVaultRepo/Họp",
     "TeamVaultRepo/TrienKHai.canvas",
@@ -208,13 +210,10 @@
     "Excalidraw/KD-tree.excalidraw.md",
     "Terminology/Brute Force.md",
     "Terminology/BoW (Bag of word).md",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Testplugin.excalidraw.md",
     "Test Plugin Note.md",
     "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
