@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c0be96b932699c4d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7a911c5be9f5b8f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d96c203acc617f06",
         "type": "tabs",
         "children": [
@@ -181,16 +165,17 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
-    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
-    "Attachments/image_1.png",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Terminology/BoW (Bag of word).md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
+    "Attachments/image_1.png",
     "Attachments/Pasted image 20241001082750.png",
     "Testplugin.excalidraw.md",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Cross-entropy.md",
     "Terminology/Brute Force.md",
     "Test Plugin Note.md",
