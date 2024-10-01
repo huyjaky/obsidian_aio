@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md"
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "f1ce960d2e13814e",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/Họp",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
@@ -204,7 +205,6 @@
     "TeamVaultRepo/DanhGiaPaper.md",
     "TeamVaultRepo/BaoCao.md",
     "TeamVaultRepo/().md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
@@ -222,7 +222,6 @@
     "Excalidraw/Testplugin.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md"
   ]
