@@ -11,9 +11,11 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Testplugin.excalidraw.md"
+                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testplugin.excalidraw.md"
+                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testplugin.excalidraw.md",
+                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testplugin.excalidraw.md",
+                "file": "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +163,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "74e919d4cf706618",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
+    "AIO notebook/TA-ex 1-9-2024/Code/Description_K_mean.ipynb",
+    "AIO notebook/TA-ex 1-9-2024/Code/[Solution]_KNN.ipynb",
+    "AIO notebook/TA-ex 1-9-2024/Code/[Solution]_K-mean.ipynb",
+    "Testplugin.excalidraw.md",
+    "AIO notebook/TA-ex 1-9-2024/Code",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
@@ -172,7 +179,6 @@
     "Excalidraw/Drawing 2024-10-01 08.28.41.excalidraw.md",
     "Attachments/image_1.png",
     "Attachments/Pasted image 20241001082750.png",
-    "Testplugin.excalidraw.md",
     "Attachments/Ink/Writing/2024.10.1 - 8.18am.writing",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Terminology/Cross-entropy.md",
@@ -199,9 +205,6 @@
     "Excalidraw/Drawing 2024-09-30 07.11.01.excalidraw.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
     "Summarize Papers/Clip/clip.pdf",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Rubric.pdf",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
     "Attachments/Pasted image 20240929132349.png",
     "Attachments/Pasted image 20240928203218.png",
     "Attachments/Pasted image 20240928190846.png",
