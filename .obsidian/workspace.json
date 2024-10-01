@@ -11,11 +11,9 @@
             "id": "74e919d4cf706618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
-                "mode": "source",
-                "source": false
+                "file": "Testplugin.excalidraw.md"
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "Testplugin.excalidraw.md"
               }
             }
           },
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Testplugin.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "Testplugin.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,6 +163,7 @@
   },
   "active": "74e919d4cf706618",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/~$NOTE.docx",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
@@ -196,7 +195,6 @@
     "Attachments/Tree Data Structure_v4.pdf",
     "Terminology/Zero-shot.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 13.03.20.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Excalidraw/Drawing 2024-09-29 16.36.45.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 07.11.01.excalidraw.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
