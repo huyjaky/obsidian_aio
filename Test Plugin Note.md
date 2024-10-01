@@ -2,3 +2,4 @@
 ![[[Slide]-KNN-KMean_v2.pdf#page=25&rect=17,38,923,460|[Slide]-KNN-KMean_v2, p.25]]
 
 
+![[Testplugin.excalidraw|800]]

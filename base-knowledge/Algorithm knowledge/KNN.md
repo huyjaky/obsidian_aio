@@ -37,3 +37,5 @@ Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ 
 Knn classifier != knn regression
 1. classifier: để phân loại
 2. regression: dùng để dự đoán với công thức $Y_{\text{pred}} = \frac{1}{k} \sum_{x \in NB} y_x$
+
+
