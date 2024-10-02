@@ -4,8 +4,7 @@
 
 Thuật toán **K-Means** là một thuật toán phân cụm phổ biến và được sử dụng rộng rãi trong các bài toán học máy (machine learning) và khai phá dữ liệu (data mining). Mục tiêu của K-Means là phân chia n điểm dữ liệu thành k cụm sao cho các điểm trong cùng một cụm có độ tương đồng cao nhất.
 
-Quy trình cơ bản của K-Means bao gồm các bước sau:
-
+## Quy trình cơ bản của K-Means bao gồm các bước sau:
 
 ![[[Slide]-KNN-KMean_v2.pdf#page=51&rect=109,3,475,403&color=important|[Slide]-KNN-KMean_v2, p.51]]
 
