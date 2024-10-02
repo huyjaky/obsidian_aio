@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "46fcae009de56904",
+            "id": "9345765224653ebd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +181,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "46fcae009de56904",
+  "active": "9345765224653ebd",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Bảng ký hiệu toán học.md",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
