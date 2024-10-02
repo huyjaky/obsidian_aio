@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3918d716401b1b4d",
+        "id": "181787d1b1cb7af4",
         "type": "tabs",
         "children": [
           {
-            "id": "399b44b66bb38c25",
+            "id": "05d585346cfa521e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md"
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +170,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "399b44b66bb38c25",
+  "active": "05d585346cfa521e",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
+    "base-knowledge/Algorithm.md",
     "Excalidraw/KNN.excalidraw.md",
     "Terminology/BoW (Bag of word).md",
     "Excalidraw/KNN-norm.excalidraw.md",
@@ -187,11 +189,9 @@
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Terminology/Clustering.md",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Terminology/Bảng ký hiệu toán học.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
@@ -211,7 +211,6 @@
     "Test Plugin Note.md",
     "Testplugin.excalidraw.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
-    "Excalidraw/Drawing 2024-10-02 16.37.24.excalidraw.md",
     "AIO notebook/TA-ex",
     "Attachments/Ebooks/book_ML_color.pdf",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
