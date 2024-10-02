@@ -4,6 +4,16 @@
 
 Thuật toán **K-Means** là một thuật toán phân cụm phổ biến và được sử dụng rộng rãi trong các bài toán học máy (machine learning) và khai phá dữ liệu (data mining). Mục tiêu của K-Means là phân chia n điểm dữ liệu thành k cụm sao cho các điểm trong cùng một cụm có độ tương đồng cao nhất.
 
+- **Clustering** (Phân cụm) là một **kỹ thuật học máy không giám sát** được thiết kế để nhóm các **ví dụ chưa được gán nhãn** dựa trên sự tương đồng của chúng với nhau. (Nếu các ví dụ đã được gán nhãn, loại phân nhóm này được gọi là phân loại.)
+
+- **Ứng dụng của Phân cụm**:
+  - **Phân khúc thị trường**: Các doanh nghiệp sử dụng phân cụm để nhóm khách hàng dựa trên các mẫu mua hàng, nhân khẩu học và sở thích nhằm tùy chỉnh chiến lược tiếp thị.
+  
+  - **Phát hiện bất thường**: Phân cụm có thể nhận diện các điểm dữ liệu bất thường không phù hợp với bất kỳ nhóm nào. Những bất thường này có thể cho thấy hoạt động gian lận, lỗi cơ học hoặc lỗi trong quá trình thu thập dữ liệu.
+  
+  - **Phân đoạn hình ảnh**: Trong xử lý hình ảnh, phân cụm được sử dụng để chia một hình ảnh thành các phân đoạn đại diện cho các đối tượng hoặc vùng khác nhau để phân tích sâu hơn.
+
+
 Quy trình cơ bản của K-Means bao gồm các bước sau:
 
 1. **Khởi tạo**: Lựa chọn ngẫu nhiên k điểm từ tập dữ liệu làm các tâm cụm ban đầu.

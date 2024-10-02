@@ -2,7 +2,7 @@
 
 **Anomaly detection** (phát hiện bất thường) là quá trình nhận diện các điểm dữ liệu, sự kiện hoặc quan sát khác biệt so với mẫu hành vi thông thường trong một tập dữ liệu. Những bất thường này có thể biểu thị các sự kiện quan trọng như lỗi hệ thống, gian lận, hoặc các hành vi không mong muốn trong một hệ thống.
 
-
+![[Anomaly.excalidraw|800]]
 
 ## Các loại bất thường
 Có ba loại bất thường chính:

@@ -23,9 +23,11 @@
             "id": "2cdca1880380f172",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           },
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +178,9 @@
   "active": "2cdca1880380f172",
   "lastOpenFiles": [
     "Terminology/Anomaly detection.md",
-    "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+    "Excalidraw/Anomaly.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
     "AIO notebook/Untitled.md",
