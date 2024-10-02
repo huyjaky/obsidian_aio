@@ -7,6 +7,7 @@ Thuật toán **K-Means** là một thuật toán phân cụm phổ biến và �
 Quy trình cơ bản của K-Means bao gồm các bước sau:
 
 
+![[[Slide]-KNN-KMean_v2.pdf#page=51&rect=109,3,475,403&color=important|[Slide]-KNN-KMean_v2, p.51]]
 
 1. **Khởi tạo**: Lựa chọn ngẫu nhiên k điểm từ tập dữ liệu làm các tâm cụm ban đầu.
 
