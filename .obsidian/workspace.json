@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "base-knowledge/Algorithm knowledge/KD-tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md"
+                "file": "base-knowledge/Algorithm knowledge/KD-tree.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "base-knowledge/Algorithm knowledge/KD-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
+                "file": "base-knowledge/Algorithm knowledge/KD-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +165,17 @@
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "Excalidraw/KNN-norm.excalidraw.md",
-    "Excalidraw/KNN.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Terminology/Norm.md",
+    "Excalidraw/KNN-norm.excalidraw.md",
+    "base-knowledge/Thư viện vẽ đồ thị.md",
+    "Summarize Papers/Clip/clip.pdf",
+    "Readme.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "Excalidraw/KNN.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
-    "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "Attachments/image_2.png",
@@ -202,7 +206,6 @@
     "TeamVaultRepo/DanhGiaPaper.md",
     "TeamVaultRepo/BaoCao.md",
     "TeamVaultRepo/().md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "Excalidraw/KD-tree.excalidraw.md",
@@ -210,8 +213,6 @@
     "Terminology/BoW (Bag of word).md",
     "Testplugin.excalidraw.md",
     "Test Plugin Note.md",
-    "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
-    "Excalidraw/Testplugin.excalidraw.md",
-    "conflict-files-obsidian-git.md"
+    "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md"
   ]
 }
