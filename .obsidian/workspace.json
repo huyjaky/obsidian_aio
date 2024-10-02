@@ -11,11 +11,13 @@
             "id": "399b44b66bb38c25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Terminology/Clustering.md",
-                "mode": "source",
-                "source": false
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+                "page": 51,
+                "left": -17,
+                "top": 472,
+                "zoom": 0.8578125
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Clustering.md"
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Clustering.md",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Clustering.md",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +174,11 @@
   },
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
+    "Terminology/Clustering.md",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
     "Terminology/Norm.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Pandas.md",
-    "Terminology/Clustering.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Excalidraw/KNN.excalidraw.md",
