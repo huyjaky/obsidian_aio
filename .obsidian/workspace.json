@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "181787d1b1cb7af4",
+        "id": "32502e1abc15ad76",
         "type": "tabs",
         "children": [
           {
-            "id": "05d585346cfa521e",
+            "id": "51ae2cc4901f8aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Terminology/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md"
+                "file": "Terminology/Clustering.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Terminology/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Terminology/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +170,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "05d585346cfa521e",
+  "active": "51ae2cc4901f8aeb",
   "lastOpenFiles": [
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm.md",
     "Excalidraw/KNN.excalidraw.md",

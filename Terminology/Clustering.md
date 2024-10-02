@@ -1,5 +1,5 @@
 #clustering #Terminology 
-**Clustering** (Phân cụm) là một **kỹ thuật học máy không giám sát** được thiết kế để nhóm các **ví dụ chưa được gán nhãn** dựa trên sự tương đồng của chúng với nhau. (Nếu các ví dụ đã được gán nhãn, loại phân nhóm này được gọi là phân loại.)
+**Clustering** (Phân cụm) là một **kỹ thuật học máy không giám sát** được thiết kế để nhóm các **ví dụ chưa được gán nhãn** dựa trên sự tương đồng của chúng với nhau. (Nếu các ví dụ đã được gán nhãn, loại phân nhóm này được gọi là phân loại.
 
 - **Ứng dụng của Phân cụm**:
   - **Market segmentation**: Các doanh nghiệp sử dụng phân cụm để nhóm khách hàng dựa trên các mẫu mua hàng, nhân khẩu học và sở thích nhằm tùy chỉnh chiến lược tiếp thị.
