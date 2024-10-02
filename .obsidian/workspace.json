@@ -20,19 +20,8 @@
                 "zoom": 1.3455882352941178
               }
             }
-          },
-          {
-            "id": "7ad6415536a453ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md"
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
               }
             }
           },
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +172,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7ad6415536a453ed",
+  "active": "51ae2cc4901f8aeb",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Clustering.md",
     "TeamVaultRepo/Papers/2301.12597v3.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
