@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Terminology/Anomaly detection.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cdca1880380f172",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md"
+                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md"
               }
             }
           },
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "file": "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +173,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "399b44b66bb38c25",
+  "active": "2cdca1880380f172",
   "lastOpenFiles": [
+    "Terminology/Anomaly detection.md",
+    "Excalidraw/Drawing 2024-10-02 16.49.43.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
     "AIO notebook/Untitled.md",
@@ -176,7 +191,6 @@
     "AIO notebook/Tree Data structure",
     "Excalidraw/Drawing 2024-10-02 16.37.24.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
@@ -202,7 +216,6 @@
     "TeamVaultRepo/Phuc/Images",
     "TeamVaultRepo/Phuc/CUE-net.md",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
-    "TeamVaultRepo/Phuc/2404.18952v1.pdf",
     "TeamVaultRepo/Images/test.png",
     "TeamVaultRepo/Images/Screenshot 2024-09-02 205647.png",
     "TeamVaultRepo/Images/Pasted image 20240902220150.png",
@@ -211,8 +224,6 @@
     "TeamVaultRepo/Huy/Untitled.md",
     "TeamVaultRepo/Huy/Untitled.canvas",
     "TeamVaultRepo/Han/Han.md",
-    "TeamVaultRepo/DanhGiaPaper.md",
-    "TeamVaultRepo/BaoCao.md",
-    "TeamVaultRepo/().md"
+    "TeamVaultRepo/DanhGiaPaper.md"
   ]
 }
