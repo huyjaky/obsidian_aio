@@ -11,8 +11,12 @@
             "id": "399b44b66bb38c25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/Clustering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Terminology/Clustering.md"
+              }
             }
           },
           {
@@ -108,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terminology/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Terminology/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +173,10 @@
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "Terminology/Clustering.md",
     "Terminology/Norm.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Pandas.md",
+    "Terminology/Clustering.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Excalidraw/KNN.excalidraw.md",
@@ -197,7 +207,6 @@
     "Terminology/Bảng ký hiệu toán học.md",
     "Excalidraw/Drawing 2024-10-02 16.37.24.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Anomaly detection.md",
     "Excalidraw/Anomaly.excalidraw.md",
     "AIO notebook/TA-ex",
@@ -209,7 +218,6 @@
     "AIO notebook/Tree Data structure",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
     "Excalidraw/KNN-norm.excalidraw.md",
-    "Terminology/Zero-shot classifier accuracy.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
