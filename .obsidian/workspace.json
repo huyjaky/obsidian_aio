@@ -11,15 +11,28 @@
             "id": "51ae2cc4901f8aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Terminology/Clustering.md",
-                "mode": "source",
-                "source": false
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 491,
+                "zoom": 1.3455882352941178
+              }
+            }
+          },
+          {
+            "id": "7ad6415536a453ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Clustering.md"
+                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Clustering.md",
+                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Clustering.md",
+                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +183,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "51ae2cc4901f8aeb",
+  "active": "7ad6415536a453ed",
   "lastOpenFiles": [
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+    "Terminology/Clustering.md",
     "TeamVaultRepo/Papers/2301.12597v3.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
@@ -189,7 +205,6 @@
     "Terminology/Norm.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Terminology/Clustering.md",
     "Terminology/Bảng ký hiệu toán học.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
@@ -210,14 +225,11 @@
     "Readme.md",
     "Attachments/Images",
     "Test Plugin Note.md",
-    "Testplugin.excalidraw.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
     "Attachments/Ebooks/book_ML_color.pdf",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Attachments/Ebooks",
-    "Attachments/Tree Data Structure_v4.pdf",
-    "AIO notebook/Tree Data structure",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
