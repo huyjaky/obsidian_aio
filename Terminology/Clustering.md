@@ -7,3 +7,4 @@
   - [[Anomaly detection]]: Phân cụm có thể nhận diện các điểm dữ liệu bất thường không phù hợp với bất kỳ nhóm nào. Những bất thường này có thể cho thấy hoạt động gian lận, lỗi cơ học hoặc lỗi trong quá trình thu thập dữ liệu.
   
   - **Image Segmentation**: Trong xử lý hình ảnh, phân cụm được sử dụng để chia một hình ảnh thành các phân đoạn đại diện cho các đối tượng hoặc vùng khác nhau để phân tích sâu hơn.
+	  - ![[[Slide]-KNN-KMean_v2.pdf#page=64&rect=134,24,805,404&color=important|[Slide]-KNN-KMean_v2, p.64]]

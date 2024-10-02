@@ -11,13 +11,11 @@
             "id": "399b44b66bb38c25",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-                "page": 51,
-                "left": -17,
-                "top": 472,
-                "zoom": 0.8578125
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +173,8 @@
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
     "Terminology/Clustering.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "Terminology/Bảng ký hiệu toán học.md",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
     "Terminology/Norm.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
@@ -205,8 +205,6 @@
     "Testplugin.excalidraw.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "base-knowledge/Algorithm knowledge/Wcss.md",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-    "Terminology/Bảng ký hiệu toán học.md",
     "Excalidraw/Drawing 2024-10-02 16.37.24.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md",
     "Terminology/Anomaly detection.md",
@@ -219,7 +217,6 @@
     "Attachments/Tree Data Structure_v4.pdf",
     "AIO notebook/Tree Data structure",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
-    "Excalidraw/KNN-norm.excalidraw.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
