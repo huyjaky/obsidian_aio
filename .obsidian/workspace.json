@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,16 +177,18 @@
   },
   "active": "2cdca1880380f172",
   "lastOpenFiles": [
-    "Terminology/Anomaly detection.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "Terminology/Anomaly detection.md",
     "Excalidraw/Anomaly.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
     "AIO notebook/Untitled.md",
     "Terminology/Bảng ký hiệu toán học.md",
     "Attachments/Ebooks/book_ML_color.pdf",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Attachments/Ebooks",
     "Attachments/Tree Data Structure_v4.pdf",
@@ -194,8 +196,6 @@
     "Excalidraw/Drawing 2024-10-02 16.37.24.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm.md",
     "Terminology/Norm.md",
     "Excalidraw/KNN-norm.excalidraw.md",
