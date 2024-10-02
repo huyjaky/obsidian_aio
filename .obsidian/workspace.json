@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md"
+                "file": "Terminology/Zero-shot classifier accuracy.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+                "file": "Terminology/Zero-shot classifier accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+                "file": "Terminology/Zero-shot classifier accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +168,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "51ae2cc4901f8aeb",
+  "active": "688cebc2615c0e8f",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
+    "Terminology/Zero-shot classifier accuracy.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Clustering.md",
     "TeamVaultRepo/Papers/2301.12597v3.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
