@@ -1,4 +1,3 @@
-# 2. K-Mean
 #Algorithm #Math 
 
 ## 2.1 Lý thuyết
@@ -29,7 +28,8 @@ Quy trình cơ bản của K-Means bao gồm các bước sau:
    
 5. **Loss funciont: [[Wcss]]
 
-Thuật toán K-Means có độ phức tạp thời gian là \(O(n \times k \times t \times m)\), trong đó t là số lần lặp và m là số chiều của dữ liệu. K-Means thường được sử dụng vì tính đơn giản và hiệu quả cao trong việc phân cụm dữ liệu lớn, mặc dù nó có thể không tìm được nghiệm tối ưu toàn cục (global optimization) do phụ thuộc vào việc khởi tạo các tâm cụm ban đầu.
+Thuật toán K-Means có độ phức tạp thời gian là 
+$O(n \times k \times t \times m)$, <font color="#e5b9b7">trong đó t là số lần lặp và m là số chiều của dữ liệu</font>. K-Means thường được sử dụng vì tính đơn giản và hiệu quả cao trong việc phân cụm dữ liệu lớn, mặc dù nó có thể không tìm được nghiệm tối ưu toàn cục (global optimization) do phụ thuộc vào việc khởi tạo các tâm cụm ban đầu.
 
 ```Python
 import numpy as np

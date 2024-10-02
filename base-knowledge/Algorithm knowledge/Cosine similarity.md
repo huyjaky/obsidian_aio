@@ -2,7 +2,7 @@
 
 **Cosine similarity** là <span style="background:#b1ffff">một phương pháp để đo lường mức độ tương đồng giữa hai vector trong không gian vector</span> bằng cách tính góc giữa chúng. Cosine similarity thường được sử dụng trong xử lý ngôn ngữ tự nhiên và học máy để so sánh các tài liệu hoặc từ khoá, vì nó đánh giá sự khác biệt theo hướng giữa hai vector thay vì độ lớn của chúng.
 
-
+![[Cosine similarity.excalidraw|800]]
 
 ## Công thức
 
