@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md"
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "file": "base-knowledge/Algorithm knowledge/Wcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,7 @@
   },
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/KNN.md",
     "Excalidraw/KNN-norm.excalidraw.md",
     "Excalidraw/KNN.excalidraw.md",
     "Terminology/Norm.md",
@@ -172,7 +173,6 @@
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "Attachments/image_2.png",
     "TeamVaultRepo/Họp",
