@@ -16,12 +16,23 @@
                 "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "page": 2,
                 "left": -11,
-                "top": 684,
+                "top": 790,
                 "zoom": 1.3455882352941178
               }
             }
+          },
+          {
+            "id": "46fcae009de56904",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
+                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md"
               }
             }
           },
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +183,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "51ae2cc4901f8aeb",
+  "active": "46fcae009de56904",
   "lastOpenFiles": [
-    "Terminology/Bảng ký hiệu toán học.md",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
+    "Terminology/Bảng ký hiệu toán học.md",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Terminology/Clustering.md",
@@ -212,7 +224,6 @@
     "Attachments/Images/Pasted image 20240928114540.png",
     "Attachments/Images/Pasted image 20240928114040.png",
     "Attachments/Images/Pasted image 20240928113738.png",
-    "Readme.md",
     "Attachments/Images",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
