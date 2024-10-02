@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Zero-shot classifier accuracy.md",
+                "file": "Terminology/Norm.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Zero-shot classifier accuracy.md"
+                "file": "Terminology/Norm.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Zero-shot classifier accuracy.md",
+                "file": "Terminology/Norm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Zero-shot classifier accuracy.md",
+                "file": "Terminology/Norm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +164,11 @@
   },
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
+    "Terminology/Zero-shot classifier accuracy.md",
     "TeamVaultRepo/Họp/Họp 2024-10-01 20.09.30.excalidraw.md",
     "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
     "Summarize Papers/Clip/clip.pdf",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Terminology/Zero-shot classifier accuracy.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "Attachments/image_2.png",
