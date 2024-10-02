@@ -6,14 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍹",
       "LiTrash",
       "🤯",
       "😼",
       "⚓",
       "🧻",
       "🏋️‍♀️",
-      "♿",
-      "LiPaintbrush"
+      "♿"
     ],
     "recentlyUsedIconsSize": 8,
     "rules": [],
@@ -48,5 +48,6 @@
   "Terminology": "⚓",
   "AIO notebook/TA-ex": "🤯",
   "Test Plugin Note.md": "LiTrash",
-  "Testplugin.excalidraw.md": "LiTrash"
+  "Testplugin.excalidraw.md": "LiTrash",
+  "Readme.md": "🍹"
 }
