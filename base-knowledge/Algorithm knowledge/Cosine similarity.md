@@ -23,3 +23,4 @@ Trong đó:
 ## Ứng dụng
 
 Cosine similarity đặc biệt hữu ích trong các bài toán xử lý văn bản, khi các văn bản được chuyển đổi thành các vector (chẳng hạn sử dụng phương pháp Bag of Words hoặc TF-IDF). Kỹ thuật này bỏ qua yếu tố độ dài, tập trung vào góc giữa các vector đại diện cho văn bản, giúp đo lường nội dung mà không bị ảnh hưởng bởi độ dài của tài liệu.
+
