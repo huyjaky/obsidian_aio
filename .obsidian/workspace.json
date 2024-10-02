@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Plugin Note.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "16fd6f44cde1dce2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Plugin Note.md"
+                "file": "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md"
               }
             }
           },
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Plugin Note.md",
+                "file": "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Plugin Note.md",
+                "file": "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +192,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2cdca1880380f172",
+  "active": "16fd6f44cde1dce2",
   "lastOpenFiles": [
-    "Terminology/Anomaly detection.md",
-    "Test Plugin Note.md",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "Excalidraw/Drawing 2024-10-02 17.11.47.excalidraw.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "Test Plugin Note.md",
+    "Terminology/Anomaly detection.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
     "Excalidraw/Anomaly.excalidraw.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
@@ -223,7 +235,6 @@
     "TeamVaultRepo/Phuc/Images/On the RWF-2000 dataset.png",
     "TeamVaultRepo/Phuc/Images/On the RLVS dataset.png",
     "TeamVaultRepo/Phuc/Images/CUE-Net.png",
-    "TeamVaultRepo/Phuc/Images",
     "TeamVaultRepo/Phuc/CUE-net.md",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
     "TeamVaultRepo/Images/test.png",
@@ -232,7 +243,6 @@
     "TeamVaultRepo/Images/Pasted image 20240902213427.png",
     "TeamVaultRepo/Images/Pasted image 20240902212024.png",
     "TeamVaultRepo/Huy/Untitled.md",
-    "TeamVaultRepo/Huy/Untitled.canvas",
-    "TeamVaultRepo/Han/Han.md"
+    "TeamVaultRepo/Huy/Untitled.canvas"
   ]
 }

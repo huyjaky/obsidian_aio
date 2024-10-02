@@ -6,6 +6,8 @@ Thuật toán **K-Means** là một thuật toán phân cụm phổ biến và �
 
 Quy trình cơ bản của K-Means bao gồm các bước sau:
 
+
+
 1. **Khởi tạo**: Lựa chọn ngẫu nhiên k điểm từ tập dữ liệu làm các tâm cụm ban đầu.
 
 2. **Gán nhãn**: Với mỗi điểm dữ liệu, tính khoảng cách từ điểm đó tới mỗi tâm cụm và gán nó vào cụm có tâm gần nhất. Khoảng cách thường được đo bằng khoảng cách Euclid, được tính như sau:
