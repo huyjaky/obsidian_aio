@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "base-knowledge/Algorithm knowledge/Cosine similarity.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "base-knowledge/Algorithm knowledge/Cosine similarity.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "base-knowledge/Algorithm knowledge/Cosine similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "base-knowledge/Algorithm knowledge/Cosine similarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,21 +172,22 @@
   },
   "active": "399b44b66bb38c25",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "Terminology/Norm.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "base-knowledge/Algorithm.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Terminology/Clustering.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Terminology/Bảng ký hiệu toán học.md",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "Terminology/Norm.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Excalidraw/KNN.excalidraw.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
-    "base-knowledge/Algorithm.md",
     "base-knowledge/Numpy.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images/Pasted Image 20240928082200_036.png",
     "Attachments/Images/Pasted Image 20240927211903_697.png",
