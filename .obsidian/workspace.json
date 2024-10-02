@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5086555480957
+    "width": 268.5086555480957
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -183,6 +183,9 @@
   },
   "active": "9345765224653ebd",
   "lastOpenFiles": [
+    "Attachments/Images/image_5.png",
+    "Attachments/Images/image_4.png",
+    "Attachments/Images/image_3.png",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
@@ -211,7 +214,6 @@
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
     "base-knowledge/Numpy.md",
-    "base-knowledge/Thư viện vẽ đồ thị.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images/Pasted Image 20240928082200_036.png",
     "Attachments/Images/Pasted Image 20240927211903_697.png",
@@ -221,8 +223,6 @@
     "Attachments/Images/Pasted image 20240928203218.png",
     "Attachments/Images/Pasted image 20240928190846.png",
     "Attachments/Images/Pasted image 20240928114540.png",
-    "Attachments/Images/Pasted image 20240928114040.png",
-    "Attachments/Images/Pasted image 20240928113738.png",
     "Attachments/Images",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
