@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "Test Plugin Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md"
+                "file": "Test Plugin Note.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "Test Plugin Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,19 +144,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "Test Plugin Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac9e35db192432c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +184,13 @@
   },
   "active": "2cdca1880380f172",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+    "Terminology/Anomaly detection.md",
+    "Test Plugin Note.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+    "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "Terminology/Anomaly detection.md",
     "Excalidraw/Anomaly.excalidraw.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
@@ -225,7 +233,6 @@
     "TeamVaultRepo/Images/Pasted image 20240902212024.png",
     "TeamVaultRepo/Huy/Untitled.md",
     "TeamVaultRepo/Huy/Untitled.canvas",
-    "TeamVaultRepo/Han/Han.md",
-    "TeamVaultRepo/DanhGiaPaper.md"
+    "TeamVaultRepo/Han/Han.md"
   ]
 }
