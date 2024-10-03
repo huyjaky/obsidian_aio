@@ -41,6 +41,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "868c55d2e41fc0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00542aecb47fe42f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5086555480957
+    "width": 268.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -190,7 +207,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ec4acd485857c5b",
+  "active": "00542aecb47fe42f",
   "lastOpenFiles": [
     "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/image_19.png",
