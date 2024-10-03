@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md"
+                "file": "Excalidraw/ViT.excalidraw.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md"
+                "file": "Excalidraw/ViT.excalidraw.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
+                "file": "Excalidraw/ViT.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
+                "file": "Excalidraw/ViT.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +192,10 @@
   },
   "active": "b05ee2d4b823b08d",
   "lastOpenFiles": [
+    "Attachments/Images/image_18.png",
+    "Attachments/Images/cropped_image_17_0.md",
+    "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/cropped_image_17.md",
-    "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
     "Excalidraw/BLIP-2.excalidraw.md",
@@ -231,8 +233,6 @@
     "base-knowledge/Algorithm.md",
     "Excalidraw/KNN.excalidraw.md",
     "Terminology/BoW (Bag of word).md",
-    "Excalidraw/KNN-norm.excalidraw.md",
-    "Excalidraw/KD-tree.excalidraw.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
