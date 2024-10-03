@@ -28,9 +28,19 @@
                 "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "b05ee2d4b823b08d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md"
               }
             }
           },
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,19 +190,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ec4acd485857c5b",
+  "active": "b05ee2d4b823b08d",
   "lastOpenFiles": [
+    "Attachments/Images/cropped_image_17.md",
+    "Excalidraw/Drawing 2024-10-03 14.07.57.excalidraw.md",
+    "Attachments/Images/image_17.png",
+    "Attachments/Images/image_16.png",
+    "Excalidraw/BLIP-2.excalidraw.md",
+    "Excalidraw/Brute-force.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "Terminology/Cross-entropy.md",
     "Terminology/Feed forward.md",
     "Terminology/Anomaly detection.md",
     "Terminology/Bảng ký hiệu toán học.md",
     "Terminology/Zero-shot classifier accuracy.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)",
     "Summarize Papers/BLIP-2",
     "Summarize Papers/Untitled.md",
-    "Excalidraw/Brute-force.excalidraw.md",
     "Attachments/Images/image_15.png",
     "Attachments/Images/image_14.png",
     "Attachments/Images/image_13.png",
@@ -201,12 +215,10 @@
     "Attachments/Images/image_10.png",
     "Attachments/Images/image_9.png",
     "Attachments/Images/image_8.png",
-    "Attachments/Images/image_7.png",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Attachments/Images/cropped_image_4_0.md",
     "Attachments/Images/cropped_image_4_1.md",
     "Attachments/Images/cropped_image_4.md",
-    "Attachments/Images/image_4.png",
     "Excalidraw/Cosine similarity.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
@@ -221,8 +233,6 @@
     "Terminology/BoW (Bag of word).md",
     "Excalidraw/KNN-norm.excalidraw.md",
     "Excalidraw/KD-tree.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "Terminology/Brute Force.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
