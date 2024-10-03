@@ -11,26 +11,13 @@
             "id": "51ae2cc4901f8aeb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
-                "page": 1,
-                "zoom": 1
-              }
-            }
-          },
-          {
-            "id": "9345765224653ebd",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,17 +168,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9345765224653ebd",
+  "active": "51ae2cc4901f8aeb",
   "lastOpenFiles": [
-    "Excalidraw/Cosine similarity.excalidraw.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "Attachments/Images/cropped_image_4_0.md",
     "Excalidraw/Drawing 2024-10-02 21.15.18.excalidraw.md",
+    "Attachments/Images/cropped_image_4_1.md",
+    "Attachments/Images/cropped_image_4.md",
+    "Attachments/Images/image_4.png",
+    "Excalidraw/Cosine similarity.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Attachments/Images/image_6.png",
     "Attachments/Images/image_5.png",
-    "Attachments/Images/image_4.png",
     "Attachments/Images/image_3.png",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Bảng ký hiệu toán học.md",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
     "Terminology/Zero-shot classifier accuracy.md",
@@ -212,10 +202,6 @@
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Norm.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "base-knowledge/Pandas.md",
-    "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "base-knowledge/Numpy.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images/Pasted Image 20240928082200_036.png",
     "Attachments/Images/Pasted Image 20240927211903_697.png",
