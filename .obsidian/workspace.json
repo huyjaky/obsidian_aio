@@ -23,9 +23,11 @@
             "id": "0ec4acd485857c5b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Terminology/Feed forward.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Terminology/Feed forward.md"
               }
             }
           },
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Terminology/Feed forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Terminology/Feed forward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +186,7 @@
   "active": "0ec4acd485857c5b",
   "lastOpenFiles": [
     "Summarize Papers/BLIP-2/Summarize.md",
+    "Terminology/Feed forward.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)",
     "Summarize Papers/BLIP-2",
