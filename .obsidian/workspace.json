@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,12 +190,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b05ee2d4b823b08d",
+  "active": "0ec4acd485857c5b",
   "lastOpenFiles": [
+    "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
     "Attachments/Images/cropped_image_17_0.md",
-    "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/cropped_image_17.md",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
@@ -216,7 +216,6 @@
     "Attachments/Images/image_12.png",
     "Attachments/Images/image_11.png",
     "Attachments/Images/image_10.png",
-    "Attachments/Images/image_9.png",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Attachments/Images/cropped_image_4_0.md",
     "Attachments/Images/cropped_image_4_1.md",
