@@ -11,13 +11,26 @@
             "id": "51ae2cc4901f8aeb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summarize Papers/BLIP-2/Summarize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ec4acd485857c5b",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +181,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "51ae2cc4901f8aeb",
+  "active": "0ec4acd485857c5b",
   "lastOpenFiles": [
-    "Excalidraw/Brute-force.excalidraw.md",
+    "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/BLIP-2.excalidraw.md",
+    "Summarize Papers/ViT(vision transformer)",
+    "Summarize Papers/BLIP-2",
+    "Summarize Papers/Untitled.md",
+    "Excalidraw/Brute-force.excalidraw.md",
     "Attachments/Images/image_15.png",
     "Attachments/Images/image_14.png",
     "Attachments/Images/image_13.png",
@@ -206,16 +223,11 @@
     "Terminology/Brute Force.md",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
     "2024-10-02.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
-    "Terminology/Norm.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/TA-ex",
     "Attachments/Ebooks/book_ML_color.pdf",
-    "TeamVaultRepo/Papers/Invariant Meets Specific A Scalable Harmful Memes Detection.pdf",
-    "Attachments/Ebooks",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
