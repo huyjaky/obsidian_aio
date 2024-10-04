@@ -35,14 +35,16 @@
             "id": "b05ee2d4b823b08d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md"
+                "file": "Terminology/Entropy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,15 +194,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "b05ee2d4b823b08d",
   "lastOpenFiles": [
-    "AIO notebook/Untitled",
-    "Terminology/Bảng ký hiệu toán học.md",
+    "Terminology/Cross-entropy.md",
     "Terminology/Entropy.md",
+    "Terminology/BoW (Bag of word).md",
+    "Terminology/Bảng ký hiệu toán học.md",
+    "Terminology/Feed forward.md",
+    "Terminology/Clustering.md",
+    "Summarize Papers/ViT(vision transformer)/ViT.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Excalidraw/ViT.excalidraw.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf.crdownload",
+    "AIO notebook/Decision tree",
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Attachments/Images/cropped_image_4_2.md",
-    "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
     "Attachments/Images/cropped_image_17_0.md",
@@ -208,8 +218,6 @@
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
     "Excalidraw/Brute-force.excalidraw.md",
-    "Terminology/Cross-entropy.md",
-    "Terminology/Feed forward.md",
     "Terminology/Anomaly detection.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Summarize Papers/ViT(vision transformer)",
@@ -229,17 +237,11 @@
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
-    "Terminology/Clustering.md",
     "TeamVaultRepo/Papers/2301.12597v3.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm.md",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images",
-    "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
-    "AIO notebook/TA-ex",
-    "Attachments/Ebooks/book_ML_color.pdf",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
