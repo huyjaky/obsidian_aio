@@ -23,9 +23,11 @@
             "id": "0ec4acd485857c5b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Summarize Papers/BLIP-2/Summarize.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Summarize Papers/BLIP-2/Summarize.md"
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Summarize Papers/BLIP-2/Summarize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Summarize Papers/BLIP-2/Summarize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +194,8 @@
   },
   "active": "0ec4acd485857c5b",
   "lastOpenFiles": [
-    "Attachments/Images/cropped_image_4_2.md",
     "Excalidraw/BLIP-2.excalidraw.md",
+    "Attachments/Images/cropped_image_4_2.md",
     "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
