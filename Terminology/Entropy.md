@@ -4,3 +4,6 @@
 <span style="background:#b1ffff">-> Ở đây thì Entropy là công thức tính trung bình, phương sai,... của biến ngẫu nhiên rời rạc</span>
 
 
+## Tỷ lệ càng thấp giá trị càng cao
+![[Entropy.excalidraw|800]]
+
