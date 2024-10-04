@@ -33,4 +33,12 @@ $$
 
 Biểu đồ cho thấy entropy là một hàm của xác suất $p$, trong đó entropy đạt đỉnh tại $p = 0.5$ (bất định tối đa) và giảm về 0 khi $p = 0$ hoặc $p = 1$ (chắc chắn hoàn toàn).
 
+## Vậy entropy đang đo cái gì?
+
 ![[Extra_Decision_Tree.pdf#page=31&rect=48,16,905,452&color=important|Extra_Decision_Tree, p.31]]
+Như ta có thể thấy rằng nếu Entropy càng cao (<font color="#e5b9b7">max-entropy = 1</font>) thì tỷ lệ phân phối giữa vàng và đá bằng nhau
+-> nếu entropy = 1
+	- vàng và đá bằng nhau làm cho máy bối rối không lấy ra được vàng
+-> nếu entropy = 0.01
+	- vàng thấp hơn đá rất nhiều làm cho máy hiểu được lấy ra vàng vì càng ít thì càng đắt tức 
+-> ta so sánh được rằng là nếu entropy càng cao thì ta lại càng không lấy ra được thứ mà ta muốn tức đặc trưng (không chắc chắn) vì có quá nhiều thứ ngoại lai làm tỷ lệ entropy quá cao
