@@ -68,3 +68,5 @@ Trong đó:
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
 
 Slide: ![[Extra_Decision_Tree.pdf]] Slide 36->39 tính toán ví dụ
+
+Giải thích: ![[IG-informationGain.excalidraw|800]]

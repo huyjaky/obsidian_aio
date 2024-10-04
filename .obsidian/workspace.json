@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-                "page": 1,
+                "page": 29,
                 "left": -18,
-                "top": 544,
+                "top": 470,
                 "zoom": 0.85703125
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+                "file": "Terminology/Entropy.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md",
+                "file": "Terminology/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md",
+                "file": "Terminology/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +205,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "19ad9e61d82f9522",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "Terminology/Entropy.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
+    "Terminology/Entropy.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "Excalidraw/Entropy.excalidraw.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Terminology/Clustering.md",
     "Terminology/Cross-entropy.md",
@@ -225,9 +226,7 @@
     "Terminology/BoW (Bag of word).md",
     "Terminology/Bảng ký hiệu toán học.md",
     "Terminology/Anomaly detection.md",
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/Entropy.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Excalidraw/ViT.excalidraw.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf.crdownload",
@@ -238,7 +237,6 @@
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
     "Attachments/Images/cropped_image_17_0.md",
-    "Attachments/Images/cropped_image_17.md",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
     "Summarize Papers/ViT(vision transformer)",
