@@ -8,7 +8,7 @@
 ## Tỷ lệ càng thấp giá trị càng cao (Tổng của các giá trị là ENTROPY)
 
 $$
-Value(x) = - \log_2( P ) 
+Value(x) = - \log_2( p(x) ) 
 $$
 ![[Entropy.excalidraw|800]]
 
@@ -29,9 +29,8 @@ $$
 
 ### Trực quan:
 
-- **Entropy tối đa** xảy ra khi tất cả các kết quả đều có xác suất bằng nhau, cho thấy sự bất định tối đa.
-- **Entropy bằng không** xảy ra khi kết quả là chắc chắn (tức không có bất định).
-
 ![[Extra_Decision_Tree.pdf#page=29&rect=40,8,415,310&color=important|Extra_Decision_Tree, p.29|300]]
 
 Biểu đồ cho thấy entropy là một hàm của xác suất $p$, trong đó entropy đạt đỉnh tại $p = 0.5$ (bất định tối đa) và giảm về 0 khi $p = 0$ hoặc $p = 1$ (chắc chắn hoàn toàn).
+
+![[Extra_Decision_Tree.pdf#page=31&rect=48,16,905,452&color=important|Extra_Decision_Tree, p.31]]
