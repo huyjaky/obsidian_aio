@@ -43,3 +43,25 @@ Như ta có thể thấy rằng nếu Entropy càng cao (<font color="#e5b9b7">m
 	- vàng thấp hơn đá rất nhiều làm cho máy hiểu được lấy ra vàng vì càng ít thì càng đắt tức giá trị càng cao
 
 -> <span style="background:#b1ffff">ta so sánh được rằng là nếu entropy càng cao thì ta lại càng không lấy ra được thứ mà ta muốn tức đặc trưng (không chắc chắn) vì có quá nhiều thứ ngoại lai làm tỷ lệ entropy quá cao</span>
+
+## Mối quan hệ giữa hai feature bằng entropy
+
+#### Công thức Tính Gain Thông Tin (Information Gain - IG)
+
+Gain thông tin (IG) có thể được tính bằng công thức sau:
+
+$$
+IG = Entropy(parent) - \left[ \frac{Average}{Weighted} \right] Entropy(children)
+$$
+
+Chi tiết hơn:
+
+$$
+IG(S,F) = E(S) - \sum_{f \in F} \frac{|S_f|}{S} E(S_f)
+$$
+
+Trong đó:
+- $E(S)$ là entropy của tập hợp $S$ (tập cha).
+- $S_f$ là tập con tương ứng với đặc trưng $f$.
+- $|S_f|$ là kích thước của tập con $S_f$.
+- $|S|$ là kích thước của toàn bộ tập hợp $S$.

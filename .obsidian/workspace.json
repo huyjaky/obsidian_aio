@@ -37,13 +37,11 @@
             "id": "a1b7f26bf4291eb5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-                "page": 1,
-                "left": -18,
-                "top": 544,
-                "zoom": 0.85703125
+                "file": "Terminology/Entropy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf"
+                "file": "Terminology/Entropy.md"
               }
             }
           },
@@ -143,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+                "file": "Terminology/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+                "file": "Terminology/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +198,8 @@
   },
   "active": "a1b7f26bf4291eb5",
   "lastOpenFiles": [
-    "Terminology/Entropy.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "Terminology/Entropy.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Excalidraw/Entropy.excalidraw.md",
