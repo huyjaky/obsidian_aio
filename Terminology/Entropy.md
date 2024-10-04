@@ -40,5 +40,6 @@ Như ta có thể thấy rằng nếu Entropy càng cao (<font color="#e5b9b7">m
 -> nếu entropy = 1
 	- vàng và đá bằng nhau làm cho máy bối rối không lấy ra được vàng
 -> nếu entropy = 0.01
-	- vàng thấp hơn đá rất nhiều làm cho máy hiểu được lấy ra vàng vì càng ít thì càng đắt tức 
--> ta so sánh được rằng là nếu entropy càng cao thì ta lại càng không lấy ra được thứ mà ta muốn tức đặc trưng (không chắc chắn) vì có quá nhiều thứ ngoại lai làm tỷ lệ entropy quá cao
+	- vàng thấp hơn đá rất nhiều làm cho máy hiểu được lấy ra vàng vì càng ít thì càng đắt tức giá trị càng cao
+
+-> <span style="background:#b1ffff">ta so sánh được rằng là nếu entropy càng cao thì ta lại càng không lấy ra được thứ mà ta muốn tức đặc trưng (không chắc chắn) vì có quá nhiều thứ ngoại lai làm tỷ lệ entropy quá cao</span>
