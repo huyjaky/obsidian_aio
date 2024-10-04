@@ -59,6 +59,7 @@ Chi tiết hơn:
 $$
 IG(S,F) = E(S) - \sum_{f \in F} \frac{|S_f|}{S} E(S_f)
 $$
+$$ E(S) = - \sum_{c \in C} p_c \log_2 p_c $$
 
 Trong đó:
 - $E(S)$ là entropy của tập hợp $S$ (tập cha).
