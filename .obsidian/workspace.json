@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51ae2cc4901f8aeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summarize Papers/BLIP-2/Summarize.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ec4acd485857c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminology/Entropy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b05ee2d4b823b08d",
             "type": "leaf",
             "state": {
@@ -40,6 +16,30 @@
                 "file": "Terminology/Entropy.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3eee294b84f3a43f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+                "page": 27,
+                "left": -18,
+                "top": 522,
+                "zoom": 0.85703125
+              }
+            }
+          },
+          {
+            "id": "a1b7f26bf4291eb5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Entropy.excalidraw.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Entropy.md"
+                "file": "Excalidraw/Entropy.excalidraw.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "Excalidraw/Entropy.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "Excalidraw/Entropy.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +194,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b05ee2d4b823b08d",
+  "active": "a1b7f26bf4291eb5",
   "lastOpenFiles": [
-    "Terminology/Cross-entropy.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "Excalidraw/Entropy.excalidraw.md",
     "Terminology/Entropy.md",
+    "Terminology/Cross-entropy.md",
     "Terminology/BoW (Bag of word).md",
     "Terminology/Bảng ký hiệu toán học.md",
     "Terminology/Feed forward.md",
@@ -205,7 +207,6 @@
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/ViT.excalidraw.md",
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf.crdownload",
     "AIO notebook/Decision tree",
     "Summarize Papers/BLIP-2/Summarize.md",
@@ -236,9 +237,7 @@
     "Excalidraw/Cosine similarity.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 19.55.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-02 19.13.36.excalidraw.md",
     "TeamVaultRepo/Papers/2301.12597v3.pdf",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
     "Attachments/Images",
