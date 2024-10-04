@@ -66,3 +66,4 @@ Trong đó:
 - $S_f$ là tập con tương ứng với đặc trưng $f$.
 - $|S_f|$ là kích thước của tập con $S_f$.
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
+
