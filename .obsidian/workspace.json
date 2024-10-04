@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19ad9e61d82f9522",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Entropy.md"
+                "file": "Excalidraw/IG-informationGain.excalidraw.md"
               }
             }
           },
@@ -141,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "Excalidraw/IG-informationGain.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "Excalidraw/IG-informationGain.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +206,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1b7f26bf4291eb5",
+  "active": "19ad9e61d82f9522",
   "lastOpenFiles": [
-    "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Terminology/Entropy.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
+    "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Terminology/Clustering.md",
     "Terminology/Cross-entropy.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
@@ -230,7 +241,6 @@
     "Attachments/Images/cropped_image_17.md",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
-    "Excalidraw/Brute-force.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)",
     "Summarize Papers/BLIP-2",
     "Attachments/Images/image_15.png",
