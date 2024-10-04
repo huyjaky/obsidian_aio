@@ -67,3 +67,4 @@ Trong đó:
 - $|S_f|$ là kích thước của tập con $S_f$.
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
 
+Slide: ![[Extra_Decision_Tree.pdf]] Slide 36->39 tính toán ví dụ
