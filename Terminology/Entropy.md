@@ -72,3 +72,4 @@ Trong đó:
 Giải thích: ![[IG-informationGain.excalidraw|800]]
 #### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)
 
+![[Build-decision-tree.excalidraw|800]]

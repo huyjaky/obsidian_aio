@@ -39,7 +39,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-05 11.07.28.excalidraw.md"
+                "file": "Excalidraw/Build-decision-tree.excalidraw.md"
               }
             }
           },
@@ -47,11 +47,9 @@
             "id": "a1b7f26bf4291eb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Terminology/Entropy.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Build-decision-tree.excalidraw.md"
               }
             }
           },
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-05 11.07.28.excalidraw.md"
+                "file": "Excalidraw/Build-decision-tree.excalidraw.md"
               }
             }
           },
@@ -161,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-05 11.07.28.excalidraw.md",
+                "file": "Excalidraw/Build-decision-tree.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-05 11.07.28.excalidraw.md",
+                "file": "Excalidraw/Build-decision-tree.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +216,9 @@
   },
   "active": "5136d543456c735a",
   "lastOpenFiles": [
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-    "Excalidraw/Drawing 2024-10-05 11.07.28.excalidraw.md",
     "Terminology/Entropy.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "Excalidraw/Build-decision-tree.excalidraw.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
