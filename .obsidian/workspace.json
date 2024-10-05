@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Entropy.md"
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +196,8 @@
   },
   "active": "5136d543456c735a",
   "lastOpenFiles": [
-    "Math/Softmax.md",
     "Terminology/Entropy.md",
+    "Math/Softmax.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "Attachments/Images/image_20.png",
