@@ -28,7 +28,7 @@
                 "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
                 "page": 42,
                 "left": -18,
-                "top": 483,
+                "top": 30,
                 "zoom": 0.85703125
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Build-decision-tree.excalidraw.md"
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Build-decision-tree.excalidraw.md",
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Build-decision-tree.excalidraw.md",
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +194,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5136d543456c735a",
+  "active": "3eee294b84f3a43f",
   "lastOpenFiles": [
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "Excalidraw/Build-decision-tree.excalidraw.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "Terminology/Entropy.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
