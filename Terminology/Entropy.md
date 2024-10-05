@@ -5,6 +5,8 @@
 <span style="background:#b1ffff">-> Ở đây thì các công thức tính BNN rời rạc và liên tục cần phải biết để tính ENTROPY</span>
 
 
+Slide: ![[Extra_Decision_Tree.pdf]]
+
 ## Tỷ lệ càng thấp giá trị càng cao (Tổng của các giá trị là ENTROPY)
 
 $$
@@ -66,6 +68,7 @@ Trong đó:
 - $S_f$ là tập con tương ứng với đặc trưng $f$.
 - $|S_f|$ là kích thước của tập con $S_f$.
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
- Slide 36->39 tính toán ví dụ
 
 Giải thích: ![[IG-informationGain.excalidraw|800]]
+#### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)
+

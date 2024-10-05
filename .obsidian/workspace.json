@@ -26,8 +26,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 28,
+                "left": -18,
+                "top": 0,
+                "zoom": 0.85703125
               }
             }
           },
@@ -54,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Entropy.md"
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,10 +206,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1b7f26bf4291eb5",
+  "active": "3eee294b84f3a43f",
   "lastOpenFiles": [
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "Terminology/Entropy.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "Excalidraw/Entropy.excalidraw.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
