@@ -20,26 +20,28 @@
             }
           },
           {
-            "id": "6190b5c50c0d89dd",
+            "id": "bb9a3427a5ce0dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb9a3427a5ce0dbc",
+            "id": "4c4e639bed812a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
-                "mode": "source",
-                "source": false
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+                "page": 64,
+                "left": -17,
+                "top": 547,
+                "zoom": 0.86015625
               }
             }
           },
@@ -54,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md"
+                "file": "Excalidraw/Decision tree regression.excalidraw.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "file": "Excalidraw/Decision tree regression.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "file": "Excalidraw/Decision tree regression.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,19 +207,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb9a3427a5ce0dbc",
+  "active": "d38d3bb5bad9aa6e",
   "lastOpenFiles": [
-    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Terminology/Overfitting.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex2w03/Description.pdf",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "Math/Entropy.md",
     "Terminology/Underfitting.md",
-    "Excalidraw/Decision tree regression.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "AIO notebook/Decision tree classification/code/creditcard.zip",
     "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",

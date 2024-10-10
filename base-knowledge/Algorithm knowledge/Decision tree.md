@@ -23,3 +23,7 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 ## Trường hợp dữ liệu là dạng số chứ không phải class nữa
 
 ![[Decision tree regression]]
+
+## Tỉa cây (prunning tree)
+tỉa cây để làm gì?
+-> để tránh việc overfitting do dữ liệ mới có gap quá cao 
