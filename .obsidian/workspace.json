@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
                 "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
                 "page": 66,
                 "left": -17,
-                "top": 529,
+                "top": 51,
                 "zoom": 0.86015625
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +206,18 @@
   },
   "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+    "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
-    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "Terminology/Overfitting.md",
-    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex2w03/Description.pdf",
@@ -222,15 +228,12 @@
     "AIO notebook/Decision tree classification/code/creditcard.zip",
     "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
     "Math/GINI.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Excalidraw/GINI.excalidraw.md",
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/Log2.md",
     "TrashNote",
     "AIO notebook/Decision Tree for Regression/Codes/Position_Salaries.csv",
-    "AIO notebook/Decision Tree for Regression/Codes/MSFT.csv",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",
@@ -239,9 +242,6 @@
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/ViT.excalidraw.md",
     "base-knowledge/Numpy.md",
-    "base-knowledge/Algorithm.md",
-    "Terminology/Anomaly detection.md",
-    "Math/Softmax.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
