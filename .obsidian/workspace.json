@@ -35,13 +35,11 @@
             "id": "bb9a3427a5ce0dbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 33,
-                "left": -55,
-                "top": 79,
-                "zoom": 0.8
+                "file": "Terminology/Underfitting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -56,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md"
+                "file": "Terminology/Underfitting.md"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "file": "Terminology/Underfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "file": "Terminology/Underfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,14 +204,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "bb9a3427a5ce0dbc",
   "lastOpenFiles": [
-    "AIO notebook/Decision tree classification/code/creditcard.zip",
+    "Terminology/Overfitting.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
-    "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
+    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Summarize Papers/ViT(vision transformer)/ViT.md",
+    "AIO notebook/Decision tree classification/code/creditcard.zip",
+    "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Excalidraw/GINI.excalidraw.md",
@@ -221,9 +221,7 @@
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Math/Entropy.md",
-    "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
-    "Terminology/Overfitting.md",
     "Math/Log2.md",
     "TrashNote",
     "AIO notebook/Decision Tree for Regression/Codes/Position_Salaries.csv",
@@ -231,7 +229,6 @@
     "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regressor.ipynb",
     "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regression.ipynb",
     "AIO notebook/Decision Tree for Regression/Codes",
-    "AIO notebook/Decision Tree for Regression/Slides",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",

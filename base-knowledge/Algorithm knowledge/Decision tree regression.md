@@ -19,3 +19,13 @@ Ví dụ:
 -> nếu như chúng ta tiếp tục tính SSR tổng của các node tiếp theo thì ta được một đồ thị SSR tổng như sau:
 ![[DecisionTree_Regression_AIO2024.pdf#page=34&rect=172,8,808,456&color=important|DecisionTree_Regression_AIO2024, p.34|400]]
 ta có thể thấy SSR (sum square error) tổng nhỏ nhất ở ngưỡng 14.5
+
+-> vậy ta có được node gốc là tại 14.5 với SSR bé nhất
+và sau đó chúng ta cho chạy ngưỡng qua hai bên 14.5 để
+tìm nhánh cho SSR
+
+Ví dụ: 
+![[Excalidraw/Decision tree regression.excalidraw.md#^group=2zbHcghI|Rẻ nhánh |800]]
+như vậy ta tìm được nhánh bên trái của node gốc là 11.5 và có thể dừng được 
+
+-> ta tiếp tục đánh giá toàn bộ dữ liệu bên phải của 14.5 tức toàn bộ dữ liệu > 14.5 unit
