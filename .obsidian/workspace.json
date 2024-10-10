@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,8 +206,9 @@
   },
   "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
-    "Excalidraw/Decision tree regression.excalidraw.md",
+    "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Excalidraw/Decision tree regression.excalidraw.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "Terminology/Overfitting.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
