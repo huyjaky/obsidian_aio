@@ -11,11 +11,9 @@
             "id": "1bb4811a7c5f7670",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
-                "mode": "source",
-                "source": false
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
               }
             }
           },
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
               }
             }
           },
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +204,9 @@
   },
   "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
