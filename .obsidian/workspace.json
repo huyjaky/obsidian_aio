@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Overfitting.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +35,9 @@
             "id": "bb9a3427a5ce0dbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
               }
             }
           },
@@ -54,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Overfitting.md"
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
               }
             }
           },
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Overfitting.md",
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Overfitting.md",
+                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +203,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6190b5c50c0d89dd",
+  "active": "bb9a3427a5ce0dbc",
   "lastOpenFiles": [
+    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+    "Terminology/Overfitting.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex2w03/Description.pdf",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "Math/Entropy.md",
-    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
-    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-    "Terminology/Overfitting.md",
     "Terminology/Underfitting.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -231,7 +229,6 @@
     "TrashNote",
     "AIO notebook/Decision Tree for Regression/Codes/Position_Salaries.csv",
     "AIO notebook/Decision Tree for Regression/Codes/MSFT.csv",
-    "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regressor.ipynb",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",

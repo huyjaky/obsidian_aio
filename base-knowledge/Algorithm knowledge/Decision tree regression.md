@@ -17,6 +17,7 @@ Ví dụ:
 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=yLxxxaY5|Cách xác định loss SSR (summer square error) |800]]
 -> nếu như chúng ta tiếp tục tính SSR tổng của các node tiếp theo thì ta được một đồ thị SSR tổng như sau:
+
 ![[DecisionTree_Regression_AIO2024.pdf#page=34&rect=172,8,808,456&color=important|DecisionTree_Regression_AIO2024, p.34|400]]
 ta có thể thấy SSR (sum square error) tổng nhỏ nhất ở ngưỡng 14.5
 
