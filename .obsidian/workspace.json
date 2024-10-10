@@ -23,11 +23,13 @@
             "id": "6190b5c50c0d89dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/Entropy.md",
-                "mode": "source",
-                "source": false
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 358,
+                "zoom": 1.349264705882353
               }
             }
           },
@@ -38,10 +40,8 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 49,
-                "left": -55,
-                "top": 469,
-                "zoom": 0.8
+                "page": 1,
+                "zoom": 1
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Entropy.md"
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,6 +209,10 @@
   },
   "active": "6190b5c50c0d89dd",
   "lastOpenFiles": [
+    "AIO homework/Week 3/ex2w03/Description.pdf",
+    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
+    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+    "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "Terminology/Overfitting.md",
@@ -224,15 +228,12 @@
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-    "Math/Entropy.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/Log2.md",
     "TrashNote",
     "AIO notebook/Decision Tree for Regression/Codes/Position_Salaries.csv",
     "AIO notebook/Decision Tree for Regression/Codes/MSFT.csv",
     "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regressor.ipynb",
-    "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regression.ipynb",
-    "AIO notebook/Decision Tree for Regression/Codes",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",
