@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "32502e1abc15ad76",
+        "id": "8a99802f4c9d08f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b05ee2d4b823b08d",
+            "id": "1bb4811a7c5f7670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Entropy.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3eee294b84f3a43f",
+            "id": "6190b5c50c0d89dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb9a3427a5ce0dbc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+                "page": 33,
+                "left": -55,
+                "top": 79,
+                "zoom": 0.8
               }
             }
           },
           {
-            "id": "5136d543456c735a",
+            "id": "d38d3bb5bad9aa6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Decision tree regression.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Algorithm",
+                "query": "tag:#tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5086555480957
+    "width": 264.5086555480957
   },
   "right": {
     "id": "2702a2fbfd300bb9",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Thư viện vẽ đồ thị.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,57 +202,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "5136d543456c735a",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "Terminology/Entropy.md",
-    "Math/Softmax.md",
-    "Excalidraw/Build-decision-tree.excalidraw.md",
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-    "Attachments/Images/image_20.png",
-    "Excalidraw/IG-informationGain.excalidraw.md",
-    "Excalidraw/Entropy.excalidraw.md",
-    "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "Terminology/Clustering.md",
-    "Terminology/Cross-entropy.md",
+    "AIO notebook/Decision tree classification/code/creditcard.zip",
+    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "Excalidraw/Decision tree regression.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+    "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
-    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "base-knowledge/Algorithm knowledge/Cosine similarity.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Split DATE type values on dataset.md",
-    "base-knowledge/Advance knowledge/Data Analysis with Time Series data/Resampling.md",
-    "Terminology/Zero-shot classifier accuracy.md",
-    "Terminology/Norm.md",
-    "Terminology/Feed forward.md",
-    "Terminology/Brute Force.md",
-    "Terminology/BoW (Bag of word).md",
-    "Terminology/Bảng ký hiệu toán học.md",
-    "Terminology/Anomaly detection.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
+    "Excalidraw/GINI.excalidraw.md",
+    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
+    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
+    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+    "Math/Entropy.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
-    "Excalidraw/ViT.excalidraw.md",
-    "AIO notebook/Decision tree/Extra_Decision_Tree.pdf.crdownload",
-    "AIO notebook/Decision tree",
-    "Summarize Papers/BLIP-2/Summarize.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
+    "Terminology/Overfitting.md",
+    "Math/Log2.md",
+    "TrashNote",
+    "AIO notebook/Decision Tree for Regression/Codes/Position_Salaries.csv",
+    "AIO notebook/Decision Tree for Regression/Codes/MSFT.csv",
+    "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regressor.ipynb",
+    "AIO notebook/Decision Tree for Regression/Codes/Decision_Tree_Regression.ipynb",
+    "AIO notebook/Decision Tree for Regression/Codes",
+    "AIO notebook/Decision Tree for Regression/Slides",
+    "base-knowledge/Graph knowledge/Boxplots.md",
+    "base-knowledge/Graph knowledge/Correlation Chart.md",
+    "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",
+    "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
     "Excalidraw/BLIP-2.excalidraw.md",
-    "Attachments/Images/cropped_image_4_2.md",
+    "Summarize Papers/BLIP-2/Summarize.md",
+    "Excalidraw/ViT.excalidraw.md",
+    "base-knowledge/Numpy.md",
+    "base-knowledge/Algorithm.md",
+    "Terminology/Anomaly detection.md",
+    "Math/Softmax.md",
+    "Excalidraw/Drawing 2024-10-06 15.29.35.excalidraw.md",
+    "Attachments/Images/image_21.png",
+    "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
-    "Summarize Papers/ViT(vision transformer)",
-    "Summarize Papers/BLIP-2",
     "Attachments/Images/image_15.png",
     "Attachments/Images/image_14.png",
     "Attachments/Images/image_13.png",
     "Attachments/Images/image_12.png",
-    "Attachments/Images/image_11.png",
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
-    "TeamVaultRepo/Papers/2301.12597v3.pdf",
-    "AIO notebook/TA-ex/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
-    "Attachments/Images/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
-    "Attachments/Images",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",

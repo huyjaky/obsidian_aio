@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "tag:#tree  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -17,6 +17,6 @@
   "repelStrength": 5.35535400027075,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2570341048229225,
+  "scale": 2.3294927841325346,
   "close": false
 }

@@ -40,9 +40,9 @@ Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ 
 
 ## Sự quan trọng của Norm trong KNN
 
--> [[Norm]]
+-> ![[Norm]]
 
 ## Tối ưu tính distance trong KNN bằng KD-tree
 
--> [[KD-tree]]
+-> ![[KD-tree]]
 

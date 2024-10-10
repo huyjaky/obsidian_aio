@@ -32,11 +32,11 @@ Thuật toán **K-Means** là một thuật toán phân cụm phổ biến và �
 
 ## Ứng dụng Clustering (phân cụm) trong K-means
 
--> [[Clustering]]
+-> ![[Clustering]]
 
 ## Sự quan trọng của Norm trong K-means clustering
 
--> [[Norm]] 
+-> ![[Norm]] 
 ## Tổng kết
 
 Thuật toán K-Means có độ phức tạp thời gian là 
