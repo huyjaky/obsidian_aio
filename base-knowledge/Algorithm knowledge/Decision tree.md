@@ -27,3 +27,4 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 ## Tỉa cây (prunning tree)
 tỉa cây để làm gì?
 -> để tránh việc overfitting do dữ liệ mới có gap quá cao 
+![[Excalidraw/Decision tree regression.excalidraw.md#^group=vmfEOzlg|prunning |800]]
