@@ -23,13 +23,11 @@
             "id": "6190b5c50c0d89dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 358,
-                "zoom": 1.349264705882353
+                "file": "Terminology/Overfitting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf"
+                "file": "Terminology/Overfitting.md"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "file": "Terminology/Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "file": "Terminology/Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +207,9 @@
   },
   "active": "6190b5c50c0d89dd",
   "lastOpenFiles": [
+    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex2w03/Description.pdf",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
-    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",

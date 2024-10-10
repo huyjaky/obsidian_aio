@@ -22,4 +22,6 @@ Nếu bạn xây dựng một mô hình phân loại hình ảnh để nhận di
 - **Cross-validation**: Sử dụng phương pháp kiểm tra chéo để đảm bảo mô hình không chỉ hoạt động tốt trên một tập dữ liệu cụ thể.
 - **Early stopping**: Dừng quá trình huấn luyện sớm nếu thấy lỗi trên dữ liệu kiểm tra bắt đầu tăng.
 
+- <font color="#ff0000">Tránh việc giảm kích thước dữ liệu</font>: điều này không giúp ích gì cho việc giảm overfitting
+
 Overfitting là một trong những thách thức phổ biến khi xây dựng mô hình học máy.
