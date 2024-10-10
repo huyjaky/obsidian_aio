@@ -29,3 +29,6 @@ Ví dụ:
 như vậy ta tìm được nhánh bên trái của node gốc là 11.5 và có thể dừng được 
 
 -> ta tiếp tục đánh giá toàn bộ dữ liệu bên phải của 14.5 tức toàn bộ dữ liệu > 14.5 unit
+
+![[DecisionTree_Regression_AIO2024.pdf#page=49&rect=159,5,951,459|DecisionTree_Regression_AIO2024, p.49]]
+-> cây hoàn thiện và kết quả dự đoán khi cho một unit
