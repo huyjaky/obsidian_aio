@@ -11,9 +11,11 @@
             "id": "1bb4811a7c5f7670",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,10 +36,8 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 66,
-                "left": -17,
-                "top": 51,
-                "zoom": 0.86015625
+                "page": 1,
+                "zoom": 1
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,8 @@
   },
   "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Wcss.md",
+    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
@@ -216,7 +218,6 @@
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Terminology/Overfitting.md",
-    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex2w03/Description.pdf",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
@@ -239,7 +240,6 @@
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/ViT.excalidraw.md",
-    "base-knowledge/Numpy.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
