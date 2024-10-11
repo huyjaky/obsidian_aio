@@ -28,3 +28,14 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 tỉa cây để làm gì?
 -> để tránh việc overfitting do dữ liệ mới có gap quá cao 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=vmfEOzlg|prunning |800]]
+### làm sao để tỉa cây?
+-> để tỉa cây thì ta phải tính được SSR tổng quát cho cây 
+bằng cách cộng hết các SSR lại với nhau đồng thời cộng thêm hệ số $\alpha T$ 
+$$\text{Tree Score} = \text{Total SSR} + \alpha T$$
+
+$$
+Total SSR = \sum_{}^{p} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
+$$
+- $\alpha$ là hệ số tự chọn để có thể optimal cây
+- $T$ là số lượng nút lá
+- 

@@ -38,9 +38,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 72,
+                "page": 80,
                 "left": -17,
-                "top": 478,
+                "top": 484,
                 "zoom": 0.86015625
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,12 +207,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb9a3427a5ce0dbc",
+  "active": "4c4e639bed812a12",
   "lastOpenFiles": [
-    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
+    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
