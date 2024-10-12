@@ -33,23 +33,9 @@
             "id": "746c13f69702e872",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
-                "page": 4,
-                "left": -41,
-                "top": 317,
-                "zoom": 0.366421568627451
-              }
-            }
-          },
-          {
-            "id": "d38d3bb5bad9aa6e",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Decision tree regression.excalidraw.md"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -149,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +191,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "746c13f69702e872",
   "lastOpenFiles": [
+    "Summarize Papers/BLIP-2/Summarize.md",
+    "CLIP-BLIP-BLIP-2-ISM.md",
+    "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "base-knowledge/Database/Pyspark",
+    "base-knowledge/Database",
+    "Excalidraw/Decision tree regression.excalidraw.md",
+    "TeamVaultRepo/Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "TeamVaultRepo/Papers/2210.05916v3.pdf",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
@@ -214,16 +209,12 @@
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-    "Summarize Papers/BLIP-2/Summarize.md",
     "TrashNote/2024-10-12.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
-    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
@@ -235,14 +226,9 @@
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Terminology/Overfitting.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
-    "AIO homework/Week 3/ex2w03/Description.pdf",
-    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "Math/Entropy.md",
     "Terminology/Underfitting.md",
-    "AIO notebook/Decision tree classification/code/creditcard.zip",
     "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
-    "Excalidraw/GINI.excalidraw.md",
-    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
