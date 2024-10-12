@@ -36,6 +36,11 @@ $$\text{Tree Score} = \text{Total SSR} + \alpha T$$
 $$
 Total SSR = \sum_{}^{p} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 $$
-- $\alpha$ là hệ số tự chọn để có thể optimal cây
-- $T$ là số lượng nút lá
-- 
+- $\alpha$ là <font color="#00b0f0">hệ số tự chọn</font> để có thể optimal cây
+- $T$ là số lượng nút lá trong cây
+cách tìm Tree score:
+![[DecisionTree_Regression_AIO2024.pdf#page=73&rect=3,31,916,465&color=important|DecisionTree_Regression_AIO2024, p.73]]
+![[DecisionTree_Regression_AIO2024.pdf#page=74&rect=4,8,943,461&color=important|DecisionTree_Regression_AIO2024, p.74]]
+như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt -> chúng ta tránh việc [[Overfitting]] <font color="#00b0f0">(tức học quá sát với dữ liệu làm sai lệch với dữ liệu test)</font> bằng cách prunnin tức xóa bớt nút lá 
+
+#### Vậy la
