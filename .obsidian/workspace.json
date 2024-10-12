@@ -23,11 +23,9 @@
             "id": "4c4e639bed812a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TrashNote/2024-10-12.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrashNote/2024-10-12.md"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrashNote/2024-10-12.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrashNote/2024-10-12.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +207,9 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
-    "Excalidraw/ViT.excalidraw.md",
+    "Summarize Papers/BLIP-2/Summarize.md",
     "TrashNote/2024-10-12.md",
+    "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
@@ -219,7 +218,6 @@
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/BLIP-2.excalidraw.md",
-    "Summarize Papers/BLIP-2/Summarize.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
