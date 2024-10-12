@@ -23,13 +23,9 @@
             "id": "4c4e639bed812a12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
-                "page": 4,
-                "left": -11,
-                "top": 779,
-                "zoom": 1.329656862745098
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -39,11 +35,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 84,
-                "left": -18,
-                "top": 460,
-                "zoom": 0.84765625
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "page": 3,
+                "left": -11,
+                "top": 70,
+                "zoom": 1.329656862745098
               }
             }
           },
@@ -135,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -153,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,16 +207,18 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
+    "Attachments/Images/cropped_image_4_3.md",
+    "Excalidraw/BLIP-2.excalidraw.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
+    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "Summarize Papers/BLIP-2/Summarize.md",
     "TrashNote/2024-10-12.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
-    "Summarize Papers/BLIP-2/Summarize.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
-    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -245,7 +243,6 @@
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/Log2.md",
-    "base-knowledge/Graph knowledge/Boxplots.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
