@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "TrashNote/2024-10-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md"
+                "file": "TrashNote/2024-10-12.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "TrashNote/2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "TrashNote/2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +209,12 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
+    "Excalidraw/ViT.excalidraw.md",
+    "TrashNote/2024-10-12.md",
+    "Summarize Papers/ViT(vision transformer)/ViT.md",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -233,7 +236,6 @@
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "Math/Entropy.md",
     "Terminology/Underfitting.md",
-    "Summarize Papers/ViT(vision transformer)/ViT.md",
     "AIO notebook/Decision tree classification/code/creditcard.zip",
     "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
     "Excalidraw/GINI.excalidraw.md",
@@ -243,7 +245,6 @@
     "TrashNote",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "base-knowledge/Graph knowledge/Correlation Chart.md",
-    "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
