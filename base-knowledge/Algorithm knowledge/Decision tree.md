@@ -47,7 +47,7 @@ như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt
 
 -> Chúng ta tăng từ từ $\alpha$ lên trong lúc chặt nhánh để xem tree score chỗ nào tốt nhất 
 <span style="background:#ff4d4f">warning</span>: $\alpha$ quyết định tree score tức hình dáng của cây như thế nào 
-
+![[Excalidraw/Decision tree regression.excalidraw.md#^group=LNsv09uQ|Cấu  trúc tổng quát]]
 ![[DecisionTree_Regression_AIO2024.pdf#page=83&rect=62,26,912,460|DecisionTree_Regression_AIO2024, p.83]]
 ở đây ta đánh giá các split (tức các cây) trên từng $\alpha$ xem với $\alpha$ nào thì dẫn đến tree score trung bình bé nhất trong tất cả các tree score 
 Ví dụ: 

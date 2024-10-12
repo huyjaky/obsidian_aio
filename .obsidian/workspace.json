@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "746c13f69702e872",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 81,
-                "left": -18,
-                "top": 9,
-                "zoom": 0.84765625
-              }
-            }
-          },
-          {
             "id": "4c4e639bed812a12",
             "type": "leaf",
             "state": {
@@ -42,6 +28,20 @@
                 "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "746c13f69702e872",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+                "page": 81,
+                "left": -18,
+                "top": 494,
+                "zoom": 0.84765625
               }
             }
           },
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,12 +210,12 @@
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
     "Math/GINI.md",
-    "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
