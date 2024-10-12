@@ -23,9 +23,13 @@
             "id": "4c4e639bed812a12",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
+                "page": 4,
+                "left": -11,
+                "top": 779,
+                "zoom": 1.329656862745098
               }
             }
           },
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
               }
             }
           },
@@ -149,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +211,11 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
-    "Summarize Papers/BLIP-2/Summarize.md",
     "TrashNote/2024-10-12.md",
+    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "Summarize Papers/BLIP-2/Summarize.md",
+    "Excalidraw/BLIP-2.excalidraw.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
@@ -217,10 +224,8 @@
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
@@ -240,9 +245,7 @@
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/Log2.md",
-    "TrashNote",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "base-knowledge/Graph knowledge/Correlation Chart.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
