@@ -5,13 +5,13 @@ decision tree cây nhị phân dùng để đánh giá một cá thể xem nó t
 
 ## Làm thế nào để xây dựng một cây quyết định (Decision tree)
 
-![[Entropy]]
+-> [[Entropy]]
 
 <span style="background:#b1ffff">-> Ở bài này ta sẽ thêm một bước nữa là công thức GINI</span>
 
 #### Công thức GINI là gì?
 
--> ![[GINI]]
+-> [[GINI]]
 ## Vậy làm sao để biết được đâu là node gốc cho decision tree
 -> Để có thể xây dựng một cây quyết định (decision tree) thì ta phải xác định được Node gốc của nó 
 
@@ -22,7 +22,7 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 
 ## Trường hợp dữ liệu là dạng số chứ không phải class nữa
 
-![[Decision tree regression]]
+-> [[Decision tree regression]]
 
 ## Tỉa cây (prunning tree)
 tỉa cây để làm gì?
@@ -43,4 +43,9 @@ cách tìm Tree score:
 ![[DecisionTree_Regression_AIO2024.pdf#page=74&rect=4,8,943,461&color=important|DecisionTree_Regression_AIO2024, p.74]]
 như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt -> chúng ta tránh việc [[Overfitting]] <font color="#00b0f0">(tức học quá sát với dữ liệu làm sai lệch với dữ liệu test)</font> bằng cách prunnin tức xóa bớt nút lá 
 
-#### Vậy la
+#### Vâỵ làm sao để tìm được $\alpha$ để tìm được tree score tối ưu nhất ?
+
+-> Chúng ta tăng từ từ $\alpha$ lên trong lúc chặt nhánh để xem tree score chỗ nào tốt nhất 
+warning: $\alpha$ quyết định tree score tức hình dáng của cây như thế nào 
+
+
