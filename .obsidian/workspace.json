@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c4e639bed812a12",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "746c13f69702e872",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md"
               }
             }
           },
@@ -135,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,15 +170,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c4e639bed812a12",
+  "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
+    "Excalidraw/BLIP-2.excalidraw.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Terminology/Zero-shot classifier accuracy.md",
     "Math/Cross-entropy.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
