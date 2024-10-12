@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 73,
+                "page": 81,
                 "left": -18,
-                "top": 478,
+                "top": 9,
                 "zoom": 0.84765625
               }
             }
@@ -209,10 +209,12 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Math/GINI.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Excalidraw/BLIP-2.excalidraw.md",
+    "Summarize Papers/BLIP-2/Summarize.md",
+    "base-knowledge/Algorithm knowledge/Decision tree regression.md",
+    "Math/GINI.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
@@ -242,8 +244,6 @@
     "base-knowledge/Graph knowledge/Correlation Chart.md",
     "TeamVaultRepo/Huy/Nhật ký báo cáo 8-10-2024.md",
     "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
-    "Summarize Papers/BLIP-2/Summarize.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
