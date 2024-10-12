@@ -37,9 +37,9 @@
               "state": {
                 "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "page": 4,
-                "left": -11,
-                "top": 560,
-                "zoom": 1.329656862745098
+                "left": -41,
+                "top": 317,
+                "zoom": 0.366421568627451
               }
             }
           },
@@ -205,8 +205,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "746c13f69702e872",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
+    "TeamVaultRepo/Papers/2210.05916v3.pdf",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
@@ -242,7 +243,6 @@
     "Attachments/Images/cropped_DecisionTree_Regression_AIO2024.md",
     "Excalidraw/GINI.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
