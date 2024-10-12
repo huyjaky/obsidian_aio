@@ -33,11 +33,9 @@
             "id": "746c13f69702e872",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +193,12 @@
   },
   "active": "746c13f69702e872",
   "lastOpenFiles": [
-    "Terminology/Zero-shot classifier accuracy.md",
     "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Math/Cross-entropy.md",
+    "Excalidraw/CLIP pipeline.excalidraw.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
+    "Terminology/Zero-shot classifier accuracy.md",
+    "Math/Cross-entropy.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "CLIP-BLIP-BLIP-2-ISM.md",
@@ -229,7 +228,6 @@
     "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
-    "Terminology/Overfitting.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
