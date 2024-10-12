@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md"
+                "file": "Excalidraw/BLIP-2.excalidraw.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CLIP pipeline.excalidraw.md",
+                "file": "Excalidraw/BLIP-2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "746c13f69702e872",
+  "active": "4c4e639bed812a12",
   "lastOpenFiles": [
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
+    "Summarize Papers/Clip/CLIP Summerize notes.md",
     "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Terminology/Zero-shot classifier accuracy.md",
