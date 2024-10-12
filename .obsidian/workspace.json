@@ -36,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
-                "page": 3,
+                "page": 4,
                 "left": -11,
-                "top": 70,
+                "top": 560,
                 "zoom": 1.329656862745098
               }
             }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "TeamVaultRepo/Papers/BLIP-2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +205,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c4e639bed812a12",
+  "active": "746c13f69702e872",
   "lastOpenFiles": [
-    "Attachments/Images/cropped_image_4_3.md",
     "Excalidraw/BLIP-2.excalidraw.md",
+    "Attachments/Images/cropped_image_4_4.md",
+    "Attachments/Images/cropped_image_4_3.md",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
@@ -242,7 +243,6 @@
     "Excalidraw/GINI.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/IG-informationGain.excalidraw.md",
-    "Math/Log2.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
