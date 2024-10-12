@@ -33,9 +33,11 @@
             "id": "746c13f69702e872",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md"
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md"
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/ViT.excalidraw.md",
+                "file": "Summarize Papers/Clip/CLIP Summerize notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +195,7 @@
   },
   "active": "746c13f69702e872",
   "lastOpenFiles": [
+    "Excalidraw/ViT.excalidraw.md",
     "Summarize Papers/ViT(vision transformer)/ViT.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
@@ -212,7 +215,6 @@
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "TrashNote/2024-10-12.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
-    "Excalidraw/ViT.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Math/GINI.md",
