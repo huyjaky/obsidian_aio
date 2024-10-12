@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
+                "file": "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +209,9 @@
   },
   "active": "4c4e639bed812a12",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "Excalidraw/Decision tree regression.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "base-knowledge/Algorithm knowledge/Decision tree regression.md",
