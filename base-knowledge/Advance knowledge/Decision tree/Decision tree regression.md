@@ -1,4 +1,4 @@
-#tree #Math #regression #Algorithm 
+#tree #Math #regression #Algorithm #advance 
 
 <span style="background:#b1ffff">WARNING</span>: Cần phải đọc bài [[Decision tree]] để hiểu rõ về decision tree và cách tạo lên nó
 
@@ -7,7 +7,8 @@ bình thường khi xây dựng cây decision tree thì dữ liệu trông như 
 ![[Extra_Decision_Tree.pdf#page=36&rect=28,79,336,401&color=important|Extra_Decision_Tree, p.36|400]]
 -> dữ liệu này có các class cụ thể trong từng feature vì thế rất dễ để xây dựng cây
 
-nhưng nếu là dữ liệu dạng số thì sao để xây dựng cây?
+## nhưng nếu là dữ liệu dạng số thì sao để xây dựng cây?
+
 ![[DecisionTree_Regression_AIO2024.pdf#page=18&rect=251,156,673,331&color=important|DecisionTree_Regression_AIO2024, p.18|400]]
 
 Ví dụ:
@@ -41,3 +42,6 @@ như vậy ta tìm được nhánh bên trái của node gốc là 11.5 và có 
 
 ![[DecisionTree_Regression_AIO2024.pdf#page=49&rect=159,5,951,459|DecisionTree_Regression_AIO2024, p.49]]
 -> cây hoàn thiện và kết quả dự đoán khi cho một unit
+
+#### Ví dụ về cắt nhánh (prunning tree) 
+![[Excalidraw/Decision tree regression.excalidraw.md#^group=e369VFe7|Ví dụ về việc cắt nhánh |800]]
