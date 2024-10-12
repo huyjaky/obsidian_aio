@@ -35,7 +35,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Excalidraw/ViT.excalidraw.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md"
+                "file": "Excalidraw/ViT.excalidraw.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Excalidraw/ViT.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/BLIP-2.excalidraw.md",
+                "file": "Excalidraw/ViT.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,8 @@
   },
   "active": "746c13f69702e872",
   "lastOpenFiles": [
+    "Summarize Papers/ViT(vision transformer)/ViT.md",
+    "Excalidraw/BLIP-2.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
@@ -203,7 +205,6 @@
     "TeamVaultRepo/Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "TeamVaultRepo/Papers/2210.05916v3.pdf",
-    "Excalidraw/BLIP-2.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
@@ -212,7 +213,6 @@
     "TrashNote/2024-10-12.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Excalidraw/ViT.excalidraw.md",
-    "Summarize Papers/ViT(vision transformer)/ViT.md",
     "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Math/GINI.md",
