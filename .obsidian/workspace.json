@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8521fcbc02543e5d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md"
+                "file": "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md"
+                "file": "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md"
               }
             }
           },
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
+                "file": "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
+                "file": "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +168,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8521fcbc02543e5d",
+  "active": "01c7fafeb388481e",
   "lastOpenFiles": [
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
+    "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
     "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
     "TrashNote/2024-10-12.md",
     "Terminology/Underfitting.md",
@@ -211,7 +201,6 @@
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Math/Entropy.md",
-    "Math/GINI.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
     "Attachments/Fonts/Recursive.zip",
