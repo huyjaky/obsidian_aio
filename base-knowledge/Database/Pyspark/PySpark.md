@@ -49,10 +49,12 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ![[PySpark.excalidraw#^group=H9ZHvrGW|pyspark|800]]
 
 ## RDD
--> ![[RDD]]
+-> ![[RDD (Resilient distributed dataset)]]
 #### RDD to Dataframe
--> ![[DataFrame]]
+-> ![[PySpark DataFrame]]
 ## Run Session Spark (Bắt buộc phải khởi động session trước)
 -> ![[PySpark Session]]
 ## PySpark read data from file
--> ![[Read Data from file]]
+-> ![[PySpark read Data from file]]
+## PySpark dataframe action
+-> ![[PySpark select show and more]]

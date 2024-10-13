@@ -48,15 +48,25 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 56,
-                "left": -20,
-                "top": 11,
-                "zoom": 0.7507812500000002
+                "page": 1,
+                "zoom": 1
+              }
+            }
+          },
+          {
+            "id": "33b8c65ed372898e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark select show and more.md"
+                "file": "Excalidraw/PySpark.excalidraw.md"
               }
             }
           },
@@ -151,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
+                "file": "Excalidraw/PySpark.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
+                "file": "Excalidraw/PySpark.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,16 +216,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ead6aa56e6dc7e8c",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "Attachments/Fonts/JetBrainsMonoCompress.zip",
+    "Attachments/Fonts/JetBrainsMono.zip",
+    "Attachments/Fonts/Recursive.zip",
+    "Attachments/Fonts/VictorMono.zip",
+    "Attachments/Fonts",
+    "base-knowledge/Python/Spark/RDD (Resilient distributed dataset).md",
+    "base-knowledge/Python/Spark/PySpark DataFrame.md",
+    "base-knowledge/Python/Spark/PySpark Session.md",
+    "base-knowledge/Python/Spark/PySpark read Data from file.md",
     "base-knowledge/Python/Spark/PySpark select show and more.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
-    "base-knowledge/Python/Spark/Read Data from file.md",
-    "base-knowledge/Python/Spark/RDD.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Excalidraw/PySpark.excalidraw.md",
-    "base-knowledge/Python/Spark/PySpark Session.md",
-    "base-knowledge/Python/Spark/DataFrame.md",
     "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
     "base-knowledge/Python/Syntax/Lambda.md",
@@ -228,10 +242,6 @@
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "TeamVaultRepo/Papers/HateClip.pdf",
     "AIO notebook/PySpark for Data Processing/PySpark_Big_Data.ipynb",
-    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday/PySpark_Big_Data.ipynb",
-    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday/PySpark.pdf",
-    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday",
-    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/BLIP-2.excalidraw.md",
