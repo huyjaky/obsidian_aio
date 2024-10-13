@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md"
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +193,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +217,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "ead6aa56e6dc7e8c",
   "lastOpenFiles": [
+    "base-knowledge/Database/Pyspark/PySpark.md",
+    "Excalidraw/PySpark.excalidraw.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
     "Attachments/Fonts/Recursive.zip",
@@ -228,9 +231,7 @@
     "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Python/Spark/PySpark read Data from file.md",
     "base-knowledge/Python/Spark/PySpark select show and more.md",
-    "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-    "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
     "base-knowledge/Python/Syntax/Lambda.md",
@@ -241,7 +242,6 @@
     "Math/Cosine similarity.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "TeamVaultRepo/Papers/HateClip.pdf",
-    "AIO notebook/PySpark for Data Processing/PySpark_Big_Data.ipynb",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/BLIP-2.excalidraw.md",
