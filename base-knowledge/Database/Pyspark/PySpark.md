@@ -13,3 +13,12 @@ như chúng ta có thể thấy đây là trích đoạn của một paper về 
 ![[PySpark.pdf#page=21&rect=8,9,939,455|PySpark, p.21]]
 - <font color="#00b0f0">Streaming Data</font>: là loại được sinh ra liên tục -> data trong mạng xã hội, web
 - <font color="#00b0f0">Static Data</font>: là loại được tạo ra trước và không được sinh ra liên tục -> thông tin hàng hóa,...
+#### Hadoop hoạt động như thế nào? (để so sánh với spark)
+![[PySpark.pdf#page=23&rect=25,60,910,454|PySpark, p.23]]
+Hadoop là một loại dữ liệu phân tán, hadoop chia data lớn thành nhiều phần data nhỏ lưu trong <span style="background:#b1ffff">ổ đĩa (disk)</span> từng máy riêng biệt và khi nào người dùng cần thì nó mới tìm máy lư trữ data người dùng cần và lấy nó ra -> tốc độ cực thấp vì lưu tại ổ đĩa
+-> pipline của hadoop: 
+![[PySpark.pdf#page=24&rect=117,24,852,324|PySpark, p.24]]
+
+#### Spark hoạt động như thế nào? 
+![[PySpark.pdf#page=25&rect=39,33,499,352|PySpark, p.25]]
+Spark cũng giống hadoop ở chỗ là cũng chia dữ liệu ra thành nhiều phần và lưu ở từng máy riêng biệt, nhưng nó khác ở chỗ là thay vì lưu trên ổ đĩa (disk) như hadoop thì spark lại <span style="background:#b1ffff">lưu số dữ liệu đấy trên ram</span> -> tốc độ truy suất cực nhanh 
