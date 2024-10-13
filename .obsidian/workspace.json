@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a99802f4c9d08f1",
+        "id": "8aedfe300904a28e",
         "type": "tabs",
         "children": [
           {
-            "id": "ead6aa56e6dc7e8c",
+            "id": "01c7fafeb388481e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/KNN.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "33fecd52c1cf9493",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 65,
-                "left": -20,
-                "top": 490,
-                "zoom": 0.75078125
-              }
-            }
-          },
-          {
-            "id": "7e8199bcb462fdfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b56e4551e5e570ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5769cc24268867b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "33b8c65ed372898e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Python/Spark/PySpark temp view.md",
+                "file": "Terminology/Underfitting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf"
+                "file": "Terminology/Underfitting.md"
               }
             }
           },
@@ -175,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "file": "Terminology/Underfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "file": "Terminology/Underfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,20 +170,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "01c7fafeb388481e",
   "lastOpenFiles": [
-    "base-knowledge/Database/Pyspark/Code/PySpark_Big_Data.ipynb",
+    "Terminology/Overfitting.md",
+    "Terminology/Underfitting.md",
+    "Terminology/Bảng ký hiệu toán học.md",
+    "Terminology/BoW (Bag of word).md",
+    "Terminology/Norm.md",
+    "Terminology/Clustering.md",
+    "Excalidraw/Decision tree regression.excalidraw.md",
+    "Excalidraw/PySpark.excalidraw.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Database/Pyspark/Code/PySpark_Big_Data.ipynb",
     "base-knowledge/Python/Spark/PySpark ML lib.md",
     "base-knowledge/Database/Pyspark/Code",
     "base-knowledge/Database/Pyspark/Untitled.md",
-    "Excalidraw/PySpark.excalidraw.md",
-    "Terminology/Norm.md",
     "Attachments/Images/image_22.png",
     "base-knowledge/Python/Spark/PySpark temp view.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Math/Distance/Chebyshev.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
     "Math/Distance/Minkowski.md",
     "Math/Distance/Manhattan.md",
     "Math/Distance/Euclidean.md",
@@ -262,13 +208,7 @@
     "Attachments/Fonts/VictorMono.zip",
     "Attachments/Fonts",
     "base-knowledge/Python/Spark/RDD (Resilient distributed dataset).md",
-    "base-knowledge/Python/Spark/PySpark DataFrame.md",
-    "base-knowledge/Python/Spark/PySpark read Data from file.md",
     "base-knowledge/Python/Spark",
-    "base-knowledge/Numpy.md",
-    "base-knowledge/Python/Syntax/Lambda.md",
-    "base-knowledge/Python/Syntax/Map-Filter.md",
-    "base-knowledge/Python/Syntax",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
