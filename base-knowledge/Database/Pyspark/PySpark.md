@@ -29,3 +29,7 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=3fkPKNhA|core architechture|800]]
 - <font color="#00b0f0">Resilient</font>: Khả năng giải quyết lỗi
 - <font color="#00b0f0">Distributed dataset</font>: là khả năng phân tán dữ liệu ra nhiều máy tính
+#### Hadoop vs Spark
+![[PySpark.pdf#page=28&rect=139,27,817,405|PySpark, p.28]]
+
+![[PySpark.pdf#page=29&rect=112,157,852,389|PySpark, p.29]]

@@ -21,9 +21,11 @@
             "id": "b61004b2f1c3e58e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 22,
+                "page": 28,
                 "left": -17,
-                "top": 32,
+                "top": 57,
                 "zoom": 0.86015625
               }
             }
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md"
               }
             }
           },
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +198,9 @@
   "active": "b61004b2f1c3e58e",
   "lastOpenFiles": [
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Graph knowledge/Boxplots.md",
+    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "Math/Cosine similarity.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "TeamVaultRepo/Papers/HateClip.pdf",
@@ -229,7 +232,6 @@
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
