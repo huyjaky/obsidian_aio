@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Syntax/Lambda.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Syntax/Lambda.md"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Syntax/Lambda.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Syntax/Lambda.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,9 @@
   },
   "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
+    "base-knowledge/Python/Syntax/Map-Filter.md",
     "base-knowledge/Python/Syntax/Lambda.md",
+    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Python/Syntax",
     "base-knowledge/Python",
@@ -229,7 +230,6 @@
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Algorithm knowledge/Wcss.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
