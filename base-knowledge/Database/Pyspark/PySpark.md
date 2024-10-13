@@ -46,3 +46,4 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=GVcAeZ3G|Spark GraphX | 800]]
 
 ## PySpark
+![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=H9ZHvrGW|pyspark|800]]
