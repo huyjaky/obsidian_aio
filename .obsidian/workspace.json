@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark Session.md",
+                "file": "base-knowledge/Python/Spark/Read Data from file.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,33 @@
             }
           },
           {
+            "id": "11ac1bbb415383ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Python/Spark/Read Data from file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "33fecd52c1cf9493",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 50,
+                "page": 62,
                 "left": -20,
-                "top": 287,
+                "top": 414,
                 "zoom": 0.7507812500000002
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,14 +221,15 @@
   },
   "active": "33fecd52c1cf9493",
   "lastOpenFiles": [
-    "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
-    "base-knowledge/Python/Spark/DataFrame.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Spark/Read Data from file.md",
+    "base-knowledge/Python/Spark/PySpark Session.md",
+    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
+    "base-knowledge/Python/Spark/DataFrame.md",
     "base-knowledge/Python/Spark/RDD.md",
     "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
-    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "base-knowledge/Python/Syntax/Lambda.md",
     "base-knowledge/Python/Syntax/Map-Filter.md",
     "base-knowledge/Python/Syntax",
@@ -243,7 +256,6 @@
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
-    "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",

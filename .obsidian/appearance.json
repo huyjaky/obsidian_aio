@@ -3,7 +3,7 @@
   "accentColor": "#fcfcfc",
   "interfaceFontFamily": "Nirmala UI",
   "textFontFamily": "VictorMono Nerd Font",
-  "baseFontSize": 21,
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "VictorMono Nerd Font Mono",
   "nativeMenus": false

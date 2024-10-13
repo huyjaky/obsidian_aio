@@ -52,3 +52,5 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> ![[RDD]]
 #### RDD to Dataframe
 -> ![[DataFrame]]
+## Run Session Spark (Bắt buộc phải khởi động session trước)
+-> ![[PySpark Session]]
