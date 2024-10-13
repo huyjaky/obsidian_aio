@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,15 +48,15 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 50,
+                "page": 56,
                 "left": -20,
-                "top": 9,
+                "top": 11,
                 "zoom": 0.7507812500000002
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md"
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,15 +207,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33cbba0878667f81",
+  "active": "ead6aa56e6dc7e8c",
   "lastOpenFiles": [
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Spark/PySpark select show and more.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Python/Spark/Read Data from file.md",
+    "base-knowledge/Python/Spark/RDD.md",
     "Excalidraw/PySpark.excalidraw.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Python/Spark/DataFrame.md",
-    "base-knowledge/Python/Spark/RDD.md",
     "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
     "base-knowledge/Python/Syntax/Lambda.md",
@@ -243,7 +244,6 @@
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
-    "Attachments/Images/cropped_image_4_3.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",

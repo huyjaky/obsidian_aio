@@ -54,3 +54,5 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> ![[DataFrame]]
 ## Run Session Spark (Bắt buộc phải khởi động session trước)
 -> ![[PySpark Session]]
+## PySpark read data from file
+-> ![[Read Data from file]]

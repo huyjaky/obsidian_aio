@@ -1,4 +1,4 @@
-#Codes #python #pyspark 
+#Codes #python #pyspark #Syntax 
 #### CSV
 ```Python
 df_csv = spark.read.csv("./people.csv", 
@@ -19,5 +19,13 @@ root
  |-- date of birth: timestamp (nullable = true)
 ```
 
+#### JSON
+```Python
+df_json = spark.read.json("./people.json") 
+```
 
+#### TXT
+```Python
+df_text = spark.read.text("./text_data.txt") 
+```
 
