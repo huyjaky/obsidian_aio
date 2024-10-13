@@ -49,21 +49,4 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=H9ZHvrGW|pyspark|800]]
 
 ## RDD
-#### Load Data
-`sparkContext.parallelize`
-
-```Python
-import spark
-
-num_data = [1,2,3,4,5]
-num_rdd = spark.sparkContext.parallelize(num_data)
-```
-
-```Python
-import spark
-text_data = ['Huy1',
-			'huy dep train vl', 
-			'pyspark is a great tool for bigg data analysis']
-text_rdd = spark.sparkContext.parallelize(text_data)
-```
-
+-> ![[RDD]]
