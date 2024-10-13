@@ -5,13 +5,17 @@ decision tree cây nhị phân dùng để đánh giá một cá thể xem nó t
 
 ## Làm thế nào để xây dựng một cây quyết định (Decision tree)
 
--> [[Entropy]]
+Ta có hai cách để xây dựng một cây quyết định là :
+1. [[Entropy]]
+2. [[GINI]] 
 
-<span style="background:#b1ffff">-> Ở bài này ta sẽ thêm một bước nữa là công thức GINI</span>
+#### Entropy là gì?
+-> ![[Entropy]]
+
 
 #### Công thức GINI là gì?
 
--> [[GINI]]
+-> ![[GINI]]
 ## Vậy làm sao để biết được đâu là node gốc cho decision tree
 -> Để có thể xây dựng một cây quyết định (decision tree) thì ta phải xác định được Node gốc của nó 
 
