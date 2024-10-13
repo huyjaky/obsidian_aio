@@ -4,36 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "8a99802f4c9d08f1",
-        "type": "tabs",
+        "id": "531b7c5242a17cb1",
+        "type": "split",
         "children": [
           {
-            "id": "1bb4811a7c5f7670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                "mode": "source",
-                "source": false
+            "id": "8a99802f4c9d08f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bb4811a7c5f7670",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7be629eabb4d0785",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                    "page": 25,
+                    "left": -17,
+                    "top": 89,
+                    "zoom": 0.86015625
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "7be629eabb4d0785",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 25,
-                "left": -17,
-                "top": 487,
-                "zoom": 0.86015625
+            "id": "1ad5fe47ac44e0ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9e004d248e7a898",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"

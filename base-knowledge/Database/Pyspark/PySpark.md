@@ -22,3 +22,6 @@ Hadoop là một loại dữ liệu phân tán, hadoop chia data lớn thành nh
 #### Spark hoạt động như thế nào? 
 ![[PySpark.pdf#page=25&rect=39,33,499,352|PySpark, p.25]]
 Spark cũng giống hadoop ở chỗ là cũng chia dữ liệu ra thành nhiều phần và lưu ở từng máy riêng biệt, nhưng nó khác ở chỗ là thay vì lưu trên ổ đĩa (disk) như hadoop thì spark lại <span style="background:#b1ffff">lưu số dữ liệu đấy trên ram</span> -> tốc độ truy suất cực nhanh 
+
+Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các công cụ SQL thịnh hành hiện nay: 
+![[PySpark.pdf#page=25&rect=493,58,933,365|PySpark, p.25]]
