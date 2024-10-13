@@ -33,3 +33,11 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ![[PySpark.pdf#page=28&rect=139,27,817,405|PySpark, p.28]]
 
 ![[PySpark.pdf#page=29&rect=112,157,852,389|PySpark, p.29]]
+#### Spark Machine learning library
+![[PySpark.pdf#page=33&rect=174,23,789,302|PySpark, p.33]]
+- <font color="#00b0f0">ML algorithms</font>: thì đây là thuật toán mô hình
+- <font color="#00b0f0">Featurizations</font>: trích xuất đặc trưng, giảm chiều, biến đổi, ..
+-> Sparm MLlib đã hỗ trợ việc train mô hình một cách toàn diện về mặt data 
+
+#### Spark streaming
+![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=U9uXuyFr|Spark Streaming]]

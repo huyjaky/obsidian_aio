@@ -36,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 28,
+                "page": 34,
                 "left": -17,
-                "top": 57,
+                "top": 399,
                 "zoom": 0.86015625
               }
             }
@@ -197,10 +197,10 @@
   },
   "active": "b61004b2f1c3e58e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "Math/Cosine similarity.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "TeamVaultRepo/Papers/HateClip.pdf",
