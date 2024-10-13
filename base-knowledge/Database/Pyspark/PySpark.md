@@ -58,3 +58,7 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> ![[PySpark read Data from file]]
 ## PySpark dataframe action
 -> ![[PySpark select show and more]]
+## PySpark temp view
+-> ![[PySpark temp view]]
+## PySpark ML lib
+
