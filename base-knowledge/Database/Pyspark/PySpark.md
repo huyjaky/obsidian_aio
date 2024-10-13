@@ -50,3 +50,5 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 
 ## RDD
 -> ![[RDD]]
+#### RDD to Dataframe
+-> ![[DataFrame]]

@@ -18,33 +18,45 @@
             }
           },
           {
-            "id": "bd5c0be2e8da8781",
+            "id": "7be629eabb4d0785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Spark/DataFrame.md",
+                "file": "base-knowledge/Python/Spark/PySpark Session.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7be629eabb4d0785",
+            "id": "33cbba0878667f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33fecd52c1cf9493",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 44,
+                "page": 50,
                 "left": -20,
-                "top": 453,
+                "top": 287,
                 "zoom": 0.7507812500000002
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Spark/DataFrame.md"
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Spark/DataFrame.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Spark/DataFrame.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,13 +207,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd5c0be2e8da8781",
+  "active": "33fecd52c1cf9493",
   "lastOpenFiles": [
-    "base-knowledge/Python/Spark/RDD.md",
-    "base-knowledge/Python/Spark/DataFrame.md",
+    "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
-    "base-knowledge/Python/Spark",
+    "base-knowledge/Python/Spark/DataFrame.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Spark/RDD.md",
+    "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
     "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "base-knowledge/Python/Syntax/Lambda.md",
@@ -231,8 +244,6 @@
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
     "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
-    "TrashNote/2024-10-12.md",
-    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
