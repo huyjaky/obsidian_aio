@@ -48,8 +48,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 56,
+                "left": -20,
+                "top": 20,
+                "zoom": 0.7507812500000002
               }
             }
           },
@@ -59,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/Spark/PySpark select show and more.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,9 +219,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ead6aa56e6dc7e8c",
+  "active": "33b8c65ed372898e",
   "lastOpenFiles": [
+    "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Spark/PySpark select show and more.md",
     "Excalidraw/PySpark.excalidraw.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
@@ -228,10 +233,7 @@
     "Attachments/Fonts",
     "base-knowledge/Python/Spark/RDD (Resilient distributed dataset).md",
     "base-knowledge/Python/Spark/PySpark DataFrame.md",
-    "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Python/Spark/PySpark read Data from file.md",
-    "base-knowledge/Python/Spark/PySpark select show and more.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Python/Spark",
     "base-knowledge/Numpy.md",
     "base-knowledge/Python/Syntax/Lambda.md",
