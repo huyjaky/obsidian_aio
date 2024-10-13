@@ -7,4 +7,9 @@ như chúng ta có thể thấy đây là trích đoạn của một paper về 
 
 #### Các tools dùng để quản lý data phổ biến
 ![[PySpark.pdf#page=20&rect=15,37,939,457|PySpark, p.20]]
--> ở đây c
+-> ở đây có những cái phổ biến ta cần quan tâm là spark, hadoop, kafka
+
+#### Pipline của data
+![[PySpark.pdf#page=21&rect=8,9,939,455|PySpark, p.21]]
+- <font color="#00b0f0">Streaming Data</font>: là loại được sinh ra liên tục -> data trong mạng xã hội, web
+- <font color="#00b0f0">Static Data</font>: là loại được tạo ra trước và không được sinh ra liên tục -> thông tin hàng hóa,...

@@ -20,21 +20,8 @@
                 "zoom": 0.86015625
               }
             }
-          },
-          {
-            "id": "20d9129ce10cfe49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md"
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf"
               }
             }
           },
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +172,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20d9129ce10cfe49",
+  "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "Math/Cosine similarity.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "TeamVaultRepo/Papers/HateClip.pdf",
     "AIO notebook/PySpark for Data Processing/PySpark_Big_Data.ipynb",
     "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday/PySpark_Big_Data.ipynb",
@@ -208,7 +197,6 @@
     "Terminology/Zero-shot classifier accuracy.md",
     "Math/Cross-entropy.md",
     "Summarize Papers/BLIP-2/Summarize.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
