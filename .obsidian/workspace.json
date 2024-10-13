@@ -13,15 +13,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 846,
-                "zoom": 1.387171664908379
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "page": 21,
+                "left": -17,
+                "top": 519,
+                "zoom": 0.86015625
+              }
+            }
+          },
+          {
+            "id": "20d9129ce10cfe49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,13 +185,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "20d9129ce10cfe49",
   "lastOpenFiles": [
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Database/Pyspark/PySpark.md",
+    "TeamVaultRepo/Papers/HateClip.pdf",
+    "AIO notebook/PySpark for Data Processing/PySpark_Big_Data.ipynb",
+    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday/PySpark_Big_Data.ipynb",
+    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday/PySpark.pdf",
+    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday",
+    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001",
+    "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001.zip",
+    "AIO notebook/PySpark for Data Processing",
     "TeamVaultRepo/Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
-    "TeamVaultRepo/Papers/Violence_Detection___A_Multi_Model_Approach_Towards_Automated_Video_Surveillance_and_Public_Safety__Copy_1.pdf",
-    "TeamVaultRepo/Papers/peerj-cs-920.pdf",
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
-    "TeamVaultRepo/Papers/2209.11680v1.pdf",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/BLIP-2.excalidraw.md",
@@ -189,20 +208,13 @@
     "Terminology/Zero-shot classifier accuracy.md",
     "Math/Cross-entropy.md",
     "Summarize Papers/BLIP-2/Summarize.md",
-    "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "base-knowledge/Database/Pyspark",
-    "base-knowledge/Database",
     "Excalidraw/Decision tree regression.excalidraw.md",
-    "TeamVaultRepo/Papers/An Overview of Violence Detection Techniques_ Current%0AChallenges and Future Directions.pdf",
-    "TeamVaultRepo/Papers/HateClip.pdf",
     "Attachments/Images/cropped_image_4_4.md",
     "Attachments/Images/cropped_image_4_3.md",
     "TeamVaultRepo/CLIP-BLIP-BLIP2/ss.md",
-    "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "TrashNote/2024-10-12.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
-    "base-knowledge/Advance knowledge/Decision tree",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
