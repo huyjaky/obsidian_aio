@@ -11,9 +11,11 @@
             "id": "1bb4811a7c5f7670",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md"
+                "file": "base-knowledge/Python/Syntax/Lambda.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -21,12 +23,8 @@
             "id": "b61004b2f1c3e58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -36,15 +34,14 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 34,
+                "page": 35,
                 "left": -17,
-                "top": 399,
+                "top": 470,
                 "zoom": 0.86015625
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md"
+                "file": "base-knowledge/Python/Syntax/Lambda.md"
               }
             }
           },
@@ -139,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/Syntax/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/Syntax/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +192,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b61004b2f1c3e58e",
+  "active": "1bb4811a7c5f7670",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Syntax/Lambda.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Python/Syntax",
+    "base-knowledge/Python",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Graph knowledge/Boxplots.md",
     "Math/Cosine similarity.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -210,8 +210,6 @@
     "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001/Saturday",
     "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001",
     "AIO notebook/PySpark for Data Processing/Saturday-20241013T020635Z-001.zip",
-    "AIO notebook/PySpark for Data Processing",
-    "TeamVaultRepo/Papers/Toxic Memes A Survey of Computational Perspectives on the Detection and Explanation of.pdf",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/BLIP-2.excalidraw.md",

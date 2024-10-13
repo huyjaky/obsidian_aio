@@ -40,4 +40,9 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> Sparm MLlib đã hỗ trợ việc train mô hình một cách toàn diện về mặt data 
 
 #### Spark streaming
-![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=U9uXuyFr|Spark Streaming]]
+![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=U9uXuyFr|Spark Streaming|800]]
+
+#### Spark GraphX
+![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=GVcAeZ3G|Spark GraphX | 800]]
+
+## PySpark
