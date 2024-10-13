@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/Spark/Read Data from file.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md"
+                "file": "base-knowledge/Python/Spark/Read Data from file.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md",
+                "file": "base-knowledge/Python/Spark/Read Data from file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md",
+                "file": "base-knowledge/Python/Spark/Read Data from file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +207,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b61004b2f1c3e58e",
+  "active": "33cbba0878667f81",
   "lastOpenFiles": [
+    "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Python/Spark/Read Data from file.md",
     "Excalidraw/PySpark.excalidraw.md",
-    "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Python/Spark/PySpark Session.md",
     "base-knowledge/Python/Spark/DataFrame.md",
