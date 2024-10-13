@@ -13,19 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7be629eabb4d0785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Python/Spark/Read Data from file.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/PySpark.excalidraw.md"
               }
             }
           },
@@ -42,7 +30,7 @@
             }
           },
           {
-            "id": "11ac1bbb415383ad",
+            "id": "ead6aa56e6dc7e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,15 +48,14 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 62,
+                "page": 50,
                 "left": -20,
-                "top": 414,
+                "top": 9,
                 "zoom": 0.7507812500000002
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf"
+                "file": "Excalidraw/PySpark.excalidraw.md"
               }
             }
           },
@@ -163,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "file": "Excalidraw/PySpark.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "file": "Excalidraw/PySpark.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,13 +206,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33fecd52c1cf9493",
+  "active": "b61004b2f1c3e58e",
   "lastOpenFiles": [
+    "base-knowledge/Python/Spark/Read Data from file.md",
+    "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-    "base-knowledge/Python/Spark/Read Data from file.md",
     "base-knowledge/Python/Spark/PySpark Session.md",
-    "Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md",
     "base-knowledge/Python/Spark/DataFrame.md",
     "base-knowledge/Python/Spark/RDD.md",
     "base-knowledge/Python/Spark",

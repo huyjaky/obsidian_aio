@@ -26,7 +26,7 @@ Spark cũng giống hadoop ở chỗ là cũng chia dữ liệu ra thành nhiề
 Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các công cụ SQL thịnh hành hiện nay: 
 ![[PySpark.pdf#page=25&rect=493,58,933,365|PySpark, p.25]]
 ## Kiến trúc lõi của Spark
-![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=3fkPKNhA|core architechture|800]]
+![[PySpark.excalidraw#^group=3fkPKNhA|core architechture|800]]
 - <font color="#00b0f0">Resilient</font>: Khả năng giải quyết lỗi
 - <font color="#00b0f0">Distributed dataset</font>: là khả năng phân tán dữ liệu ra nhiều máy tính
 #### Hadoop vs Spark
@@ -40,13 +40,13 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> Sparm MLlib đã hỗ trợ việc train mô hình một cách toàn diện về mặt data 
 
 #### Spark streaming
-![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=U9uXuyFr|Spark Streaming|800]]
+![[PySpark.excalidraw#^group=U9uXuyFr|Spark Streaming|800]]
 
 #### Spark GraphX
-![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=GVcAeZ3G|Spark GraphX | 800]]
+![[PySpark.excalidraw#^group=GVcAeZ3G|Spark GraphX | 800]]
 
 ## PySpark
-![[Excalidraw/Drawing 2024-10-13 09.58.28.excalidraw.md#^group=H9ZHvrGW|pyspark|800]]
+![[PySpark.excalidraw#^group=H9ZHvrGW|pyspark|800]]
 
 ## RDD
 -> ![[RDD]]
