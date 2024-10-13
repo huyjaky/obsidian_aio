@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b61004b2f1c3e58e",
+            "id": "ead6aa56e6dc7e8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/KNN.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
           {
-            "id": "ead6aa56e6dc7e8c",
+            "id": "33fecd52c1cf9493",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+                "page": 61,
+                "left": -20,
+                "top": 42,
+                "zoom": 0.75078125
+              }
+            }
+          },
+          {
+            "id": "7e8199bcb462fdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56e4551e5e570ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,16 +58,12 @@
             }
           },
           {
-            "id": "33fecd52c1cf9493",
+            "id": "5769cc24268867b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 63,
-                "left": -20,
-                "top": 387,
-                "zoom": 0.7507812500000002
+                "file": "Excalidraw/PySpark.excalidraw.md"
               }
             }
           },
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md"
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf"
               }
             }
           },
@@ -151,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
+                "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,20 +230,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ead6aa56e6dc7e8c",
+  "active": "33fecd52c1cf9493",
   "lastOpenFiles": [
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Database/Pyspark/PySpark.md",
+    "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Python/Spark/PySpark ML lib.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/Spark/PySpark temp view.md",
+    "Math/Distance/Chebyshev.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "Math/Distance/Minkowski.md",
+    "Math/Distance/Manhattan.md",
+    "Math/Distance/Euclidean.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "Math/Distance",
+    "Terminology/Norm.md",
+    "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Math/Entropy.md",
     "Math/GINI.md",
-    "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Database/Pyspark/PySpark.md",
-    "base-knowledge/Python/Spark/PySpark temp view.md",
     "base-knowledge/Python/Spark/PySpark select show and more.md",
     "base-knowledge/Python/Spark/PySpark Session.md",
-    "Excalidraw/PySpark.excalidraw.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
     "Attachments/Fonts/Recursive.zip",
@@ -235,14 +267,6 @@
     "base-knowledge/Python/Syntax",
     "base-knowledge/Python",
     "base-knowledge/Graph knowledge/Boxplots.md",
-    "Math/Cosine similarity.md",
-    "TeamVaultRepo/Papers/HateClip.pdf",
-    "CLIP-BLIP-BLIP-2-ISM.md",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
-    "Excalidraw/BLIP-2.excalidraw.md",
-    "Excalidraw/CLIP pipeline.excalidraw.md",
-    "Summarize Papers/Clip/CLIP Summerize notes.md",
-    "Excalidraw/ViT.excalidraw.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",

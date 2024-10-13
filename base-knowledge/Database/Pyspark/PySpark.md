@@ -62,3 +62,4 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 -> ![[PySpark temp view]]
 ## PySpark ML lib
 
+-> ![[PySpark ML lib]]

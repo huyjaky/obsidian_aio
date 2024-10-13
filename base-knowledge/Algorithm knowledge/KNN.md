@@ -5,30 +5,10 @@ K-Nearest Neighbors (KNN) là một trong những thuật toán học máy có g
 
 Một số độ đo thường được sử dụng trong KNN như:
 
-1. Euclidean
-2. Chebyshev
-3. Manhattan
-4. Minkowski
-## Euclidean (p=2)
-$$
-d(\mathbf{x}, \mathbf{y}) = \sqrt{\sum_{i=1}^{n}(x_i - y_i)^2}
-$$
-
-## Manhattan (p=1)
-$$
-d(\mathbf{x}, \mathbf{y}) = \sum_{i=1}^{n} |x_i - y_i|
-$$
-
-## Minkowski (p=norm)
-$$
-d(\mathbf{x}, \mathbf{y}) = \left( \sum_{i=1}^{n} |x_i - y_i|^p \right)^{\frac{1}{p}}
-$$
-
-## Chebyshev (p=\infty)
-$$
-d(\mathbf{x}, \mathbf{y}) = \lim_{p \to \infty} \left( \sum_{i=1}^{n} |x_i - y_i|^p \right)^{\frac{1}{p}} = \max_i |x_i - y_i|
-$$
-
+1. [[Euclidean]] (p=2)
+2. [[Chebyshev]] (p=1)
+3. [[Manhattan]] (p=norm)
+4. [[Minkowski]] (p=\infty)
 
 Các độ đo này tính toán dữ liệu dự đoán với các điểm dữ liệu khác được lưu trữ trong mô hình huấn luyện. Từ đó xếp hạng và tìm ra **K** điểm dữ liệu huấn luyện có kết quả gần với dữ liệu dự đoán nhất. Cuối cùng dựa vào phương pháp biểu quyết của các dữ liệu hàng xóm trong tập huấn luyện để đưa ra kết quả dự đoán.
 
