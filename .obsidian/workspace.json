@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/PySpark for Data Processing/PySpark.pdf",
-                "page": 61,
+                "page": 65,
                 "left": -20,
-                "top": 42,
+                "top": 490,
                 "zoom": 0.75078125
               }
             }
@@ -230,13 +230,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33fecd52c1cf9493",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
+    "base-knowledge/Database/Pyspark/Code/PySpark_Big_Data.ipynb",
     "base-knowledge/Database/Pyspark/PySpark.md",
-    "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Python/Spark/PySpark ML lib.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Database/Pyspark/Code",
+    "base-knowledge/Database/Pyspark/Untitled.md",
+    "Excalidraw/PySpark.excalidraw.md",
+    "Terminology/Norm.md",
+    "Attachments/Images/image_22.png",
     "base-knowledge/Python/Spark/PySpark temp view.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Math/Distance/Chebyshev.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Math/Distance/Minkowski.md",
@@ -244,7 +249,6 @@
     "Math/Distance/Euclidean.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Math/Distance",
-    "Terminology/Norm.md",
     "CLIP-BLIP-BLIP-2-ISM.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -265,8 +269,6 @@
     "base-knowledge/Python/Syntax/Lambda.md",
     "base-knowledge/Python/Syntax/Map-Filter.md",
     "base-knowledge/Python/Syntax",
-    "base-knowledge/Python",
-    "base-knowledge/Graph knowledge/Boxplots.md",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
@@ -276,7 +278,6 @@
     "Attachments/Images/image_15.png",
     "Attachments/Images/image_14.png",
     "Attachments/Images/image_13.png",
-    "Attachments/Images/image_12.png",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
