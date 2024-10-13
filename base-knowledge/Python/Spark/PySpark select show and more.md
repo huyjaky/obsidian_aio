@@ -12,7 +12,7 @@
 df_groupby_sex = df_csv.groupBy('sex')
 
 # Displaying the type of the grouped data
-print(type(df_groupby_sex))  # Output: <class 'pyspark.sql.group.GroupedData'>
+print(type(df_groupby_sex))
 
 # Counting the number of occurrences for each group and showing the result
 df_groupby_sex.count().show()
