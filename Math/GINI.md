@@ -19,3 +19,7 @@ $$
 $$ Gini(D) = 1 - \sum_{i=1}^{k} p_i^2 $$
 
 ![[Excalidraw/GINI.excalidraw.md#^group=VlyvCPgg|GINI_total|800]]
+
+## Cách tính GINI tổng của node gốc
+
+![[AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf#page=4&rect=65,540,519,620&color=important|[Description]-Decision-Tree, p.4]]
