@@ -69,9 +69,16 @@ Trong đó:
 - $|S_f|$ là kích thước của tập con $S_f$.
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
 
-Ta có thể 
+#### Gain
+Dựa vào công thức `Information Gain` ở trên ta có thể suy ra được công thức tính được thông tin mà ta nhận được ở từng node chứ không phải để xây cây:
+$$
+Gain(D) = 1-Entropy(D)
+$$
+- $D$ Là node được chọn
 
-Giải thích: ![[IG-informationGain.excalidraw|800]]
+![[TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md#^group=oqHoCNCdjWnw7zUyDf_Xx|Gain]]
+
+#### Giải thích: ![[IG-informationGain.excalidraw|800]]
 #### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)
 
 ![[Build-decision-tree.excalidraw|800]]
