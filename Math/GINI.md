@@ -20,6 +20,9 @@ $$ Gini(D) = 1 - \sum_{i=1}^{k} p_i^2 $$
 
 ![[Excalidraw/GINI.excalidraw.md#^group=VlyvCPgg|GINI_total|800]]
 
-## Cách tính GINI tổng của node gốc
+## Làm sao để quyết định đâu là node gốc cho cây Decision tree khi xây bằng GINI
+-> Ta phải tính GINI tổng cho từng Feature để lấy được gini nhỏ nhất 
+![[[Slide]-Decision-Tree_v2.pdf#page=23&rect=27,11,940,409|[Slide]-Decision-Tree_v2, p.23]]
+-> Ở đây ta có thể thấy được rằng là khi tính Gini()
+![[Excalidraw/GINI.excalidraw.md#^group=9UjEbpwkDbsIefRibufZW|gini_example|800]]
 
-![[AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf#page=4&rect=65,540,519,620&color=important|[Description]-Decision-Tree, p.4]]
