@@ -16,9 +16,9 @@ Ví dụ:
 ![[DecisionTree_Regression_AIO2024.pdf#page=25&rect=144,38,645,426&color=important|DecisionTree_Regression_AIO2024, p.25|400]]
 -> Dữ liệu hiệu quả của vaccince khi tiêm theo liều lượng unit(đơn vị)
 
-để giải bài toán này ta dùng SSR (sum square error)
+để giải bài toán này ta dùng SSE (sum square error)
 $$
-SSR = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
+SSE = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 $$
 - $n$ là số lượng node cần tính 
 - $y_i$ là giá trị của từng node cần tính
