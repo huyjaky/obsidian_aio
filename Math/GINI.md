@@ -24,6 +24,7 @@ $$ Gini(D) = 1 - \sum_{i=1}^{k} p_i^2 $$
 -> Ta phải tính GINI tổng cho từng Feature để lấy được gini nhỏ nhất 
 ![[[Slide]-Decision-Tree_v2.pdf#page=23&rect=27,11,940,409|[Slide]-Decision-Tree_v2, p.23]]
 -> Ở đây ta có thể thấy được rằng là khi tính Gini(cho Age <= 26) là min nhất và lấy Raise Salary làm mốc để xét node lá
+-> <span style="background:#b1ffff">Cứ xuống một bậc là phải tính lại gini tổng từ đầu với dữ liệu còn xót lại để xây dựng cây</span> 
 
 Ví dụ: dưới đây là cách tính Gini(Likes English)
 ![[Excalidraw/GINI.excalidraw.md#^group=9UjEbpwkDbsIefRibufZW|gini_example|800]]
@@ -33,4 +34,3 @@ ví dụ dưới đây là Gini(Age <= 26):
 ![[Pasted image 20241014132355.png]]
 - `+` = 1
 - `-` = 0
--> Cứ xuống một bậc là phải tính lại gini tổng từ đầu với dữ liệu còn xót lại để xây dựng cây 
