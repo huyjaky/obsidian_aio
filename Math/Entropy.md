@@ -77,6 +77,7 @@ $$
 - $D$ Là node được chọn
 
 ![[TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md#^group=oqHoCNCdjWnw7zUyDf_Xx|Gain]]
+![[image_24.png|400]]
 
 #### Giải thích: ![[IG-informationGain.excalidraw|800]]
 #### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)

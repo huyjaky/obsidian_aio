@@ -1,6 +1,6 @@
 #Algorithm #tree 
 
--> code mẫu: 
+<span style="background:#b1ffff">-> code mẫu: trong mục TA-ex 8-9-2024</span>
 ## Decision tree là gì?
 decision tree cây nhị phân dùng để đánh giá một cá thể xem nó thuộc <span style="background:#b1ffff">class (thuộc tính trong cột) </span>nào trong <span style="background:#b1ffff">feature (cột)</span> của đữ liệu
 
