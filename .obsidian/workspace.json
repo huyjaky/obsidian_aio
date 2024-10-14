@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "Math/GINI.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Entropy.md"
+                "file": "Math/GINI.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "Math/GINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "Math/GINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +208,9 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
+    "Math/Entropy.md",
     "Excalidraw/Entropy.excalidraw.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
-    "Math/Entropy.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Attachments/Images/Pasted image 20241014171332.png",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
