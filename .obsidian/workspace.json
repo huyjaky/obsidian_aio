@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md"
+                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +171,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "01c7fafeb388481e",
   "lastOpenFiles": [
     "base-knowledge/Python/PySpark/PySpark ML lib.md",
-    "base-knowledge/Python/PySpark/PySpark temp view.md",
+    "base-knowledge/Python/PySpark/PySpark convert type data.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
@@ -190,7 +192,6 @@
     "Terminology/Clustering.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Excalidraw/PySpark.excalidraw.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Database/Pyspark/Code/PySpark_Big_Data.ipynb",
     "base-knowledge/Database/Pyspark/Code",
@@ -203,7 +204,6 @@
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Math/Distance",
     "CLIP-BLIP-BLIP-2-ISM.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
     "Attachments/Fonts/Recursive.zip",
