@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-                "page": 27,
+                "page": 34,
                 "left": -120,
-                "top": 243,
+                "top": 522,
                 "zoom": 0.8
               }
             }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf"
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +206,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9cb8fd6ec5ffbfbc",
+  "active": "e26e28715bd6cce1",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
-    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Math/GINI.md",
     "Excalidraw/GINI.excalidraw.md",
     "Math/Entropy.md",
