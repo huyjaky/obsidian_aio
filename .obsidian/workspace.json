@@ -25,9 +25,13 @@
             "id": "c667154faa409d48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+                "page": 34,
+                "left": -20,
+                "top": 526,
+                "zoom": 0.76015625
               }
             }
           },
@@ -52,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf"
               }
             }
           },
@@ -147,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
+                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
+                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +208,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9cb8fd6ec5ffbfbc",
+  "active": "c667154faa409d48",
   "lastOpenFiles": [
     "Math/Entropy.md",
+    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
     "Math/GINI.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
-    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/GINI.excalidraw.md",

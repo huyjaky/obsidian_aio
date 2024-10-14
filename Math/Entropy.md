@@ -69,6 +69,8 @@ Trong đó:
 - $|S_f|$ là kích thước của tập con $S_f$.
 - $|S|$ là kích thước của toàn bộ tập hợp $S$.
 
+Ta có thể 
+
 Giải thích: ![[IG-informationGain.excalidraw|800]]
 #### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)
 
