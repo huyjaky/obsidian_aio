@@ -19,10 +19,14 @@ $$
 $$ Gini(D) = 1 - \sum_{i=1}^{k} p_i^2 $$
 
 ![[Excalidraw/GINI.excalidraw.md#^group=VlyvCPgg|GINI_total|800]]
-
+-> Gini tổng lấy hai nhánh 
 ## Làm sao để quyết định đâu là node gốc cho cây Decision tree khi xây bằng GINI
 -> Ta phải tính GINI tổng cho từng Feature để lấy được gini nhỏ nhất 
 ![[[Slide]-Decision-Tree_v2.pdf#page=23&rect=27,11,940,409|[Slide]-Decision-Tree_v2, p.23]]
--> Ở đây ta có thể thấy được rằng là khi tính Gini()
+-> Ở đây ta có thể thấy được rằng là khi tính Gini(cho Age <= 26) là min nhất và lấy Raise Salary làm mốc để xét node lá
+
+Ví dụ: dưới đây là cách tính Gini(Likes English)
 ![[Excalidraw/GINI.excalidraw.md#^group=9UjEbpwkDbsIefRibufZW|gini_example|800]]
 
+ví dụ dưới đây là Gini(Age <= 26):
+![[Excalidraw/GINI.excalidraw.md#^group=uxZG8yk9NvZ5mSzBN3N9P|GIni_numb|800]]
