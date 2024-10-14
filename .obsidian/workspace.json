@@ -25,13 +25,11 @@
             "id": "9cb8fd6ec5ffbfbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
-                "page": 25,
-                "left": -20,
-                "top": 169,
-                "zoom": 0.76015625
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf"
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md"
               }
             }
           },
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+                "file": "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,10 +206,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9cb8fd6ec5ffbfbc",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Code/[Colab]-Decision-Tree.ipynb",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Code",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
     "Math/Entropy.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Attachments/Images/image_25.png",
@@ -236,7 +236,6 @@
     "AIO notebook/TA-ex/TA-ex 8-9-2024/NOTE SOLUTION.docx",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Slide]-Decision-Tree_v2.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Rubric]-Decision-Tree.pdf",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Description]-Decision-Tree.pdf",
     "Untitled Kanban.md",
     "PySpark.md",
     "Untitled mindmap.md",
