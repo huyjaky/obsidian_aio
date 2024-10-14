@@ -33,3 +33,4 @@ ví dụ dưới đây là Gini(Age <= 26):
 ![[Pasted image 20241014132355.png]]
 - `+` = 1
 - `-` = 0
+-> Cứ xuống một bậc là phải tính lại gini tổng từ đầu với dữ liệu còn xót lại để xây dựng cây 
