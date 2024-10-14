@@ -35,20 +35,6 @@
             "id": "e48531fabb2c59cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
-                "page": 4,
-                "left": -9,
-                "top": 725,
-                "zoom": 1.5196078431372548
-              }
-            }
-          },
-          {
-            "id": "9cb8fd6ec5ffbfbc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Math/GINI.md",
@@ -58,17 +44,27 @@
             }
           },
           {
+            "id": "9cb8fd6ec5ffbfbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "e26e28715bd6cce1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+                "file": "Excalidraw/Entropy.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/GINI.md"
+                "file": "Excalidraw/Entropy.excalidraw.md"
               }
             }
           },
@@ -163,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/GINI.md",
+                "file": "Excalidraw/Entropy.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/GINI.md",
+                "file": "Excalidraw/Entropy.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,21 +216,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9cb8fd6ec5ffbfbc",
+  "active": "e26e28715bd6cce1",
   "lastOpenFiles": [
-    "Excalidraw/GINI.excalidraw.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/GINI.md",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+    "Attachments/Images/Pasted image 20241014132355.png",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+    "Excalidraw/Entropy.excalidraw.md",
+    "Math/Entropy.md",
+    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
+    "Excalidraw/GINI.excalidraw.md",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Attachments/Images/image_24.png",
     "Attachments/Images/image_23.png",
-    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Drawing 2024-10-14 12.29.52.excalidraw.md",
-    "Math/Entropy.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
@@ -257,8 +256,6 @@
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
-    "Terminology/Underfitting.md",
-    "Terminology/Overfitting.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
@@ -266,7 +263,6 @@
     "Attachments/Images/image_18.png",
     "Attachments/Images/image_17.png",
     "Attachments/Images/image_16.png",
-    "Attachments/Images/image_15.png",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
     "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",

@@ -12,7 +12,7 @@ Slide: ![[Extra_Decision_Tree.pdf]]
 $$
 Value(x) = - \log_2( p(x) ) 
 $$
-![[Entropy.excalidraw|800]]
+![[Excalidraw/Entropy.excalidraw.md#^group=H1yAbiDW|des_entropy|800]]
 
 ## Entropy trung bình
 

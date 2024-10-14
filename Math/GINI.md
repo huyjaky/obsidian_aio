@@ -19,7 +19,7 @@ $$
 $$ Gini(D) = 1 - \sum_{i=1}^{k} p_i^2 $$
 
 ![[Excalidraw/GINI.excalidraw.md#^group=VlyvCPgg|GINI_total|800]]
--> Gini tổng lấy hai nhánh 
+<span style="background:#b1ffff">-> Gini tổng lấy hai nhánh cộng lại và độ sâu của cây là 1</span>
 ## Làm sao để quyết định đâu là node gốc cho cây Decision tree khi xây bằng GINI
 -> Ta phải tính GINI tổng cho từng Feature để lấy được gini nhỏ nhất 
 ![[[Slide]-Decision-Tree_v2.pdf#page=23&rect=27,11,940,409|[Slide]-Decision-Tree_v2, p.23]]
@@ -30,3 +30,6 @@ Ví dụ: dưới đây là cách tính Gini(Likes English)
 
 ví dụ dưới đây là Gini(Age <= 26):
 ![[Excalidraw/GINI.excalidraw.md#^group=uxZG8yk9NvZ5mSzBN3N9P|GIni_numb|800]]
+![[Pasted image 20241014132355.png]]
+- `+` = 1
+- `-` = 0
