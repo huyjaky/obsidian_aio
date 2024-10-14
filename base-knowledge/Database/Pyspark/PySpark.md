@@ -63,3 +63,5 @@ Và Spark rất linh hoạt vì nó có thể tích hợp với hầu hết các
 ## PySpark ML lib
 
 -> ![[PySpark ML lib]]
+## PySpark useful syntax
+-> ![[PySpark useful syntax]]

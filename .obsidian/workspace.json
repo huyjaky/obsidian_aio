@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5970c332816ae522",
-        "type": "split",
+        "id": "1b357e748c5faf09",
+        "type": "tabs",
         "children": [
           {
-            "id": "8aedfe300904a28e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "01c7fafeb388481e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "e54ef09331d8c9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "70f81672c1aa5991",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "822cfb251f7f6967",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,19 +169,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "01c7fafeb388481e",
+  "active": "e54ef09331d8c9c7",
   "lastOpenFiles": [
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "Untitled Kanban.md",
+    "base-knowledge/Database/Pyspark/PySpark.md",
+    "PySpark.md",
+    "Untitled mindmap.md",
+    "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Python/PySpark/PySpark useful syntax.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "TrashNote/2024-10-12.md",
     "2024-10-14.md",
     "2024-10-13.md",
     "base-knowledge/Python/PySpark/PySpark ML lib.md",
-    "base-knowledge/Database/Pyspark/PySpark.md",
-    "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
@@ -222,8 +205,6 @@
     "base-knowledge/Database/Pyspark/Untitled.md",
     "Attachments/Images/image_22.png",
     "Math/Distance/Chebyshev.md",
-    "Math/Distance/Minkowski.md",
-    "Math/Distance/Manhattan.md",
     "Math/Distance",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
