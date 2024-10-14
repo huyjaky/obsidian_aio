@@ -25,9 +25,11 @@
             "id": "c667154faa409d48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/GINI.excalidraw.md"
+                "file": "Math/Entropy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -62,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md"
+                "file": "Excalidraw/IG-informationGain.excalidraw.md"
               }
             }
           },
@@ -157,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md",
+                "file": "Excalidraw/IG-informationGain.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md",
+                "file": "Excalidraw/IG-informationGain.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,12 +216,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e26e28715bd6cce1",
+  "active": "e48531fabb2c59cf",
   "lastOpenFiles": [
-    "Excalidraw/GINI.excalidraw.md",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
     "Math/Entropy.md",
+    "Excalidraw/GINI.excalidraw.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "Math/GINI.md",
     "Attachments/Images/Pasted image 20241014132355.png",
