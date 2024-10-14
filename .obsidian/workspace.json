@@ -11,13 +11,21 @@
             "id": "e54ef09331d8c9c7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 292,
-                "zoom": 1.349264705882353
+                "file": "Math/GINI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26e28715bd6cce1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
               }
             }
           }
@@ -98,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf"
+                "file": "Math/GINI.md"
               }
             }
           },
@@ -116,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "file": "Math/GINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "file": "Math/GINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -171,12 +178,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "e54ef09331d8c9c7",
   "lastOpenFiles": [
+    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
+    "Math/GINI.md",
+    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
@@ -187,8 +196,6 @@
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Rubric]-Decision-Tree.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Description]-Decision-Tree.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/NOTE SOLUTION.docx",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001",
     "Untitled Kanban.md",
     "PySpark.md",
     "Untitled mindmap.md",
@@ -212,7 +219,6 @@
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Database/Pyspark/Untitled.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
