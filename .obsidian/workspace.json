@@ -37,9 +37,11 @@
             "id": "e48531fabb2c59cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md"
               }
             }
           },
@@ -159,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md",
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,10 +220,11 @@
   },
   "active": "e48531fabb2c59cf",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
     "Math/Entropy.md",
     "Excalidraw/GINI.excalidraw.md",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "Math/GINI.md",
     "Attachments/Images/Pasted image 20241014132355.png",
@@ -230,7 +233,6 @@
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Attachments/Images/image_24.png",
     "Attachments/Images/image_23.png",
     "Excalidraw/Drawing 2024-10-14 12.29.52.excalidraw.md",
