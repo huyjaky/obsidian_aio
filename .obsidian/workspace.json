@@ -26,10 +26,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-                "page": 42,
-                "left": -4,
-                "top": 351,
-                "zoom": 1.2
+                "page": 27,
+                "left": -120,
+                "top": 243,
+                "zoom": 0.8
               }
             }
           },
@@ -208,12 +208,12 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Math/GINI.md",
-    "Excalidraw/GINI.excalidraw.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Math/GINI.md",
+    "Excalidraw/GINI.excalidraw.md",
     "Math/Entropy.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
@@ -243,7 +243,6 @@
     "Terminology/Underfitting.md",
     "Terminology/Overfitting.md",
     "Terminology/Bảng ký hiệu toán học.md",
-    "Terminology/BoW (Bag of word).md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
