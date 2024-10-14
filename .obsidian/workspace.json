@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
-                "page": 23,
+                "page": 47,
                 "left": -20,
-                "top": 474,
+                "top": 443,
                 "zoom": 0.7601562500000001
               }
             }
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,23 +208,24 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+    "Excalidraw/Decision tree regression.excalidraw.md",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+    "Excalidraw/GINI.excalidraw.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/GINI.md",
     "Math/Entropy.md",
     "Excalidraw/Entropy.excalidraw.md",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Attachments/Images/Pasted image 20241014171332.png",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Code/[Colab]-Decision-Tree.ipynb",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/Code",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
     "Attachments/Images/image_25.png",
-    "Excalidraw/GINI.excalidraw.md",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "Attachments/Images/Pasted image 20241014132355.png",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
