@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/Spark/PySpark ML lib.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +171,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "01c7fafeb388481e",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "base-knowledge/Python/Spark/PySpark temp view.md",
-    "base-knowledge/Python/Spark/PySpark ML lib.md",
+    "base-knowledge/Python/PySpark/PySpark ML lib.md",
+    "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Thư viện vẽ đồ thị.md",
@@ -209,7 +209,7 @@
     "Attachments/Fonts/Recursive.zip",
     "Attachments/Fonts/VictorMono.zip",
     "Attachments/Fonts",
-    "base-knowledge/Python/Spark",
+    "base-knowledge/Python/PySpark",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
