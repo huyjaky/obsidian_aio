@@ -1,5 +1,7 @@
 #python #Codes #Syntax #pyspark 
 
+#### PySpark convert type data
+
 ```Python
 # Convert columns to appropriate data types for analysis and modeling
 df_spark = df_spark.withColumn("price", col("price").cast("double")) # Price should be numeric
@@ -31,4 +33,43 @@ root
  |-- paint_color: string (nullable = true)
  |-- state: string (nullable = true)
  |-- posting_date: string (nullable = true)
+```
+
+#### Filter on spark
+```Python
+# Filter record with invalid year
+
+df_spark = df_spark.filter((col("year") > 1900) & (col("year") <= 2024))
+
+df_spark.select("year").distinct().orderBy("year").show()
+```
+-> distinc(): tách cột được chọn ra 
+
+`output`:
+```Bash
++----+
+|year|
++----+
+|1901|
+|1902|
+|1903|
+|1905|
+|1909|
+|1910|
+|1913|
+|1915|
+|1916|
+|1918|
+|1920|
+|1921|
+|1922|
+|1923|
+|1924|
+|1925|
+|1926|
+|1927|
+|1928|
+|1929|
++----+
+only showing top 20 rows
 ```

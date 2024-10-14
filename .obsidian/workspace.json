@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8aedfe300904a28e",
-        "type": "tabs",
+        "id": "5970c332816ae522",
+        "type": "split",
         "children": [
           {
-            "id": "01c7fafeb388481e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
-                "mode": "source",
-                "source": false
+            "id": "8aedfe300904a28e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "01c7fafeb388481e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "70f81672c1aa5991",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "822cfb251f7f6967",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -96,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md"
+                "file": "base-knowledge/Database/Pyspark/PySpark.md"
               }
             }
           },
@@ -114,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Python/PySpark/PySpark convert type data.md",
+                "file": "base-knowledge/Database/Pyspark/PySpark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,14 +189,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "01c7fafeb388481e",
   "lastOpenFiles": [
-    "base-knowledge/Python/PySpark/PySpark ML lib.md",
-    "base-knowledge/Python/PySpark/PySpark convert type data.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
+    "base-knowledge/Python/PySpark/PySpark useful syntax.md",
+    "TrashNote/2024-10-12.md",
+    "2024-10-14.md",
+    "2024-10-13.md",
+    "base-knowledge/Python/PySpark/PySpark ML lib.md",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
@@ -183,7 +208,6 @@
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
-    "TrashNote/2024-10-12.md",
     "Terminology/Underfitting.md",
     "Terminology/Overfitting.md",
     "Terminology/Bảng ký hiệu toán học.md",
@@ -200,10 +224,7 @@
     "Math/Distance/Chebyshev.md",
     "Math/Distance/Minkowski.md",
     "Math/Distance/Manhattan.md",
-    "Math/Distance/Euclidean.md",
-    "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Math/Distance",
-    "CLIP-BLIP-BLIP-2-ISM.md",
     "Attachments/Fonts/JetBrainsMonoCompress.zip",
     "Attachments/Fonts/JetBrainsMono.zip",
     "Attachments/Fonts/Recursive.zip",
