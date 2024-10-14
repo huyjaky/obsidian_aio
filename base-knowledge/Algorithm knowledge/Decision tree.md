@@ -1,5 +1,6 @@
 #Algorithm #tree 
 
+-> code mẫu: 
 ## Decision tree là gì?
 decision tree cây nhị phân dùng để đánh giá một cá thể xem nó thuộc <span style="background:#b1ffff">class (thuộc tính trong cột) </span>nào trong <span style="background:#b1ffff">feature (cột)</span> của đữ liệu
 
@@ -57,5 +58,4 @@ như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt
 Ví dụ: 
 ![[DecisionTree_Regression_AIO2024.pdf#page=82&rect=6,6,951,464|DecisionTree_Regression_AIO2024, p.82]]
 mũi tên màu đen đi từ trên xuống dưới 
-
 
