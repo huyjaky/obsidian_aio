@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
-                "page": 34,
+                "page": 72,
                 "left": -20,
-                "top": 526,
+                "top": 200,
                 "zoom": 0.76015625
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf"
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c667154faa409d48",
+  "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
+    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Math/Entropy.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Entropy.excalidraw.md",
@@ -222,7 +223,6 @@
     "Attachments/Images/Pasted image 20241014132355.png",
     "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
-    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
     "Attachments/Images/image_24.png",
     "Attachments/Images/image_23.png",
@@ -248,7 +248,6 @@
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
-    "Excalidraw/trash 2024-10-13 20.05.04.excalidraw.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
