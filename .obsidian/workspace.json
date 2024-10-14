@@ -11,11 +11,13 @@
             "id": "e54ef09331d8c9c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
-                "mode": "source",
-                "source": false
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 292,
+                "zoom": 1.349264705882353
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md"
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Database/Pyspark/PySpark.md",
+                "file": "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,13 +177,23 @@
   },
   "active": "e54ef09331d8c9c7",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Rubric]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/NOTE SOLUTION.docx",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Slide]-Decision-Tree_v2.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Rubric]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/[Description]-Decision-Tree.pdf",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description/NOTE SOLUTION.docx",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001/Sunday_ Description",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/Sunday_ Description-20241014T040800Z-001",
+    "Untitled Kanban.md",
     "PySpark.md",
     "Untitled mindmap.md",
     "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Python/PySpark/PySpark useful syntax.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "TrashNote/2024-10-12.md",
     "2024-10-14.md",
     "2024-10-13.md",
@@ -200,18 +212,8 @@
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Excalidraw/PySpark.excalidraw.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
-    "base-knowledge/Database/Pyspark/Code/PySpark_Big_Data.ipynb",
-    "base-knowledge/Database/Pyspark/Code",
     "base-knowledge/Database/Pyspark/Untitled.md",
     "Attachments/Images/image_22.png",
-    "Math/Distance/Chebyshev.md",
-    "Math/Distance",
-    "Attachments/Fonts/JetBrainsMonoCompress.zip",
-    "Attachments/Fonts/JetBrainsMono.zip",
-    "Attachments/Fonts/Recursive.zip",
-    "Attachments/Fonts/VictorMono.zip",
-    "Attachments/Fonts",
-    "base-knowledge/Python/PySpark",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",

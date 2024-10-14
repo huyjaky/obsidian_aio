@@ -1,3 +1,11 @@
 {
-  "move-tags": true
+  "move-tags": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ]
 }
