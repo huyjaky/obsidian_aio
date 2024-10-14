@@ -75,10 +75,11 @@ $$
 Gain(D) = 1-Entropy(D)
 $$
 - $D$ Là node được chọn
+-> như ta có thể thấy rằng là node gốc được chọn nhờ vào gain
 
 ![[TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md#^group=oqHoCNCdjWnw7zUyDf_Xx|Gain]]
 ![[image_24.png|400]]
-
+![[Excalidraw/Entropy.excalidraw.md#^group=kJVLPF2x|entropy]]
 #### Giải thích: ![[IG-informationGain.excalidraw|800]]
 #### Vậy sau khi tính được IG rồi thì làm sao để xây dựng cây quyết định (build decision tree)
 

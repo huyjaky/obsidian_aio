@@ -25,9 +25,11 @@
             "id": "9cb8fd6ec5ffbfbc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md"
+                "file": "Math/Entropy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,7 +39,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+                "file": "Excalidraw/IG-informationGain.excalidraw.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md"
+                "file": "Math/Entropy.md"
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md",
+                "file": "Math/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Entropy.excalidraw.md",
+                "file": "Math/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +208,8 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
+    "Excalidraw/Entropy.excalidraw.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/Entropy.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Attachments/Images/Pasted image 20241014171332.png",
@@ -218,10 +222,8 @@
     "Attachments/Images/image_25.png",
     "Excalidraw/GINI.excalidraw.md",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
-    "Excalidraw/Entropy.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Math/GINI.md",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "Attachments/Images/Pasted image 20241014132355.png",
