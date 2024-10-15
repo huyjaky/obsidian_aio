@@ -8,39 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e54ef09331d8c9c7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
-                "page": 1,
-                "zoom": 1
-              }
-            }
-          },
-          {
-            "id": "9cb8fd6ec5ffbfbc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "TeamVaultRepo/TrienKHai.canvas",
-                "viewState": {
-                  "x": 957.9639177811592,
-                  "y": 2086.2428715384885,
-                  "zoom": -0.923401359679859
-                }
-              }
-            }
-          },
-          {
             "id": "e26e28715bd6cce1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IG-informationGain.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -53,9 +28,16 @@
                 "file": "Excalidraw/GINI.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ab15f143969b89b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/TrienKHai.canvas"
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
               }
             }
           },
@@ -150,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/TrienKHai.canvas",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/TrienKHai.canvas",
+                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +189,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9cb8fd6ec5ffbfbc",
+  "active": "e26e28715bd6cce1",
   "lastOpenFiles": [
+    "Excalidraw/GINI.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "Summarize Papers/BLIP-2/Summarize.md",
+    "Excalidraw/IG-informationGain.excalidraw.md",
+    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
+    "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/BaoCao.md",
     "Readme.md",
     "TeamVaultRepo/().md",
@@ -218,9 +206,6 @@
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
-    "Excalidraw/GINI.excalidraw.md",
-    "Excalidraw/IG-informationGain.excalidraw.md",
     "Math/GINI.md",
     "Math/Entropy.md",
     "Excalidraw/Entropy.excalidraw.md",
@@ -248,15 +233,12 @@
     "Untitled mindmap.md",
     "base-knowledge/Python/PySpark/PySpark temp view.md",
     "base-knowledge/Python/PySpark/PySpark useful syntax.md",
-    "TrashNote/2024-10-12.md",
-    "2024-10-14.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
     "Attachments/Images/image_19.png",
     "Attachments/Images/image_18.png",
     "TeamVaultRepo/PhuongAnTrienKhai.canvas",
-    "TeamVaultRepo/TrienKHai.canvas",
     "TeamVaultRepo/Phuc/CUE-Net canvas.canvas",
     "TeamVaultRepo/Huy/Untitled.canvas"
   ]
