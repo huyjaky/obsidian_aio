@@ -23,13 +23,14 @@
             "id": "9cb8fd6ec5ffbfbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
-                "page": 6,
-                "left": -11,
-                "top": 464,
-                "zoom": 1.387171664908379
+                "file": "TeamVaultRepo/TrienKHai.canvas",
+                "viewState": {
+                  "x": 1054.5,
+                  "y": 2448.5,
+                  "zoom": -2.749143149551949
+                }
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf"
+                "file": "TeamVaultRepo/TrienKHai.canvas"
               }
             }
           },
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
+                "file": "TeamVaultRepo/TrienKHai.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TeamVaultRepo/Papers/HateClip.pdf",
+                "file": "TeamVaultRepo/TrienKHai.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +209,11 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
+    "TeamVaultRepo/BaoCao.md",
+    "Readme.md",
+    "TeamVaultRepo/().md",
     "TeamVaultRepo/Papers/HateClip.pdf",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Underfitting.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
@@ -239,7 +243,6 @@
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Rubric]-Decision-Tree.pdf",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/NOTE SOLUTION.docx",
     "Untitled Kanban.md",
     "PySpark.md",
     "Untitled mindmap.md",
@@ -247,8 +250,6 @@
     "base-knowledge/Python/PySpark/PySpark useful syntax.md",
     "TrashNote/2024-10-12.md",
     "2024-10-14.md",
-    "2024-10-13.md",
-    "base-knowledge/Python/PySpark/PySpark ML lib.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
