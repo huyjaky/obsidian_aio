@@ -28,7 +28,7 @@
                 "file": "TeamVaultRepo/Papers/HateClip.pdf",
                 "page": 6,
                 "left": -11,
-                "top": 806,
+                "top": 464,
                 "zoom": 1.387171664908379
               }
             }
@@ -208,8 +208,9 @@
   },
   "active": "9cb8fd6ec5ffbfbc",
   "lastOpenFiles": [
-    "Terminology/Underfitting.md",
+    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "TeamVaultRepo/Papers/HateClip.pdf",
+    "Terminology/Underfitting.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
@@ -248,7 +249,6 @@
     "2024-10-14.md",
     "2024-10-13.md",
     "base-knowledge/Python/PySpark/PySpark ML lib.md",
-    "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
