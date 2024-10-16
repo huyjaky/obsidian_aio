@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-14 11.19.23.excalidraw"
             }
           },
           {
@@ -23,8 +25,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Studied guide/M03W04 - Study Guide.pdf"
-              }
+                "file": "AIO notebook/Studied guide/M03W04 - Study Guide.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "M03W04 - Study Guide"
             }
           },
           {
@@ -36,7 +42,23 @@
                 "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Decision tree regression"
+            }
+          },
+          {
+            "id": "2c891be0fc2a1ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/GINI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GINI"
             }
           },
           {
@@ -45,8 +67,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf"
-              }
+                "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Random Forest_AIO2024"
             }
           },
           {
@@ -54,11 +80,13 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +106,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -93,7 +123,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -101,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -126,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,8 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md"
-              }
+                "file": "Math/GINI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GINI"
             }
           },
           {
@@ -144,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -153,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "Math/GINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +201,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GINI"
             }
           },
           {
@@ -170,10 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "file": "Math/GINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GINI"
             }
           },
           {
@@ -181,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -189,11 +235,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
@@ -201,10 +250,11 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4176428a3b064cb8",
+  "active": "2c891be0fc2a1ad7",
   "lastOpenFiles": [
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Terminology/Dummy variable.md",
