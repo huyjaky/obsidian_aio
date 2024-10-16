@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/GINI.md",
+                "file": "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GINI"
+              "title": "Random forest"
             }
           },
           {
@@ -68,8 +68,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 4,
+                "left": -17,
+                "top": 198,
+                "zoom": 0.86015625
               },
               "icon": "lucide-file-text",
               "title": "Random Forest_AIO2024"
@@ -86,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,11 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/GINI.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of GINI"
+              "title": "Outline"
             }
           },
           {
@@ -193,7 +193,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/GINI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GINI"
+              "title": "Backlinks"
             }
           },
           {
@@ -212,12 +211,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/GINI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GINI"
+              "title": "Outgoing links"
             }
           },
           {
@@ -235,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +253,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c891be0fc2a1ad7",
+  "active": "ab15f143969b89b9",
   "lastOpenFiles": [
+    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+    "Math/Entropy.md",
+    "Math/GINI.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Terminology/Dummy variable.md",
     "AIO notebook/Random Forest/TA version/[Slide]-Random-Forest_v2.pdf",
-    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "AIO notebook/Studied guide/M03W04 - Study Guide.pdf",
     "AIO notebook/Random Forest/Major version/Time_series_randomforest.ipynb",
     "AIO notebook/Random Forest/Major version/Simple_OverFitting_AIO2024.ipynb",
@@ -268,11 +270,9 @@
     "AIO notebook/Random Forest/Major version/Wednesday-20241017T032832Z-001/Wednesday/daily-total-female-births.csv",
     "AIO notebook/Random Forest/Major version/Wednesday-20241017T032832Z-001/Wednesday/Time_series_randomforest.ipynb",
     "AIO notebook/Random Forest/Major version/Wednesday-20241017T032832Z-001/Wednesday/Simple_OverFitting_AIO2024.ipynb",
-    "Math/Entropy.md",
     "Terminology/Recall.md",
     "Terminology/Precision.md",
     "Test Plugin Note.md",
-    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "base-knowledge/Algorithm.md",
     "Terminology/Overfitting.md",
@@ -291,7 +291,6 @@
     "TeamVaultRepo/BaoCao.md",
     "Readme.md",
     "TeamVaultRepo/().md",
-    "Terminology/Underfitting.md",
     "Attachments/Images/Pasted image 20241014171332.png",
     "Attachments/Images/image_25.png",
     "Attachments/Images/Pasted image 20241014132355.png",
