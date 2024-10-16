@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e26e28715bd6cce1",
+  "active": "f13063507d23cdc5",
   "lastOpenFiles": [
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
