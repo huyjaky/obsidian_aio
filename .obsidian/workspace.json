@@ -23,9 +23,11 @@
             "id": "f13063507d23cdc5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/GINI.excalidraw.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
               }
             }
           },
@@ -132,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e26e28715bd6cce1",
+  "active": "f13063507d23cdc5",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Terminology/Overfitting.md",
     "Excalidraw/GINI.excalidraw.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Summarize Papers/BLIP-2/Summarize.md",
@@ -203,7 +208,6 @@
     "TeamVaultRepo/Papers/HateClip.pdf",
     "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Underfitting.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Math/GINI.md",
@@ -232,7 +236,6 @@
     "PySpark.md",
     "Untitled mindmap.md",
     "base-knowledge/Python/PySpark/PySpark temp view.md",
-    "base-knowledge/Python/PySpark/PySpark useful syntax.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",

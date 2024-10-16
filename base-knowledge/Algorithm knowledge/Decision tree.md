@@ -11,12 +11,11 @@ Ta có hai cách để xây dựng một cây quyết định là :
 2. [[GINI]] 
 
 #### Entropy là gì?
--> ![[Entropy]]
+-> [[Entropy]]
 
 
 #### Công thức GINI là gì?
-
--> ![[GINI]]
+-> [[GINI]]
 ## Vậy làm sao để biết được đâu là node gốc cho decision tree
 -> Để có thể xây dựng một cây quyết định (decision tree) thì ta phải xác định được Node gốc của nó 
 
