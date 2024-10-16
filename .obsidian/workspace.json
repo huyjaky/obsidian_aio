@@ -23,11 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Studied guide/M03W04 - Study Guide.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 745,
-                "zoom": 1.349264705882353
+                "file": "AIO notebook/Studied guide/M03W04 - Study Guide.pdf"
               }
             }
           },
@@ -49,11 +45,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 11,
-                "left": -17,
-                "top": 531,
-                "zoom": 0.86015625
+                "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf"
               }
             }
           },
@@ -203,19 +195,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4176428a3b064cb8",
