@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/K-Means.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,12 +191,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f13063507d23cdc5",
+  "active": "e26e28715bd6cce1",
   "lastOpenFiles": [
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "Math/Entropy.md",
+    "base-knowledge/Algorithm knowledge/KNN.md",
+    "base-knowledge/Algorithm knowledge/KD-tree.md",
+    "Math/Log2.md",
     "Terminology/Overfitting.md",
     "Excalidraw/GINI.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
@@ -211,7 +214,6 @@
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Math/GINI.md",
-    "Math/Entropy.md",
     "Excalidraw/Entropy.excalidraw.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Attachments/Images/Pasted image 20241014171332.png",
@@ -233,9 +235,6 @@
     "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Rubric]-Decision-Tree.pdf",
     "Untitled Kanban.md",
-    "PySpark.md",
-    "Untitled mindmap.md",
-    "base-knowledge/Python/PySpark/PySpark temp view.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
