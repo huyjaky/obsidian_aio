@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Terminology/Anomaly detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
+                "file": "Terminology/Anomaly detection.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Terminology/Anomaly detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Terminology/Anomaly detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,13 +194,14 @@
   },
   "active": "f13063507d23cdc5",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "Terminology/Bảng ký hiệu toán học.md",
+    "Terminology/Overfitting.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
     "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Math/Log2.md",
-    "Terminology/Overfitting.md",
     "Excalidraw/GINI.excalidraw.md",
     "Summarize Papers/BLIP-2/Summarize.md",
     "Excalidraw/IG-informationGain.excalidraw.md",
@@ -235,7 +236,6 @@
     "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
     "base-knowledge/Database/Pyspark/PySpark.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Rubric]-Decision-Tree.pdf",
-    "Untitled Kanban.md",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
