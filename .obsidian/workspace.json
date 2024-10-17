@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,13 +198,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90a2583195ca4355",
+  "active": "035e57d1b87fc4f3",
   "lastOpenFiles": [
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
-    "Terminology/Clustering.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Excalidraw/Random forest.excalidraw.md",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
+    "Terminology/Clustering.md",
+    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "Excalidraw/BLIP-2.excalidraw.md",
     "Excalidraw/CLIP compatitive.excalidraw.md",

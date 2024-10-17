@@ -6,9 +6,9 @@
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "ink",
   "obsidian-link-embed",
   "obsidian-hover-editor",
   "url-into-selection",
-  "pdf-plus"
+  "pdf-plus",
+  "remember-cursor-position"
 ]
