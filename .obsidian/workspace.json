@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/K-fold.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/K-fold.md"
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/K-fold.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/K-fold.md",
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,13 +195,13 @@
   },
   "active": "f13063507d23cdc5",
   "lastOpenFiles": [
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Terminology/K-fold.md",
+    "Terminology/Overfitting.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Anomaly detection.md",
     "Terminology/Bảng ký hiệu toán học.md",
-    "Terminology/Overfitting.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",

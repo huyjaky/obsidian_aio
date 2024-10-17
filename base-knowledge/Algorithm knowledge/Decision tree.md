@@ -16,6 +16,8 @@ Ta có hai cách để xây dựng một cây quyết định là :
 
 #### Công thức GINI là gì?
 -> [[GINI]]
+
+---
 ## Vậy làm sao để biết được đâu là node gốc cho decision tree
 -> Để có thể xây dựng một cây quyết định (decision tree) thì ta phải xác định được Node gốc của nó 
 
@@ -24,15 +26,18 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 
 ![[Excalidraw/GINI.excalidraw.md#^group=UXJxCvzG|GINI_root|800]]
 
+---
+
 ## Trường hợp dữ liệu là dạng số chứ không phải class nữa
 
 -> [[Decision tree regression]]
 
+---
 ## Tỉa cây (prunning tree)
 tỉa cây để làm gì?
 -> để tránh việc overfitting do dữ liệ mới có gap quá cao 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=vmfEOzlg|prunning |800]]
-### làm sao để tỉa cây?
+#### làm sao để tỉa cây?
 -> để tỉa cây thì ta phải tính được SSR tổng quát cho cây 
 bằng cách cộng hết các SSR lại với nhau đồng thời cộng thêm hệ số $\alpha T$ 
 $$\text{Tree Score} = \text{Total SSR} + \alpha T$$
@@ -58,3 +63,9 @@ Ví dụ:
 ![[DecisionTree_Regression_AIO2024.pdf#page=82&rect=6,6,951,464|DecisionTree_Regression_AIO2024, p.82]]
 mũi tên màu đen đi từ trên xuống dưới 
 
+---
+
+## Đánh giá cây
+
+ở đây ta dùng [[K-fold]] để có thể đánh giá cây bằng cách chia bộ dữ liệu ra và train K lần giống như một mô hình học máy bình thường 
+-> Đánh giá cây để có thể cắt tỉa cây một cách chin
