@@ -27,12 +27,14 @@
             "id": "035e57d1b87fc4f3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Random forest.excalidraw.md"
+                "file": "Terminology/Bảng ký hiệu toán học.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Random forest.excalidraw"
+              "icon": "lucide-file",
+              "title": "Bảng ký hiệu toán học"
             }
           },
           {
@@ -200,8 +202,8 @@
   },
   "active": "035e57d1b87fc4f3",
   "lastOpenFiles": [
-    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "Excalidraw/Random forest.excalidraw.md",
+    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Terminology/Clustering.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
