@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Recall.md",
+                "file": "Math/Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Terminology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Recall.md"
+                "file": "Math/Entropy.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Recall.md",
+                "file": "Math/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Recall.md",
+                "file": "Math/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -204,16 +204,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4176428a3b064cb8",
+  "active": "8d1cf107b7aaad7e",
   "lastOpenFiles": [
-    "Terminology/Precision.md",
+    "Math/Entropy.md",
     "Terminology/Recall.md",
+    "Terminology/Precision.md",
     "Test Plugin Note.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "base-knowledge/Algorithm.md",
-    "Math/Entropy.md",
     "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
     "AIO notebook/Random Forest/[Colab]-Random-Forest.ipynb",
     "AIO notebook/Random Forest/data/iris_2D.csv",
