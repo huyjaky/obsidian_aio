@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
-                "page": 39,
-                "left": -17,
-                "top": 511,
-                "zoom": 0.88125
+                "page": 33,
+                "left": -250,
+                "top": 119,
+                "zoom": 0.6
               },
               "icon": "lucide-file-text",
               "title": "Slide-Random-Forest_v2"
@@ -49,7 +49,8 @@
               "title": "Criterion"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
+                "file": "Terminology/Criterion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Slide-Random-Forest_v2"
+              "title": "Backlinks for Criterion"
             }
           },
           {
@@ -197,14 +198,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f199e9645458be5",
+  "active": "0d1493c43f3b3f5b",
   "lastOpenFiles": [
+    "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Criterion.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "Terminology/Bootstrap sampling.md",
     "Attachments/Ebooks/book_ML_color.pdf",
-    "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Excalidraw/Fonts/VictorMono.tar.xz",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
@@ -243,7 +244,6 @@
     "Terminology/K-fold.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Zero-shot.excalidraw.md",
-    "Excalidraw/Testplugin.excalidraw.md",
-    "Excalidraw/Decision tree regression.excalidraw.md"
+    "Excalidraw/Testplugin.excalidraw.md"
   ]
 }
