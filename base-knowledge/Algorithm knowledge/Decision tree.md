@@ -35,7 +35,7 @@ trước tiên ta cần `Feature` dùng để so sánh và tính GINI tổng cho
 ---
 ## Tỉa cây (prunning tree)
 tỉa cây để làm gì?
--> để tránh việc overfitting do dữ liệ mới có gap quá cao 
+-> để tránh việc overfitting do dữ liệu mới có gap quá cao 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=vmfEOzlg|prunning |800]]
 #### làm sao để tỉa cây?
 -> để tỉa cây thì ta phải tính được SSR tổng quát cho cây 
@@ -54,6 +54,7 @@ như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt
 
 #### Vâỵ làm sao để tìm được $\alpha$ để tìm được tree score tối ưu nhất ?
 
+-> Dùng [[K-fold]]
 -> Chúng ta tăng từ từ $\alpha$ lên trong lúc chặt nhánh để xem tree score chỗ nào tốt nhất 
 <span style="background:#ff4d4f">warning</span>: $\alpha$ quyết định tree score tức hình dáng của cây như thế nào 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=LNsv09uQ|Cấu  trúc tổng quát]]

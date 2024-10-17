@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Test Plugin Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md"
+                "file": "Test Plugin Note.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Test Plugin Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "file": "Test Plugin Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,8 +206,11 @@
   },
   "active": "4176428a3b064cb8",
   "lastOpenFiles": [
-    "Math/Entropy.md",
+    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+    "base-knowledge/Algorithm.md",
+    "Math/Entropy.md",
     "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
     "AIO notebook/Random Forest/[Colab]-Random-Forest.ipynb",
     "AIO notebook/Random Forest/data/iris_2D.csv",
@@ -235,7 +238,6 @@
     "Readme.md",
     "TeamVaultRepo/().md",
     "Terminology/Underfitting.md",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Math/GINI.md",
     "Excalidraw/Entropy.excalidraw.md",
@@ -243,7 +245,6 @@
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
     "Attachments/Images/image_25.png",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
-    "Excalidraw/Build-decision-tree.excalidraw.md",
     "Attachments/Images/Pasted image 20241014132355.png",
     "Attachments/Images/image_24.png",
     "Attachments/Images/image_23.png",
