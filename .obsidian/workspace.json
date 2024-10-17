@@ -21,6 +21,20 @@
             "id": "9bedd74e4ed5e206",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
+                "page": 5,
+                "left": -17,
+                "top": 30,
+                "zoom": 0.86015625
+              }
+            }
+          },
+          {
+            "id": "4176428a3b064cb8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -38,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,18 +204,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9bedd74e4ed5e206",
+  "active": "4176428a3b064cb8",
   "lastOpenFiles": [
+    "Math/Entropy.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
+    "AIO notebook/Random Forest/[Colab]-Random-Forest.ipynb",
+    "AIO notebook/Random Forest/data/iris_2D.csv",
+    "AIO notebook/Random Forest/data/Salary_Data.csv",
+    "AIO notebook/Random Forest/data",
+    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/[Slide]-Random-Forest_v2.pdf",
+    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data/iris_2D.csv",
+    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data/Salary_Data.csv",
+    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data",
+    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/[Colab]-Random-Forest.ipynb",
     "Terminology/Overfitting.md",
     "Terminology/K-fold.md",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Slide]-Decision-Tree_v2.pdf",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Algorithm knowledge/KNN.md",
     "Terminology/Anomaly detection.md",
     "Terminology/Bảng ký hiệu toán học.md",
     "base-knowledge/Algorithm knowledge/K-Means.md",
-    "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/KD-tree.md",
     "Math/Log2.md",
     "Excalidraw/GINI.excalidraw.md",
@@ -211,8 +234,6 @@
     "TeamVaultRepo/BaoCao.md",
     "Readme.md",
     "TeamVaultRepo/().md",
-    "TeamVaultRepo/Papers/HateClip.pdf",
-    "TeamVaultRepo/Papers/BLIP-2.pdf",
     "Terminology/Underfitting.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
@@ -220,19 +241,12 @@
     "Excalidraw/Entropy.excalidraw.md",
     "Attachments/Images/Pasted image 20241014171332.png",
     "AIO notebook/TA-ex/TA-ex 1-9-2024/KNN - K-means overalls.md",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/Code/[Colab]-Decision-Tree.ipynb",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/Code",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Description]-Decision-Tree.pdf",
     "Attachments/Images/image_25.png",
     "TrashNote/trash 2024-10-13 20.05.04.excalidraw.md",
-    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Excalidraw/Build-decision-tree.excalidraw.md",
     "Attachments/Images/Pasted image 20241014132355.png",
-    "AIO homework/Week 3/ex3w03/[Description]-Decision-Tree.pdf",
     "Attachments/Images/image_24.png",
     "Attachments/Images/image_23.png",
-    "AIO homework/Week 3/ex3w03/[Rubric]-Decision-Tree.pdf",
-    "AIO notebook/TA-ex/TA-ex 8-9-2024/[Rubric]-Decision-Tree.pdf",
     "Attachments/Images/image_22.png",
     "Attachments/Images/image_21.png",
     "Attachments/Images/image_20.png",
