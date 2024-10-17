@@ -13,6 +13,18 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Excalidraw/PySpark.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PySpark.excalidraw"
+            }
+          },
+          {
+            "id": "0affd5649a09c76e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Excalidraw/Random forest.excalidraw.md"
               },
               "icon": "excalidraw-icon",
@@ -20,22 +32,23 @@
             }
           },
           {
-            "id": "bbf7506c2ea3cb18",
+            "id": "1f199e9645458be5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/TA version/[Slide]-Random-Forest_v2.pdf",
-                "page": 31,
-                "left": -38,
-                "top": 462,
-                "zoom": 0.8
+                "page": 30,
+                "left": -18,
+                "top": 1,
+                "zoom": 0.83203125
               },
               "icon": "lucide-file-text",
               "title": "[Slide]-Random-Forest_v2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55c6138896c04098",
+  "active": "0affd5649a09c76e",
   "lastOpenFiles": [
-    "Terminology/K-fold.md",
-    "Excalidraw/Random forest.excalidraw.md",
     "AIO notebook/Random Forest/TA version/[Slide]-Random-Forest_v2.pdf",
+    "Excalidraw/Random forest.excalidraw.md",
     "Excalidraw/PySpark.excalidraw.md",
+    "Terminology/K-fold.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Excalidraw/Untitled.md",
