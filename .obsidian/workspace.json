@@ -24,9 +24,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
-                "page": 5,
+                "page": 1,
                 "left": -17,
-                "top": 30,
+                "top": 544,
                 "zoom": 0.86015625
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "Terminology/Dummy variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Entropy.md"
+                "file": "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Entropy.md",
+                "file": "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8d1cf107b7aaad7e",
+  "active": "9bedd74e4ed5e206",
   "lastOpenFiles": [
+    "AIO notebook/Studied guide/M03W04 - Study Guide.pdf",
+    "AIO notebook/Tree Data structure/Tree Data Structure_v4.pdf",
+    "AIO notebook/Studied guide/Untitled",
+    "AIO notebook/Studied guide",
+    "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
+    "Terminology/Dummy variable.md",
     "Math/Entropy.md",
     "Terminology/Recall.md",
     "Terminology/Precision.md",
@@ -214,16 +220,12 @@
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "base-knowledge/Algorithm.md",
-    "AIO notebook/Random Forest/[Slide]-Random-Forest_v2.pdf",
     "AIO notebook/Random Forest/[Colab]-Random-Forest.ipynb",
     "AIO notebook/Random Forest/data/iris_2D.csv",
     "AIO notebook/Random Forest/data/Salary_Data.csv",
     "AIO notebook/Random Forest/data",
     "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/[Slide]-Random-Forest_v2.pdf",
     "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data/iris_2D.csv",
-    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data/Salary_Data.csv",
-    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/data",
-    "AIO notebook/Random Forest/Tuesday-20241017T021008Z-001/Tuesday/[Colab]-Random-Forest.ipynb",
     "Terminology/Overfitting.md",
     "Terminology/K-fold.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
@@ -241,8 +243,6 @@
     "Readme.md",
     "TeamVaultRepo/().md",
     "Terminology/Underfitting.md",
-    "Excalidraw/Decision tree regression.excalidraw.md",
-    "Math/GINI.md",
     "Attachments/Images/Pasted image 20241014171332.png",
     "Attachments/Images/image_25.png",
     "Attachments/Images/Pasted image 20241014132355.png",
