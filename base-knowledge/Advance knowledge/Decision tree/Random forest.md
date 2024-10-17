@@ -2,6 +2,8 @@
 
 ## Pipeline Random forest
 
+-> dùng [[book_ML_color.pdf]]
+
 ![[Excalidraw/Random-forest.excalidraw.md#^group=H5jjdAf9|Pretrain Random Forest | 800]]
 #### Chuẩn bị dữ liệu 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=r8qh9MGj|Image2|800]]

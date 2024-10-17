@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+                "file": "Attachments/Ebooks/book_ML_color.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random forest"
+              "title": "Backlinks for book_ML_color"
             }
           },
           {
@@ -198,10 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d1493c43f3b3f5b",
+  "active": "847f6cd42e6fe4f6",
   "lastOpenFiles": [
-    "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+    "Terminology/Bootstrap sampling.md",
+    "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
     "Excalidraw/Fonts/VictorMono.tar.xz",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -243,7 +244,6 @@
     "Excalidraw/Untitled.md",
     "Excalidraw/Zero-shot.excalidraw.md",
     "Excalidraw/Testplugin.excalidraw.md",
-    "Excalidraw/Decision tree regression.excalidraw.md",
-    "Excalidraw/Brute-force.excalidraw.md"
+    "Excalidraw/Decision tree regression.excalidraw.md"
   ]
 }
