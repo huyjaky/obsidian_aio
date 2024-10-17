@@ -49,3 +49,5 @@ như vậy ta tìm được nhánh bên trái của node gốc là 11.5 và có 
 
 #### Ví dụ về cắt nhánh (prunning tree) 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=e369VFe7|Ví dụ về việc cắt nhánh |800]]
+
+## MSE (Mean square error)
