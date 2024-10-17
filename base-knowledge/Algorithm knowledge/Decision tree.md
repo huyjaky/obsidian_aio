@@ -68,4 +68,4 @@ mũi tên màu đen đi từ trên xuống dưới
 ## Đánh giá cây
 
 ở đây ta dùng [[K-fold]] để có thể đánh giá cây bằng cách chia bộ dữ liệu ra và train K lần giống như một mô hình học máy bình thường 
--> Đánh giá cây để có thể cắt tỉa cây một cách chin
+-> Đánh giá cây để có thể cắt tỉa cây một cách chính xác (cắt tỉa đến khi acc từ bộ test là lớn nhất)
