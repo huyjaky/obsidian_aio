@@ -16,7 +16,7 @@
                 "file": "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
                 "page": 32,
                 "left": -17,
-                "top": 483,
+                "top": 17,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -201,9 +201,10 @@
   "active": "dab27499c642a400",
   "lastOpenFiles": [
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
+    "Excalidraw/Fonts/VictorMono.tar.xz",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
@@ -233,7 +234,6 @@
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
     "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
-    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
     "Terminology/Entropy.md",
