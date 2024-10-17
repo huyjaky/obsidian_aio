@@ -1,11 +1,10 @@
 {
   "cssTheme": "Tokyo Night",
   "accentColor": "#fcfcfc",
-  "interfaceFontFamily": "RecMonoCasual Nerd Font",
+  "interfaceFontFamily": "Nirmala UI",
   "textFontFamily": "VictorMono Nerd Font",
-  "baseFontSize": 21,
+  "baseFontSize": 23,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "VictorMono Nerd Font Mono",
-  "nativeMenus": false,
-  "theme": "obsidian"
+  "nativeMenus": false
 }

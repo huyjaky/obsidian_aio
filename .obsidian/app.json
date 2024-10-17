@@ -1,6 +1,5 @@
 {
   "spellcheck": false,
-  "attachmentFolderPath": "Attachments/Images",
-  "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true
 }

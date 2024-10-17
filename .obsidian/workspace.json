@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55c6138896c04098",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PySpark.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PySpark.excalidraw"
-            }
-          },
-          {
-            "id": "0affd5649a09c76e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Random forest.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Random forest.excalidraw"
-            }
-          },
-          {
             "id": "1f199e9645458be5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "AIO notebook/Random Forest/TA version/[Slide]-Random-Forest_v2.pdf",
-                "page": 30,
-                "left": -18,
-                "top": 1,
-                "zoom": 0.83203125
+                "file": "Excalidraw/CLIP compatitive.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "[Slide]-Random-Forest_v2"
+              "icon": "excalidraw-icon",
+              "title": "CLIP compatitive.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,12 +152,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -196,18 +167,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0affd5649a09c76e",
+  "active": "1f199e9645458be5",
   "lastOpenFiles": [
-    "AIO notebook/Random Forest/TA version/[Slide]-Random-Forest_v2.pdf",
+    "AIO notebook/Advanced Data Visualization/Data-Visualization_v2.pdf",
+    "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
+    "AIO notebook/Data Analysis with Time Series data/Data Analysis with Time Series data.md",
+    "base-knowledge/Algorithm knowledge/K-Means.md",
+    "Excalidraw/Drawing 2024-09-30 20.39.56.excalidraw.md",
+    "Attachments/image_0.png",
+    "Attachments/image.png",
+    "Attachments/_ti_NKCH_SV_nm_hc_2024-2025_(Repaired).docx",
+    "Attachments/Tree Data Structure_v4.pdf",
+    "Attachments/Pasted image 20240929132349.png",
+    "Attachments/Pasted image 20240928203218.png",
+    "Attachments/Pasted image 20240928190846.png",
+    "Attachments/Pasted image 20240928114540.png",
+    "Attachments/Pasted image 20240928114040.png",
+    "Attachments/Pasted image 20240928113738.png",
+    "Attachments/Pasted image 20240928113019.png",
+    "Attachments/Pasted image 20240928112739.png",
+    "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide/[Slide]-KNN-KMean_v2.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Slide",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/NOTE.docx",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Rubric.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description/Description.pdf",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides/Description",
+    "AIO notebook/TA-ex 1-9-2024/Descrition + Slides",
+    "AIO notebook/TA-ex 1-9-2024",
+    "Excalidraw/Random-forest.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
+    "base-knowledge/Algorithm knowledge/Cosine similarity.md",
+    "Terminology/Entropy.md",
+    "Terminology/Cross-entropy.md",
     "Excalidraw/Random forest.excalidraw.md",
     "Excalidraw/PySpark.excalidraw.md",
     "Terminology/K-fold.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
-    "AIO notebook/PySpark for Data Processing/PySpark.pdf",
     "Excalidraw/Untitled.md",
     "Excalidraw/Zero-shot.excalidraw.md",
     "Terminology/Clustering.md",
-    "Attachments/Images/image_26.png",
     "Excalidraw/Testplugin.excalidraw.md",
     "Excalidraw/Decision tree regression.excalidraw.md",
     "Excalidraw/BLIP-2.excalidraw.md",
