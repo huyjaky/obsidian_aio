@@ -2,7 +2,7 @@
 
 ## Pipeline Random forest
 
--> dùng [[book_ML_color.pdf]]
+-> dùng [[Bootstrap sampling]]
 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=H5jjdAf9|Pretrain Random Forest | 800]]
 #### Chuẩn bị dữ liệu 
