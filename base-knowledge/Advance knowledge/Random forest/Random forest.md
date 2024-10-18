@@ -18,7 +18,10 @@
 #### Bước quyết định kết quả
 ![[Slide-Random-Forest_v2.pdf#page=39&rect=38,6,916,405|Slide-Random-Forest_v2, p.39|800]]
 -> ta có Test sample cho qua từng cây chứa feature trong test sample và cho ra kết quả phân loại 
--> <span style="background:#b1ffff">kết quả là class chiếm tỷ lệ nhiều nhất </span>
+
+Các trường hợp:
+-  <span style="background:#b1ffff">kết quả là class chiếm tỷ lệ nhiều nhất </span>
+- nếu như dataset là một dãy số thì khi dùng [[Decision tree regression]] mỗi cây cho ra một dãy số và ta tính mean của tất cả các cây
 
 ---
 ## Các Esemple learning trong random forest
