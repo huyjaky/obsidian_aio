@@ -1,5 +1,9 @@
 #tree #Algorithm 
 
+
+
+
+---
 ## Pipeline Random forest
 
 -> dùng [[Bootstrap sampling]]
