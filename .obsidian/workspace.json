@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+                "file": "Math/Entropy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random forest"
+              "title": "Entropy"
             }
           },
           {
@@ -41,9 +41,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 16,
+                "page": 24,
                 "left": -17,
-                "top": 525,
+                "top": 479,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -238,15 +238,17 @@
   },
   "active": "deeea961b66b4488",
   "lastOpenFiles": [
-    "Terminology/Bias.md",
-    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
-    "Excalidraw/Bias.excalidraw.md",
-    "Terminology/Overfitting.md",
     "Excalidraw/Random-forest.excalidraw.md",
+    "Math/Entropy.md",
+    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "Excalidraw/Bias.excalidraw.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+    "Terminology/Bias.md",
+    "Terminology/Overfitting.md",
     "Terminology/Underfitting.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Excalidraw/Fonts/Recursive/README.md",
     "Excalidraw/Fonts/Recursive/LICENSE.txt",
     "Excalidraw/Fonts/Recursive/RecMonoCasualNerdFontPropo-Bold.ttf",
@@ -280,8 +282,6 @@
     "Attachments/Pasted image 20240928113019.png",
     "Attachments/Pasted image 20240928112739.png",
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
-    "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
-    "base-knowledge/Algorithm knowledge/Cosine similarity.md",
-    "Terminology/Entropy.md"
+    "base-knowledge/Algorithm knowledge/K-Means Clustering.md"
   ]
 }
