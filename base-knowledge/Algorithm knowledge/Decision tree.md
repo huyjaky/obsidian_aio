@@ -73,3 +73,10 @@ mũi tên màu đen đi từ trên xuống dưới
 
 ## Advantage và disadvantage của decision tree 
 ![[Random Forest_AIO2024.pdf#page=10&rect=18,124,941,416|Random Forest_AIO2024, p.10]]
+
+| **Ưu điểm**                                                                                   | **Nhược điểm**                                                                             |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Rất dễ giải thích (Bạn nghĩ có dễ hiểu hơn hồi quy tuyến tính không?)                         | Không có cùng mức độ chính xác dự đoán như một số phương pháp hồi quy và phân loại khác    |
+| Giống với suy nghĩ của con người hơn (Bạn nghĩ sao về điều này?)                              | Thay đổi nhỏ trong dữ liệu có thể gây ra sự thay đổi lớn trong cây ước lượng               |
+| Có thể dễ dàng xử lý các biến định tính mà không cần tạo các biến giả (Dummy variable là gì?) | Ít hiệu quả hơn trong việc dự đoán khi mục tiêu chính là dự đoán kết quả của biến liên tục |
+-> <span style="background:#b1ffff">Ít hiệu quả trong những bài toán regression (Hồi quy) vì số gap khá lớn ở một bộ phận dữ liệu do tính trung bình</span>
