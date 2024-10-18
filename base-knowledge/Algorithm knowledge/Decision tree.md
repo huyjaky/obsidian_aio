@@ -70,3 +70,6 @@ mũi tên màu đen đi từ trên xuống dưới
 
 ở đây ta dùng [[K-fold]] để có thể đánh giá cây bằng cách chia bộ dữ liệu ra và train K lần giống như một mô hình học máy bình thường 
 -> Đánh giá cây để có thể cắt tỉa cây một cách chính xác (cắt tỉa đến khi acc từ bộ test là lớn nhất)
+
+## Advantage và disadvantage của decision tree 
+![[Random Forest_AIO2024.pdf#page=10&rect=18,124,941,416|Random Forest_AIO2024, p.10]]

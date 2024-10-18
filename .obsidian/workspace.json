@@ -11,16 +11,14 @@
             "id": "1f199e9645458be5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
-                "page": 33,
-                "left": -17,
-                "top": 129,
-                "zoom": 0.88125
+                "file": "base-knowledge/Algorithm knowledge/Decision tree.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Slide-Random-Forest_v2"
+              "icon": "lucide-file",
+              "title": "Decision tree"
             }
           },
           {
@@ -199,8 +197,9 @@
   },
   "active": "1f199e9645458be5",
   "lastOpenFiles": [
-    "Terminology/Criterion.md",
+    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
+    "Terminology/Criterion.md",
     "Excalidraw/Random-forest.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "Terminology/Bootstrap sampling.md",
@@ -209,7 +208,6 @@
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Advanced Data Visualization/Advanced Data Visualization.md",
     "AIO notebook/Decision tree/Extra_Decision_Tree.pdf",
-    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "Terminology/Clustering.md",
     "Excalidraw/Cosine similarity.excalidraw.md",
     "Excalidraw/CLIP pipeline.excalidraw.md",
