@@ -15,9 +15,9 @@
               "state": {
                 "file": "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
                 "page": 33,
-                "left": -250,
-                "top": 119,
-                "zoom": 0.6
+                "left": -17,
+                "top": 129,
+                "zoom": 0.88125
               },
               "icon": "lucide-file-text",
               "title": "Slide-Random-Forest_v2"
@@ -49,8 +49,7 @@
               "title": "Criterion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d1493c43f3b3f5b",
+  "active": "1f199e9645458be5",
   "lastOpenFiles": [
+    "Terminology/Criterion.md",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
-    "Terminology/Criterion.md",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "Terminology/Bootstrap sampling.md",
     "Attachments/Ebooks/book_ML_color.pdf",
