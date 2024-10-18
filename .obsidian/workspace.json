@@ -63,6 +63,18 @@
               "icon": "lucide-file",
               "title": "Bias"
             }
+          },
+          {
+            "id": "c07f91aa3f3befed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Bias.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bias.excalidraw"
+            }
           }
         ],
         "currentTab": 3
@@ -226,11 +238,12 @@
   },
   "active": "deeea961b66b4488",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "Terminology/Bias.md",
-    "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
-    "Excalidraw/Random-forest.excalidraw.md",
+    "Excalidraw/Bias.excalidraw.md",
     "Terminology/Overfitting.md",
+    "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Underfitting.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
@@ -269,7 +282,6 @@
     "AIO notebook/TA-ex 1-9-2024/KNN - K-means.md",
     "base-knowledge/Algorithm knowledge/K-Means Clustering.md",
     "base-knowledge/Algorithm knowledge/Cosine similarity.md",
-    "Terminology/Entropy.md",
-    "Terminology/Cross-entropy.md"
+    "Terminology/Entropy.md"
   ]
 }

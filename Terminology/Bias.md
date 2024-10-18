@@ -34,9 +34,27 @@ Từ hình ảnh này, ta có thể giải thích khái niệm **bias (độ l�
 
 1. **Bias (độ lệch)** đề cập đến lỗi gây ra bởi các mô hình quá đơn giản, không thể nắm bắt đầy đủ các mẫu hoặc quy luật ẩn trong dữ liệu. Trong biểu đồ đầu tiên ở bên trái (biểu đồ về sự cân bằng giữa Bias và Variance), đường cong **Bias²** di chuyển xuống khi độ phức tạp của mô hình tăng lên. Điều này thể hiện rằng các mô hình đơn giản (ở phía bên trái) có **bias cao** do chúng giả định quá nhiều điều về dữ liệu và do đó không thể mô hình hóa dữ liệu một cách chính xác.
 
-2. Các mô hình có bias cao thường **underfit** (khớp kém) dữ liệu. Điều này có nghĩa là chúng không nắm bắt được những mối quan hệ quan trọng trong dữ liệu huấn luyện, dẫn đến lỗi lớn (bias cao). Như biểu đồ cho thấy, **tổng lỗi** (total error) cao hơn khi bias chiếm ưu thế (ở phía bên trái trục độ phức tạp của mô hình). Bias giảm dần khi mô hình phức tạp hơn (di chuyển về phía giữa biểu đồ, nơi mô hình phù hợp tốt hơn).
+2. Các mô hình có bias cao thường [[Underfitting]] (khớp kém) dữ liệu. Điều này có nghĩa là chúng không nắm bắt được những mối quan hệ quan trọng trong dữ liệu huấn luyện, dẫn đến lỗi lớn (bias cao). Như biểu đồ cho thấy, **tổng lỗi** (total error) cao hơn khi bias chiếm ưu thế (ở phía bên trái trục độ phức tạp của mô hình). Bias giảm dần khi mô hình phức tạp hơn (di chuyển về phía giữa biểu đồ, nơi mô hình phù hợp tốt hơn).
 
-3. Ngược lại, khi bias giảm (khi mô hình phức tạp hơn), **variance (phương sai)** có xu hướng tăng, như được thể hiện bởi đường cong phương sai đi lên trong biểu đồ. Các mô hình có phương sai cao có thể trở nên quá phức tạp, khiến chúng **overfit** (quá khớp) dữ liệu huấn luyện, dẫn đến hiệu suất tổng quát kém trên dữ liệu chưa từng thấy.
+3. Ngược lại, khi bias giảm (khi mô hình phức tạp hơn), **variance (phương sai)** có xu hướng tăng, như được thể hiện bởi đường cong phương sai đi lên trong biểu đồ. Các mô hình có phương sai cao có thể trở nên quá phức tạp, khiến chúng [[Overfitting]] (quá khớp) dữ liệu huấn luyện, dẫn đến hiệu suất tổng quát kém trên dữ liệu chưa từng thấy.
+
+#### Như thế nào là low và high $Bias^2$
+
+![[Random Forest_AIO2024.pdf#page=14&rect=10,1,869,469|Random Forest_AIO2024, p.14]]
+
+$$
+RSS = \sum_{i=1}^{n} \left( y_i - f(x_i) \right)^2
+$$
+- $y_i$: là giá trị thực tế của điểm dữ liệu thứ $i$.
+- $f(x_i)$: là giá trị dự đoán của mô hình hồi quy cho điểm dữ liệu $x_i$.
+- $n$: là số lượng dữ liệu hoặc mẫu.
+
+![[Random Forest_AIO2024.pdf#page=14&rect=12,223,488,466|Random Forest_AIO2024, p.14|400]]
+Dựa vào bức hình này ta có thể thấy $RSS$ lớn hơn không chứng tỏ là độ sai lệch là có nên ta có thể hiểu là mô hình có $Bias^2$ (độ phức tạp) khá đơn giản làm cho mô hình học không quá sát với dữ liệu 
+-> high $Bias^2$
+
+![[Random Forest_AIO2024.pdf#page=14&rect=21,2,505,212|Random Forest_AIO2024, p.14 | 400]]
+Ngược lại với ở trên thì mô hình khá phức tạp và nó đa
 
 ---
 
