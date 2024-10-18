@@ -1,8 +1,6 @@
 #tree #Algorithm 
 
 
-
-
 ---
 ## Pipeline Random forest
 
