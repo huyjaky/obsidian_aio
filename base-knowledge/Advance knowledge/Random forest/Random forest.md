@@ -1,12 +1,11 @@
 #tree #Algorithm 
 
-
----
 ## Pipeline Random forest
 
 -> dùng [[Bootstrap sampling]]
 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=H5jjdAf9|Pretrain Random Forest | 800]]
+-> Vì dùng [[Bootstrap sampling]] nó random nên có thể có những sampling không được random ra và không được trainning, ta có thể dùng những sample đó để làm bộ test 
 #### Chuẩn bị dữ liệu 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=r8qh9MGj|Image2|800]]
 
