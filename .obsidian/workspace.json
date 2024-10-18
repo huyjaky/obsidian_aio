@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 49,
+                "page": 55,
                 "left": -7,
-                "top": 516,
+                "top": 503,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
@@ -39,14 +39,12 @@
             "id": "596752c1966339e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Random forest/Random forest.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Random-forest.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Random forest"
+              "icon": "excalidraw-icon",
+              "title": "Random-forest.excalidraw"
             }
           }
         ],
@@ -212,9 +210,10 @@
   "active": "596752c1966339e9",
   "lastOpenFiles": [
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "Excalidraw/Random-forest.excalidraw.md",
+    "Terminology/Proximity matrix.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Readme.md",
-    "Excalidraw/Random-forest.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Terminology/Bootstrap sampling.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
@@ -247,7 +246,6 @@
     "Terminology/Bias.md",
     "Terminology/Overfitting.md",
     "Terminology/Underfitting.md",
-    "Excalidraw/Fonts/Recursive/README.md",
     "Attachments/image_0.png",
     "Attachments/image.png",
     "Attachments/Pasted image 20240929132349.png",

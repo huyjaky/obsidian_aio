@@ -1,4 +1,4 @@
-#tree #Algorithm 
+#tree #Algorithm #random-forest 
 
 ## Pipeline Random forest
 
