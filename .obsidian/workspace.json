@@ -68,16 +68,14 @@
             "type": "leaf",
             "dimension": 25,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
-                "page": 45,
-                "left": -17,
-                "top": 497,
-                "zoom": 0.88125
+                "file": "Terminology/Underfitting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DecisionTree_Regression_AIO2024"
+              "icon": "lucide-file",
+              "title": "Underfitting"
             }
           }
         ],
@@ -232,9 +230,9 @@
   "active": "41a1cd176cafc28c",
   "lastOpenFiles": [
     "Terminology/Overfitting.md",
+    "Terminology/Bias.md",
     "AIO notebook/Decision Tree for Regression/Slides/DecisionTree_Regression_AIO2024.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
-    "Terminology/Bias.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Decision tree/Random forest.md",

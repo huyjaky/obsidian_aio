@@ -1,6 +1,7 @@
 #Terminology 
 ## Underfitting là gì?
 ![[DecisionTree_Regression_AIO2024.pdf#page=45&rect=1,31,955,450&color=important|DecisionTree_Regression_AIO2024, p.45]]
+- [[Bias]]
 
 Underfitting là hiện tượng xảy ra khi một mô hình học máy (machine learning) **không học đủ từ dữ liệu huấn luyện**, dẫn đến khả năng dự đoán kém cả trên dữ liệu huấn luyện và dữ liệu mới. Mô hình quá đơn giản để nắm bắt được các mối quan hệ quan trọng trong dữ liệu, dẫn đến hiệu suất thấp.
 

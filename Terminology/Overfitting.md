@@ -2,6 +2,7 @@
 ## Overfitting là gì?
 
 ![[DecisionTree_Regression_AIO2024.pdf#page=45&rect=1,31,955,450&color=important|DecisionTree_Regression_AIO2024, p.45]]
+- [[Bias]]
 
 Overfitting là hiện tượng xảy ra khi một mô hình học máy (machine learning) **quá phù hợp với dữ liệu huấn luyện**, đến mức nó học cả những nhiễu loạn hoặc đặc điểm không liên quan trong dữ liệu. Điều này dẫn đến việc mô hình hoạt động rất tốt trên dữ liệu huấn luyện nhưng kém hiệu quả khi áp dụng vào dữ liệu mới, chưa từng thấy trước đó.
 
