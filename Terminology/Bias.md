@@ -51,10 +51,14 @@ $$
 
 ![[Random Forest_AIO2024.pdf#page=14&rect=12,223,488,466|Random Forest_AIO2024, p.14|400]]
 Dựa vào bức hình này ta có thể thấy $RSS$ lớn hơn không chứng tỏ là độ sai lệch là có nên ta có thể hiểu là mô hình có $Bias^2$ (độ phức tạp) khá đơn giản làm cho mô hình học không quá sát với dữ liệu 
--> high $Bias^2$
+-> High $Bias^2$
 
 ![[Random Forest_AIO2024.pdf#page=14&rect=21,2,505,212|Random Forest_AIO2024, p.14 | 400]]
-Ngược lại với ở trên thì mô hình khá phức tạp và nó đa
+Ngược lại với ở trên thì mô hình khá phức tạp và nó đã học quá sát với tập dữ liệu trainning làm cho $RSS \approx 0$ -> Low $Bias^2$ 
+
+#### Mô hình Bias và Variance trade off
+
+![[Random Forest_AIO2024.pdf#page=16&rect=3,23,953,459|Random Forest_AIO2024, p.16]]
 
 ---
 
