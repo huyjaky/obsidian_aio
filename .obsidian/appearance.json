@@ -1,10 +1,11 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Shimmering Focus",
   "accentColor": "#fcfcfc",
   "interfaceFontFamily": "RecMonoCasual Nerd Font",
   "textFontFamily": "VictorMono Nerd Font",
   "baseFontSize": 23,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Propo",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

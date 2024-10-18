@@ -28,7 +28,7 @@
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
                 "page": 27,
                 "left": -17,
-                "top": 25,
+                "top": 39,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "deeea961b66b4488",
+            "id": "596752c1966339e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,16 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "deeea961b66b4488",
+  "active": "596752c1966339e9",
   "lastOpenFiles": [
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "Excalidraw/Random-forest.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Test Plugin Note.md",
     "Readme.md",
     "Excalidraw/Bias.excalidraw.md",
     "Attachments/Pasted image 20241018110906.png",
     "Attachments/Pasted image 20241018110846.png",
-    "Excalidraw/Random-forest.excalidraw.md",
     "Attachments/Fonts/VictorMono.tar.xz",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontPropo-Regular.ttf",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontPropo-Italic.ttf",
@@ -228,7 +229,6 @@
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-Italic.ttf",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-BoldItalic.ttf",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-Bold.ttf",
-    "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFont-Regular.ttf",
     "Attachments/Fonts/Recursive/README.md",
     "Attachments/Fonts/JetBrainsMono/README.md",
     "Attachments/Fonts/ComicShannsMono/README.md",
@@ -248,7 +248,6 @@
     "Terminology/Overfitting.md",
     "Terminology/Underfitting.md",
     "Excalidraw/Fonts/Recursive/README.md",
-    "Excalidraw/Fonts/JetBrainsMono/README.md",
     "Attachments/image_0.png",
     "Attachments/image.png",
     "Attachments/Pasted image 20240929132349.png",
