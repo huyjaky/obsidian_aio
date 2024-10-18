@@ -25,6 +25,8 @@ Trong bối cảnh huấn luyện trí tuệ nhân tạo (AI), **bias (thiên v�
 
 Thiên vị trong AI có thể dẫn đến hậu quả nghiêm trọng nếu không được kiểm soát, do đó việc giảm thiểu bias là yếu tố then chốt để tạo ra những mô hình học máy công bằng và chính xác.
 
+
+---
 ## $Bias^2$ (Độ phức tạp của mô hình):
 ![[DecisionTree_Regression_AIO2024.pdf#page=45&rect=1,31,955,450&color=important|DecisionTree_Regression_AIO2024, p.45]]
 
@@ -38,5 +40,4 @@ Từ hình ảnh này, ta có thể giải thích khái niệm **bias (độ l�
 
 ---
 
-Tóm lại, bias là xu hướng của một mô hình đơn giản hóa quá mức và bỏ lỡ các mẫu quan trọng trong dữ liệu. Một mô hình có bias cao đưa ra giả định mạnh mẽ, dẫn đến hiện tượng **underfitting**. Thách thức trong học máy là tìm ra sự cân bằng giữa bias và variance để giảm thiểu tổng lỗi và đạt được độ phức tạp mô hình tối ưu, được chỉ ra bởi điểm có tổng lỗi thấp nhất trên biểu đồ.
 

@@ -43,7 +43,7 @@
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
                 "page": 14,
                 "left": -17,
-                "top": 207,
+                "top": 518,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -54,14 +54,18 @@
             "id": "deeea961b66b4488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/Bias.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bias"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Decision tree/Random forest.md",
+                "file": "Terminology/Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random forest"
+              "title": "Backlinks for Bias"
             }
           },
           {
@@ -220,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0f392c23c8158ce",
+  "active": "deeea961b66b4488",
   "lastOpenFiles": [
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "Terminology/Bias.md",
