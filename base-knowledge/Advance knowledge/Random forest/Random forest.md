@@ -8,7 +8,8 @@
 
 Lưu ý:
 - Vì dùng [[Bootstrap sampling]] nó random nên có thể có những sampling không được random ra và không được trainning, ta có thể dùng những sample đó để làm bộ test 
-- Trong dữ liệu thực tế thì bị những sample có giá trị <font color="#f79646">nan/null</font>. Để giải quyết chúng ta có thể dùng trung bình của hàng trên và dưới
+- Trong dữ liệu thực tế thì bị những sample có giá trị <font color="#f79646">nan/null</font>. Để giải quyết chúng ta có thể dùng <font color="#f79646">trung bình</font> của hàng trên và dưới
+	- ![[Random Forest_AIO2024.pdf#page=49&rect=11,43,946,409|Random Forest_AIO2024, p.49|400]]
 
 #### Chuẩn bị dữ liệu 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=r8qh9MGj|Image2|800]]

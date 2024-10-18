@@ -26,10 +26,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 13,
-                "left": -17,
-                "top": 206,
-                "zoom": 0.88125
+                "page": 49,
+                "left": -7,
+                "top": 516,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "Random Forest_AIO2024"
@@ -211,9 +211,9 @@
   },
   "active": "596752c1966339e9",
   "lastOpenFiles": [
-    "Readme.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "Readme.md",
     "Excalidraw/Random-forest.excalidraw.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Terminology/Bootstrap sampling.md",
