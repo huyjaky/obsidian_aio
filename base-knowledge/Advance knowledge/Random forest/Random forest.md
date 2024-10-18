@@ -21,4 +21,11 @@
 -> <span style="background:#b1ffff">kết quả là class chiếm tỷ lệ nhiều nhất </span>
 
 ---
+## Các Esemple learning trong random forest
+![[Random Forest_AIO2024.pdf#page=25&rect=7,8,938,457|Random Forest_AIO2024, p.25]]
 
+#### Boosting method
+![[Random Forest_AIO2024.pdf#page=27&rect=222,25,873,537|Random Forest_AIO2024, p.27]]
+
+#### Stacking method
+![[Random Forest_AIO2024.pdf#page=28&rect=169,38,898,537|Random Forest_AIO2024, p.28]]
