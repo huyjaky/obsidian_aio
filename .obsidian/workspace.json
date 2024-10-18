@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc986d596e32c16",
+  "active": "41a1cd176cafc28c",
   "lastOpenFiles": [
-    "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Proximity matrix.md",
+    "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Precision.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
