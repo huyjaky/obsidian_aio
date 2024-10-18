@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 55,
+                "page": 56,
                 "left": -7,
-                "top": 503,
+                "top": 518,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "596752c1966339e9",
+            "id": "7fc986d596e32c16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Random-forest.excalidraw.md"
+                "file": "Terminology/Proximity matrix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Random-forest.excalidraw"
+              "icon": "lucide-file",
+              "title": "Proximity matrix"
             }
           }
         ],
@@ -207,11 +209,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "596752c1966339e9",
+  "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Proximity matrix.md",
+    "Terminology/Precision.md",
+    "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Readme.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
