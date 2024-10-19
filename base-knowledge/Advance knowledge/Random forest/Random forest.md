@@ -41,3 +41,5 @@ Các trường hợp:
 ## Random forest giải quyết overfitting hoặc underfitting ntn?
 
 -> <span style="background:#b1ffff">bằng cách lấy trung bình nhiều cây quyết định, làm giảm phương sai</span>
+
+---
