@@ -43,3 +43,10 @@ Các trường hợp:
 -> <span style="background:#b1ffff">bằng cách lấy trung bình nhiều cây quyết định, làm giảm phương sai</span>
 
 ---
+
+## Đưa dữ liệu từ Time series thành dữ liệu cho supervise learning 
+
+![[Excalidraw/Random-forest.excalidraw.md#^group=SifvI0Mz|image4|800]]
+
+để có thể chuyển hóa bộ dữ liệu time-series thành bộ dữ liệu supervise learning (input và predict chung một hàng - predict là kết quả cho giây tiếp theo)
+Ta dùng `pandas.shift()` 
