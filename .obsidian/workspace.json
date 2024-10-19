@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-                "page": 16,
+                "page": 22,
                 "left": -17,
-                "top": 457,
+                "top": 481,
                 "zoom": 0.8812500000000001
               },
               "icon": "lucide-file-text",
@@ -37,7 +37,8 @@
               "title": "AdaBoost"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b9c31f3d03dcd7d",
+  "active": "7fc986d596e32c16",
   "lastOpenFiles": [
+    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
-    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Terminology/Stump.md",
     "Terminology/Dataset cho supervise learning.md",
     "Excalidraw/Boosting.excalidraw.md",
@@ -234,7 +235,6 @@
     "Terminology/Recall.md",
     "Terminology/Norm.md",
     "Readme.md",
-    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Attachments/Pasted image 20241018110906.png",
     "Attachments/Pasted image 20241018110846.png",
     "Attachments/image_0.png",
