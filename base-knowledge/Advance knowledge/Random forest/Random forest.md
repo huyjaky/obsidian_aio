@@ -48,5 +48,13 @@ Các trường hợp:
 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=SifvI0Mz|image4|800]]
 
-để có thể chuyển hóa bộ dữ liệu time-series thành bộ dữ liệu supervise learning (input và predict chung một hàng - predict là kết quả cho giây tiếp theo)
+để có thể chuyển hóa bộ dữ liệu time-series thành bộ dữ liệu supervise learning (<font color="#f79646">input và predict chung một hàng - predict là kết quả cho giây tiếp theo</font>)
 Ta dùng `pandas.shift()` 
+```embed
+title: "Python | Pandas dataframe.shift() - GeeksforGeeks"
+image: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png"
+description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+url: "https://www.geeksforgeeks.org/python-pandas-dataframe-shift/"
+```
+
+![[Excalidraw/Random-forest.excalidraw.md#^group=B1BAdPq7|image2|800]]
