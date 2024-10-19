@@ -1,0 +1,1 @@
+-> stump đơn giản là cây chỉ có một node gốc và 2 node lá 
