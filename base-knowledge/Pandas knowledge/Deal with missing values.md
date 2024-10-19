@@ -20,3 +20,5 @@ print("The mean revenue is: ", revenue_mean)
 
 # We can fill the null values with this mean revenue
 data_indexed[’Revenue (Millions)’].fillna(revenue_mean, inplace=True)
+```
+
