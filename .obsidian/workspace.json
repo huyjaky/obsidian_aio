@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Proximity matrix.md",
+                "file": "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proximity matrix"
+              "title": "Random forest boosting"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Pandas knowledge/Deal with missing values.md",
+                "file": "Terminology/Time-series cross-validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deal with missing values"
+              "title": "Time-series cross-validation"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16c1d9ed5480c5a1",
+  "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "base-knowledge/Numpy.md",
+    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
+    "Terminology/Proximity matrix.md",
+    "base-knowledge/Advance knowledge/Random forest/Stack",
+    "Terminology/Time-series cross-validation.md",
+    "Terminology/Feed forward.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost",
+    "base-knowledge/Numpy.md",
     "base-knowledge/Pandas.md",
     "base-knowledge/Pandas knowledge/Data Selection – Based on Conditional filtering.md",
     "base-knowledge/Python/Numpy knowledge/Broadcasting with diff depth.md",
@@ -248,35 +255,28 @@
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "Terminology/K-fold cross-validation.md",
-    "Terminology/Proximity matrix.md",
     "AIO homework/Week 3/Solve/ex1w03/opsd_germany_daily.csv",
     "AIO homework/Week 3/Solve/ex1w03/ex2.py",
     "AIO homework/Week 3/Solve/ex1w03/ex1.py",
     "AIO homework/Week 3/Solve/ex1w03/IMDB-Movie-Data.csv",
     "AIO homework/Week 3/Solve/ex1w03",
     "AIO homework/Week 3/Solve",
-    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Excalidraw/Random-forest.excalidraw.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Terminology/Time-series cross-validation.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Terminology/Precision.md",
     "Terminology/Recall.md",
     "Terminology/Norm.md",
     "Readme.md",
-    "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Terminology/Bootstrap sampling.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Test Plugin Note.md",
     "Excalidraw/Bias.excalidraw.md",
     "Attachments/Pasted image 20241018110906.png",
     "Attachments/Pasted image 20241018110846.png",
-    "Attachments/Fonts/VictorMono.tar.xz",
     "Attachments/Fonts/Recursive/README.md",
     "Attachments/Fonts/JetBrainsMono/README.md",
-    "Attachments/Fonts/ComicShannsMono/README.md",
-    "Attachments/Fonts/ComicShannsMono/LICENSE.md",
     "Attachments/image_0.png",
     "Attachments/image.png",
     "Attachments/Pasted image 20240929132349.png",
