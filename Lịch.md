@@ -1,0 +1,2 @@
+- [ ] Làm khung báo cáo đồ án cơ sở 4
+- [ ] Làm khung HateClipper
