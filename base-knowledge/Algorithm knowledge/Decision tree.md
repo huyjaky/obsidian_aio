@@ -54,7 +54,7 @@ như ở trên ta có thể thấy rằng là Tree score càng nhỏ càng tốt
 
 #### Vâỵ làm sao để tìm được $\alpha$ để tìm được tree score tối ưu nhất ?
 
--> Dùng [[K-fold]]
+-> Dùng [[K-fold cross-validation]]
 -> Chúng ta tăng từ từ $\alpha$ lên trong lúc chặt nhánh để xem tree score chỗ nào tốt nhất 
 <span style="background:#ff4d4f">warning</span>: $\alpha$ quyết định tree score tức hình dáng của cây như thế nào 
 ![[Excalidraw/Decision tree regression.excalidraw.md#^group=LNsv09uQ|Cấu  trúc tổng quát]]
@@ -68,7 +68,7 @@ mũi tên màu đen đi từ trên xuống dưới
 
 ## Đánh giá cây
 
-ở đây ta dùng [[K-fold]] để có thể đánh giá cây bằng cách chia bộ dữ liệu ra và train K lần giống như một mô hình học máy bình thường 
+ở đây ta dùng [[K-fold cross-validation]] để có thể đánh giá cây bằng cách chia bộ dữ liệu ra và train K lần giống như một mô hình học máy bình thường 
 -> Đánh giá cây để có thể cắt tỉa cây một cách chính xác (cắt tỉa đến khi acc từ bộ test là lớn nhất)
 
 ## Advantage và disadvantage của decision tree 

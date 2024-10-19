@@ -1,5 +1,6 @@
 #tree #data #Terminology 
 ## Cây quyết định với K-fold cross-validation
+![[Random Forest_AIO2024.pdf#page=79&rect=18,22,582,433|Random Forest_AIO2024, p.79]]
 
 ---
 

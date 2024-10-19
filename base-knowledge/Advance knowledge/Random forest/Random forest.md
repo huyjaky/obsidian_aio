@@ -58,3 +58,5 @@ url: "https://www.geeksforgeeks.org/python-pandas-dataframe-shift/"
 ```
 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=B1BAdPq7|image2|800]]
+
+#### Đối với những loại dữ liệu kiểu này thì 
