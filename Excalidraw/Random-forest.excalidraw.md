@@ -11,7 +11,7 @@ tags: [excalidraw]
 ## Text Elements
 Chia bộ dataset ra làm 
 3 phần tương ứng với 3 
-cây Decision tree [[Bootstrap sampling]] ^Nx2L500H
+cây Decision tree [[Boostrap sampling]] ^Nx2L500H
 
 Ta có hai loại train là 
 - Homogenous (Đồng nhất)
@@ -132,7 +132,7 @@ Dữ liệu đầu vào ^N00dffAs
 Dữ liệu dự đoán ^WR9PbsvF
 
 ## Element Links
-Nx2L500H: [[Bootstrap sampling]]
+Nx2L500H: [[Boostrap sampling]]
 
 V78bVH9T: [[Proximity matrix]]
 
