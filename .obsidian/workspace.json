@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 60,
+                "page": 64,
                 "left": -17,
-                "top": 501,
+                "top": 516,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -39,12 +39,14 @@
             "id": "7fc986d596e32c16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Random-forest.excalidraw.md"
+                "file": "Terminology/Proximity matrix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Random-forest.excalidraw"
+              "icon": "lucide-file",
+              "title": "Proximity matrix"
             }
           },
           {
@@ -235,11 +237,11 @@
   },
   "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "Terminology/Proximity matrix.md",
-    "Terminology/Precision.md",
-    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Excalidraw/Random-forest.excalidraw.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "Terminology/Proximity matrix.md",
+    "Terminology/Precision.md",
     "Terminology/Recall.md",
     "Terminology/Norm.md",
     "Readme.md",
