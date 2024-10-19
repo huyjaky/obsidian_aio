@@ -61,10 +61,55 @@
               },
               "icon": "lucide-file",
               "title": "Random forest"
-            }
+            },
+            "group": "a05f6205f4ffef51"
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "9d1aa27d35670aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369e232553b596fe",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Random forest"
+            },
+            "group": "a05f6205f4ffef51"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,11 +271,12 @@
   "active": "0f84f577ab5ae234",
   "lastOpenFiles": [
     "Excalidraw/Random-forest.excalidraw.md",
+    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "Terminology/K-fold cross-validation.md",
+    "base-knowledge/Algorithm knowledge/Decision tree.md",
     "Terminology/Time-series cross-validation.md",
     "Terminology/Proximity matrix.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-    "Terminology/K-fold cross-validation.md",
-    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
     "Terminology/Precision.md",
     "Terminology/Recall.md",
