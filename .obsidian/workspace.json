@@ -26,10 +26,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 59,
-                "left": -7,
-                "top": 487,
-                "zoom": 0.9
+                "page": 60,
+                "left": -17,
+                "top": 501,
+                "zoom": 0.88125
               },
               "icon": "lucide-file-text",
               "title": "Random Forest_AIO2024"
@@ -39,14 +39,12 @@
             "id": "7fc986d596e32c16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Terminology/Proximity matrix.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Random-forest.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Proximity matrix"
+              "icon": "excalidraw-icon",
+              "title": "Random-forest.excalidraw"
             }
           },
           {
@@ -237,13 +235,13 @@
   },
   "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "Terminology/Recall.md",
     "Terminology/Proximity matrix.md",
+    "Terminology/Precision.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Excalidraw/Random-forest.excalidraw.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
+    "Terminology/Recall.md",
     "Terminology/Norm.md",
-    "Terminology/Precision.md",
     "Readme.md",
     "AIO notebook/Decision tree classification/DecisionTree_Classification_AIO2024.pdf",
     "Terminology/Bootstrap sampling.md",
@@ -274,7 +272,6 @@
     "base-knowledge/Algorithm knowledge/K-Means.md",
     "Math/Entropy.md",
     "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Terminology/Bias.md",
     "Attachments/image_0.png",
     "Attachments/image.png",
     "Attachments/Pasted image 20240929132349.png",
