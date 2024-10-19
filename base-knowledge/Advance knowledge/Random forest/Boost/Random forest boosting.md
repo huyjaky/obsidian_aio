@@ -22,3 +22,5 @@ hay không và những sample mà cây này dự
 đoán không đúng sẽ được gom lại và chuyển
 thành đầu vào cho cây tiếp theo cho đến 
 khi đã dự đoán đúng hoàn toàn
+![[Adaboost_AIO2024.pdf#page=14&rect=4,98,948,397|Adaboost_AIO2024, p.14]]
+
