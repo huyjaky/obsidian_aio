@@ -26,9 +26,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
-                "page": 64,
+                "page": 47,
                 "left": -17,
-                "top": 516,
+                "top": 444,
                 "zoom": 0.88125
               },
               "icon": "lucide-file-text",
@@ -237,10 +237,11 @@
   },
   "active": "0f84f577ab5ae234",
   "lastOpenFiles": [
-    "Terminology/Proximity matrix.md",
-    "Excalidraw/Random-forest.excalidraw.md",
     "AIO notebook/Random Forest/Major version/Random Forest_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "AIO notebook/Random Forest/TA version/Slide-Random-Forest_v2.pdf",
+    "Terminology/Proximity matrix.md",
+    "Excalidraw/Random-forest.excalidraw.md",
     "Terminology/Precision.md",
     "Terminology/Recall.md",
     "Terminology/Norm.md",
@@ -259,7 +260,6 @@
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontPropo-Bold.ttf",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-Regular.ttf",
     "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-Italic.ttf",
-    "Attachments/Fonts/Recursive/RecMonoSmCasualNerdFontMono-BoldItalic.ttf",
     "Attachments/Fonts/Recursive/README.md",
     "Attachments/Fonts/JetBrainsMono/README.md",
     "Attachments/Fonts/ComicShannsMono/README.md",

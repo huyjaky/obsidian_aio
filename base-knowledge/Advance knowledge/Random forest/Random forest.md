@@ -7,10 +7,11 @@
 ![[Excalidraw/Random-forest.excalidraw.md#^group=H5jjdAf9|Pretrain Random Forest | 800]]
 
 Lưu ý:
-- Vì dùng [[Bootstrap sampling]] nó random nên có thể có những sampling không được random ra và không được trainning, ta có thể dùng những sample đó để làm bộ test 
+- Vì dùng [[Bootstrap sampling]] nó random nên có thể có những sampling không được random ra và không được trainning, ta có thể dùng những sample đó để làm bộ test OOB (out-of-bag)
+	- ![[Random Forest_AIO2024.pdf#page=47&rect=111,8,925,435|Random Forest_AIO2024, p.47|400]]
 - Trong dữ liệu thực tế thì bị những sample có giá trị <font color="#f79646">nan/null</font>. Để giải quyết chúng ta có thể dùng <font color="#f79646">trung bình</font> của hàng trên và dưới 
 	- ![[Random Forest_AIO2024.pdf#page=49&rect=11,43,946,409|Random Forest_AIO2024, p.49|400]]
-- Nhưng đối với những dữ liệu thuộc kiểu class như dưới thì ta phải dùng [[Proximity matrix]]
+- Ta có một cách khác để tìm null/nan value là dùng [[Proximity matrix]] (<font color="#f79646">Bình thường trong cây quyết định thì dùng cách này nhiều hơn</font>)
 
 #### Chuẩn bị dữ liệu 
 ![[Excalidraw/Random-forest.excalidraw.md#^group=r8qh9MGj|Image2|800]]
@@ -35,3 +36,8 @@ Các trường hợp:
 
 #### Stacking method
 ![[Random Forest_AIO2024.pdf#page=28&rect=169,38,898,537|Random Forest_AIO2024, p.28]]
+
+---
+## Random forest giải quyết overfitting hoặc underfitting ntn?
+
+-> <span style="background:#b1ffff">bằng cách lấy trung bình nhiều cây quyết định, làm giảm phương sai</span>
