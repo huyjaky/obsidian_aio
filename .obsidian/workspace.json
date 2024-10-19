@@ -48,9 +48,23 @@
               "icon": "excalidraw-icon",
               "title": "Boosting.excalidraw"
             }
+          },
+          {
+            "id": "a96698b3c62588b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/Dataset cho supervise learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataset cho supervise learning"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b71ddc40f152591",
+  "active": "a96698b3c62588b3",
   "lastOpenFiles": [
-    "Terminology/Boostrap sampling.md",
+    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+    "Terminology/Dataset cho supervise learning.md",
+    "Terminology/Time-series cross-validation.md",
     "Excalidraw/Boosting.excalidraw.md",
+    "Terminology/Boostrap sampling.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "AIO notebook/AdaBoost & Gradient Boost/london_energy.csv",
@@ -225,9 +242,7 @@
     "AIO notebook/AdaBoost & Gradient Boost/Friday-20241019T100144Z-001/Friday",
     "AIO notebook/AdaBoost & Gradient Boost/Friday-20241019T100144Z-001",
     "Excalidraw/Random-forest.excalidraw.md",
-    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Terminology/Proximity matrix.md",
-    "Terminology/Time-series cross-validation.md",
     "Terminology/Feed forward.md",
     "base-knowledge/Pandas knowledge/Deal with missing values.md",
     "base-knowledge/Numpy.md",
@@ -248,7 +263,6 @@
     "Excalidraw/Bias.excalidraw.md",
     "Attachments/Pasted image 20241018110906.png",
     "Attachments/Pasted image 20241018110846.png",
-    "Attachments/Fonts/Recursive/README.md",
     "Attachments/image_0.png",
     "Attachments/image.png",
     "Attachments/Pasted image 20240929132349.png",
