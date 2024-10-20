@@ -53,10 +53,12 @@
             "id": "2719e1eca1df5daa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-14 11.19.23.excalidraw"
             }
           }
         ],
