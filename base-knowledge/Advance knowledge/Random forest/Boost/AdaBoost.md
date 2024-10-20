@@ -10,6 +10,9 @@
 - những [[Stump]] không có weight bằng nhau trong [[Random forest]] [[Stump]] 
 => những [[Stump]] có độ lỗi cũng như bị [[Overfitting]] và [[Underfitting]] bị giảm ảnh hưởng tới toàn bộ [[Random forest]] 
 
+
+
+
 ## AdaBoost hoạt động như thế nào?
 
 ![[Adaboost_AIO2024.pdf#page=24&rect=11,91,802,455|Adaboost_AIO2024, p.24]]

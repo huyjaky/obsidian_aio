@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base-knowledge/Advance knowledge/Random forest/Random forest.md",
+                "file": "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random forest"
+              "title": "AdaBoost"
             }
           },
           {
@@ -225,18 +225,18 @@
   },
   "active": "4adea6fea985f33e",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
+    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "Lịch.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "Terminology/Stump.md",
     "Terminology/Dataset cho supervise learning.md",
     "Excalidraw/Boosting.excalidraw.md",
     "Terminology/Boostrap sampling.md",
     "Attachments/Pasted image 20241019172234.png",
-    "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "Terminology/Time-series cross-validation.md",
     "AIO notebook/AdaBoost & Gradient Boost/london_energy.csv",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_Theory.ipynb",
