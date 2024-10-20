@@ -48,9 +48,19 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-10-14 11.19.23.excalidraw"
             }
+          },
+          {
+            "id": "2719e1eca1df5daa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,11 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc986d596e32c16",
+  "active": "2719e1eca1df5daa",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Lịch.md",
-    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "Terminology/Stump.md",
