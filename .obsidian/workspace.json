@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4adea6fea985f33e",
+  "active": "7fc986d596e32c16",
   "lastOpenFiles": [
+    "Excalidraw/Boosting.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-    "Excalidraw/Boosting.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",

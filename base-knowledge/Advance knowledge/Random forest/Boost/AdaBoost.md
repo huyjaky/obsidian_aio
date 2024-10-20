@@ -29,5 +29,11 @@ ví dụ:
 2. <font color="#f79646">AdaBoost</font> cũng vậy sau <span style="background:#b1ffff">khi tính toán xong một node thì ta phải đánh giá tiếng nói của cây đó trong việc đưa ra quyết định</span> cuối cùng dựa vào công thức:
 $$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\text{Total Error}} \right)$$
 
+#### Đánh giá
+![[Excalidraw/Boosting.excalidraw.md#^group=KfMeJ6gm|image1|800]]
+Ta có thể thấy rằng là khi cây đưa ra đánh giá thì ta thấy được có 2 sample bị dự đoán sai là PW = 167 và PW = 172. Vì ở 172 kết quả dự đoán phải là **yes** vì **yes** chiếm đa số và ở 167 cũng tương tự nhưng kết quả dự đoán phải là **no**.
+
+-> ta có $\text{Total Error} = 2$ tương ứng với 2 sample bị <font color="#f79646">dự đoán sai </font>
+-> $\text{Amount of Say} = 0.55$ 
 
 
