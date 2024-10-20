@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-                "page": 30,
+                "page": 31,
                 "left": -18,
-                "top": 457,
-                "zoom": 0.8640625
+                "top": 469,
+                "zoom": 0.8640625000000001
               },
               "icon": "lucide-file-text",
               "title": "Adaboost_AIO2024"
@@ -49,7 +49,8 @@
               "title": "Boosting.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,12 +209,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b9c31f3d03dcd7d",
+  "active": "4adea6fea985f33e",
   "lastOpenFiles": [
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
-    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Excalidraw/Boosting.excalidraw.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",

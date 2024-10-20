@@ -26,5 +26,8 @@ ví dụ:
 -> Dựa vào dữ liệu trên thì ta lấy <font color="#f79646">PATIENT WEIGHT</font> làm cây [[Stump]] gốc vì [[GINI]] tổng của nó thấp nhất so với 2 feature còn lại
 
 1. Theo như [[Random forest boosting]] thì cây trước tạo cây sau chính vì thế nó có mối liên hệ => mỗi cây sẽ có khả năng đưa ra trọng số có thể ảnh hưởng lớn hoặc bé tới kết quả quyết định
-2. <font color="#f79646">AdaBoost</font> cũng vậy sau khi tính toán xong một node thì ta phải đánh giá tiếng nói của cây đó trong việc đưa ra quyết định cuối cùng dựa vào công thức:
-	- 
+2. <font color="#f79646">AdaBoost</font> cũng vậy sau <span style="background:#b1ffff">khi tính toán xong một node thì ta phải đánh giá tiếng nói của cây đó trong việc đưa ra quyết định</span> cuối cùng dựa vào công thức:
+$$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\text{Total Error}} \right)$$
+
+
+
