@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-                "page": 31,
+                "page": 33,
                 "left": -18,
-                "top": 469,
-                "zoom": 0.8640625000000001
+                "top": 465,
+                "zoom": 0.8640625
               },
               "icon": "lucide-file-text",
               "title": "Adaboost_AIO2024"
@@ -211,9 +211,9 @@
   },
   "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "Excalidraw/Boosting.excalidraw.md",
-    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
+    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "Excalidraw/Boosting.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
