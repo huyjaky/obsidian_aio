@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-                "page": 40,
+                "page": 41,
                 "left": -18,
-                "top": 10,
+                "top": 9,
                 "zoom": 0.8640625
               },
               "icon": "lucide-file-text",
@@ -63,8 +63,7 @@
               "title": "Boostrap sampling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,10 +222,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc986d596e32c16",
+  "active": "8b9c31f3d03dcd7d",
   "lastOpenFiles": [
-    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Excalidraw/Boosting.excalidraw.md",
     "Terminology/Boostrap sampling.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",

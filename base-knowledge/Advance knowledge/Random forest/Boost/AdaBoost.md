@@ -46,3 +46,6 @@ $$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\
 #### Tạo ra bộ dữ liệu cho cây tiếp theo
 
 ![[Excalidraw/Boosting.excalidraw.md#^group=qu58xuby|image|800]]
+
+-> Vậy để những cây sau có thể học thì ta cố găng random vào những sample bị dự đoán sai bằng cách <span style="background:#b1ffff">tăng weight của những sample đấy lên bằng công thức</span>:
+
