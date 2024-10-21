@@ -27,12 +27,14 @@
             "id": "7fc986d596e32c16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Boosting.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Boosting.excalidraw"
+              "icon": "lucide-file",
+              "title": "AdaBoost"
             }
           },
           {
@@ -223,8 +225,8 @@
   },
   "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "Excalidraw/Boosting.excalidraw.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Terminology/Boostrap sampling.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
