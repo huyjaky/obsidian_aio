@@ -36,6 +36,16 @@
             }
           },
           {
+            "id": "cfc3d3c0afec5db1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "4adea6fea985f33e",
             "type": "leaf",
             "state": {
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,17 +231,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc986d596e32c16",
+  "active": "cfc3d3c0afec5db1",
   "lastOpenFiles": [
+    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
+    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Math/MSE (mean of square error).md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
-    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
-    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "Excalidraw/Boosting.excalidraw.md",
     "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "Terminology/Boostrap sampling.md",
-    "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Lịch.md",
