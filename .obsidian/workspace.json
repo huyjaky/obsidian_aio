@@ -15,9 +15,9 @@
               "state": {
                 "file": "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
                 "page": 33,
-                "left": -18,
-                "top": 465,
-                "zoom": 0.8640625
+                "left": -17,
+                "top": 81,
+                "zoom": 0.8812500000000002
               },
               "icon": "lucide-file-text",
               "title": "Adaboost_AIO2024"
@@ -49,8 +49,7 @@
               "title": "Boosting.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc986d596e32c16",
+  "active": "8b9c31f3d03dcd7d",
   "lastOpenFiles": [
-    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Excalidraw/Boosting.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
     "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
