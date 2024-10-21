@@ -51,5 +51,6 @@ $$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\
 $$
 \text{New Sample Weight} = \text{sample weight} \times e^{\text{amount of say}}
 $$
+- $\text{sample weight}$ <font color="#f79646">là weight của cây trước đó</font>
 
-
+![[Excalidraw/Boosting.excalidraw.md#^group=0D4zCceT|image|800]]
