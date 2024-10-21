@@ -55,3 +55,5 @@ $$
 ![[Adaboost_AIO2024.pdf#page=45&rect=130,102,918,435|Adaboost_AIO2024, p.45]]
 ![[Excalidraw/Boosting.excalidraw.md#^group=0D4zCceT|image|800]]
 
+## Tổng quan công thức 
+![[Excalidraw/Boosting.excalidraw.md#^group=3WTgSXd5|image|800]]
