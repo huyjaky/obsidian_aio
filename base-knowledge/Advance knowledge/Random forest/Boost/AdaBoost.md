@@ -31,9 +31,14 @@ $$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\
 
 #### Đánh giá
 ![[Excalidraw/Boosting.excalidraw.md#^group=KfMeJ6gm|image1|800]]
-Ta có thể thấy rằng là khi cây đưa ra đánh giá thì ta thấy được có 2 sample bị dự đoán sai là PW = 167 và PW = 172. Vì ở 172 kết quả dự đoán phải là **yes** vì **yes** chiếm đa số và ở 167 cũng tương tự nhưng kết quả dự đoán phải là **no**.
+- Ta có thể thấy rằng là khi cây đưa ra đánh giá thì ta thấy được có 2 sample bị dự đoán sai là PW = 167 và PW = 172. Vì ở 172 kết quả dự đoán phải là **yes** vì **yes** chiếm đa số và ở 167 cũng tương tự nhưng kết quả dự đoán phải là **no**.
 
--> ta có $\text{Total Error} = 2$ tương ứng với 2 sample bị <font color="#f79646">dự đoán sai </font>
--> $\text{Amount of Say} = 0.55$ 
+- Ta có $\text{Total Error} = 2$ tương ứng với 2 sample bị <font color="#f79646">dự đoán sai </font>
+- $\text{Amount of Say} = 0.55$ 
+
+![[Adaboost_AIO2024.pdf#page=36&rect=5,0,925,454|Adaboost_AIO2024, p.36]]
+
+- Như ta có thể thấy rằng là $\text{Amount of Say} = 0$ chứng tỏ là tiếng nói của nó không có trong [[Random forest boosting]] bởi vì số lượng dự đoán sai == với số lượng dự đoán đúng là mô hình mơ hồ nên tiếng nói quyết định của nó là không có 
+![[Adaboost_AIO2024.pdf#page=37&rect=1,112,959,428|Adaboost_AIO2024, p.37]]
 
 
