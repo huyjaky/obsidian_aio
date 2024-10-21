@@ -51,6 +51,7 @@ $$\text{Amount of Say} = \frac{1}{2} \log \left( \frac{1 - \text{Total Error}}{\
 $$
 \text{New Sample Weight} = \text{sample weight} \times e^{\text{amount of say}}
 $$
-- $\text{sample weight}$ <font color="#f79646">là weight của cây trước đó</font>
-
+- $\text{sample weight}$ <font color="#f79646">là weight của cây trước đó</font> (impove error)
+![[Adaboost_AIO2024.pdf#page=45&rect=130,102,918,435|Adaboost_AIO2024, p.45]]
 ![[Excalidraw/Boosting.excalidraw.md#^group=0D4zCceT|image|800]]
+
