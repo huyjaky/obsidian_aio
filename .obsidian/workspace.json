@@ -27,12 +27,14 @@
             "id": "7fc986d596e32c16",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md"
+                "file": "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-14 11.19.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "Decision tree regression"
             }
           },
           {
@@ -223,13 +225,15 @@
   },
   "active": "7fc986d596e32c16",
   "lastOpenFiles": [
-    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
-    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "Math/MSE (mean of square error).md",
+    "base-knowledge/Advance knowledge/Decision tree/Decision tree regression.md",
     "Excalidraw/Boosting.excalidraw.md",
+    "base-knowledge/Advance knowledge/Random forest/Boost/AdaBoost.md",
+    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
+    "TrashNote/trash 2024-10-09 17.20.43.excalidraw.md",
     "AIO notebook/AdaBoost & Gradient Boost/Adaboost_AIO2024.pdf",
     "Terminology/Boostrap sampling.md",
     "base-knowledge/Advance knowledge/Random forest/Boost/Random forest boosting.md",
-    "TrashNote/Drawing 2024-10-14 11.19.23.excalidraw.md",
     "base-knowledge/Advance knowledge/Random forest/Random forest.md",
     "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md",
     "Lịch.md",
@@ -258,8 +262,6 @@
     "base-knowledge/Thư viện vẽ đồ thị.md",
     "base-knowledge/Algorithm knowledge/Wcss.md",
     "Terminology/K-fold cross-validation.md",
-    "base-knowledge/Algorithm knowledge/Decision tree.md",
-    "Terminology/Precision.md",
     "Attachments/Pasted image 20241018110906.png",
     "Attachments/Pasted image 20241018110846.png",
     "Attachments/image_0.png",

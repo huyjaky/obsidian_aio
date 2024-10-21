@@ -57,6 +57,9 @@ công thức:
 $$
 MSE = \frac{SSE}{n} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 $$
+$$
+SSE = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
+$$
 -> Công thức này để thay cho $SSE$ bên trên và dựa vào cái cày để xây dựng cây
 
 | Tiêu chí                          | SSE (Sum of Squared Errors)                                          | MSE (Mean Squared Error)                                                                               |
